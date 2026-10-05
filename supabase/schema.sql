@@ -34,10 +34,24 @@ create table if not exists public.wrong_questions (
   primary key (user_id, question_id)
 );
 
+create table if not exists public.marked_questions (
+  user_id uuid not null references auth.users(id) on delete cascade,
+  question_id text not null,
+  marked_at timestamptz not null default now(),
+  primary key (user_id, question_id)
+);
+
 alter table public.profiles enable row level security;
 alter table public.quiz_attempts enable row level security;
 alter table public.quiz_answers enable row level security;
 alter table public.wrong_questions enable row level security;
+alter table public.marked_questions enable row level security;
+
+drop policy if exists "Users manage their profile" on public.profiles;
+drop policy if exists "Users manage their attempts" on public.quiz_attempts;
+drop policy if exists "Users manage their answers" on public.quiz_answers;
+drop policy if exists "Users manage their wrong questions" on public.wrong_questions;
+drop policy if exists "Users manage their marked questions" on public.marked_questions;
 
 create policy "Users manage their profile"
   on public.profiles for all to authenticated
@@ -56,5 +70,10 @@ create policy "Users manage their answers"
 
 create policy "Users manage their wrong questions"
   on public.wrong_questions for all to authenticated
+  using ((select auth.uid()) = user_id)
+  with check ((select auth.uid()) = user_id);
+
+create policy "Users manage their marked questions"
+  on public.marked_questions for all to authenticated
   using ((select auth.uid()) = user_id)
   with check ((select auth.uid()) = user_id);
