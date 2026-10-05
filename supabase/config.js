@@ -1,0 +1,4 @@
+window.HKSI_SUPABASE_CONFIG = {
+  url: "YOUR_SUPABASE_URL",
+  anonKey: "YOUR_SUPABASE_ANON_KEY"
+};

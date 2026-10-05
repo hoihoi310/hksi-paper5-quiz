@@ -1,0 +1,802 @@
+[
+  {
+    "id": "T1-001",
+    "topic": "Topic 1",
+    "subtopic": "Regulatory Structure - Responsible Officers",
+    "difficulty": "Level 2",
+    "question": "甲資產管理有限公司計劃向證監會申請第 6 類受規管活動（就機構融資提供意見）牌照。該公司目前有三名董事，其中一名是常務董事（Executive Director），全職駐於香港並積極監督機構融資業務；另外兩名為非執行董事。公司擬僅委任該名常務董事為唯一的負責人員（RO）。根據《證券及期貨條例》（SFO），下列哪項陳述最正確？",
+    "options": {
+      "A": "甲公司完全合規，因為只要有一名駐港的常務董事擔任 RO 即可滿足監管要求。",
+      "B": "甲公司不合規，因為每類受規管活動必須獲證監會核准至少兩名負責人員，且其中至少一名須為常務董事。",
+      "C": "甲公司合規，但該 RO 必須同時取得香港交易所（SEHK）的獨立認可資格。",
+      "D": "甲公司不合規，因為為確保獨立性，負責人員必須全部由獨立非執行董事擔任。"
+    },
+    "answer": "B",
+    "explanation": "根據 SFO s. 116 及學習指南 1-18 頁 3.6 節，持牌法團就其獲發牌的每項受規管活動，必須具備至少兩名獲證監會核准為負責人員（RO）的個人，且其中至少一名必須為常務董事（Executive Director）。此外，在任何時候都必須至少有一名 RO 能親自監督該業務。",
+    "reference": "SFO s.116; HKSI Paper 5 Guide Topic 1 Section 3.6"
+  },
+  {
+    "id": "T1-002",
+    "topic": "Topic 1",
+    "subtopic": "Exclusions from Regulated Activities",
+    "difficulty": "Level 2",
+    "question": "根據 SFO 附表 5，下列哪一項活動不屬於第 6 類受規管活動（就機構融資提供意見）的法定豁免範圍？",
+    "options": {
+      "A": "某持牌法團僅向其全資擁有的附屬公司提供有關《收購守則》的合規意見。",
+      "B": "執業事務律師在處理其常規法律業務過程中，完全附帶地向客戶提供關於《上市規則》合規的意見。",
+      "C": "獨立商業顧問公司為一間非集團旗下的上市公司就收購資產的重大股本重組架構提供專業意見並收取顧問費。",
+      "D": "某獲認可財務機構（AFI）註冊進行第 1 類受規管活動，其職員完全附帶於證券交易業務向客戶提供機構融資意見。"
+    },
+    "answer": "C",
+    "explanation": "根據 SFO Schedule 5 及指南 1-17 頁 3.3 節，法定豁免包括：全資集團內部提供意見、持牌/註冊第 1 類中介人完全附帶於交易的意見、專業人士（律師、會計師、信託公司）完全附帶於執業的意見，以及透過公開報刊或廣播發布。獨立商業顧問向第三方上市公司提供重組顧問服務不屬於豁免範圍，必須持有第 6 類牌照。",
+    "reference": "SFO Schedule 5; HKSI Paper 5 Guide Topic 1 Section 3.3"
+  },
+  {
+    "id": "T1-003",
+    "topic": "Topic 1",
+    "subtopic": "CFA Code - Compliance Function",
+    "difficulty": "Level 2",
+    "question": "根據《機構融資顧問操守準則》（CFA Code），一家規模較小、人手精簡的持牌機構融資顧問，其合規職能（Compliance Function）應如何安排才合規？",
+    "options": {
+      "A": "必須強制聘請獨立於高級管理層的專職外部合規審計師擔任合規主管。",
+      "B": "準則原則上要求設立由獨立合規主任領導的合規職能；但如有必要，該合規職能可由高級管理人員（Senior Management）兼任。",
+      "C": "合規職能必須隨時由至少兩名管理人員共同執行，否則即構成重大違規。",
+      "D": "只要事先書面通知香港聯交所，該公司即可免除設立合規職能。"
+    },
+    "answer": "B",
+    "explanation": "依據 CFA Code 第 2 段及指南 1-31 頁 4.6 節，機構融資顧問須維持有效合規職能，由獨立於業務部門並直接向高級管理層匯報的合規主任主管；但在資源有限且必要的情況下，合規職能可由高級管理人員承擔。",
+    "reference": "CFA Code para 2; HKSI Paper 5 Guide Topic 1 Section 4.6"
+  },
+  {
+    "id": "T1-004",
+    "topic": "Topic 1",
+    "subtopic": "CFA Code - Managers-in-Charge (MIC)",
+    "difficulty": "Level 1",
+    "question": "根據香港證監會實施的「核心職能主管」（Managers-in-Charge, MIC）制度，下列哪一項不屬於法定的八項核心職能之一？",
+    "options": {
+      "A": "整體管理監督（Overall management oversight）",
+      "B": "業務推廣與客戶公關（Marketing and public relations）",
+      "C": "打擊洗錢及恐怖分子資金籌集（AML/CFT）",
+      "D": "資訊科技（Information technology）"
+    },
+    "answer": "B",
+    "explanation": "指南 1-31 至 1-32 頁 4.7 節列出 8 項核心職能：整體管理監督、關鍵業務線、營運控制及覆核、風險管理、財務及會計、資訊科技、合規、打擊洗錢及恐怖分子資金籌集。市場推廣及公關並非法定核心職能之一。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 4.7"
+  },
+  {
+    "id": "T1-005",
+    "topic": "Topic 1",
+    "subtopic": "Market Misconduct - Insider Dealing Defences",
+    "difficulty": "Level 3",
+    "question": "某持牌金融機構的自營交易部在二級市場買入乙上市公司的股份。當日，該機構旗下的機構融資團隊正秘密擔任乙公司重大溢價收購案的財務顧問，並持有未公開的內幕消息。證監會對此自營交易啟動市場失當行為調查。該機構若要成功援引「有效中國牆」（Chinese Wall）作為免責抗辯，必須證明下列哪一項條件？",
+    "options": {
+      "A": "該筆自營交易最終錄得投資虧損而非盈利。",
+      "B": "實質參與買賣決策及執行交易的人士，在交易發生時並不知悉且未持有該內幕消息，且機構已設立並有效執行隔離該消息的物理及功能壁壘。",
+      "C": "乙公司董事會事先以書面形式同意該金融機構進行自營買賣。",
+      "D": "該機構的持牌負責人員在交易執行後 24 小時內向聯交所提交了披露報告。"
+    },
+    "answer": "B",
+    "explanation": "根據 SFO s. 270/291 及指南 1-22 頁 3.23(a) 節，法人團體援引中國牆抗辯時，必須證明實際決定及進行交易的僱員或董事在關鍵時間並無持有該內幕消息，且公司有行之有效的實質與功能防護措施（如物理隔離、不同團隊）防止機密外洩。",
+    "reference": "SFO ss. 270, 291; HKSI Paper 5 Guide Topic 1 Section 3.23(a)"
+  },
+  {
+    "id": "T1-006",
+    "topic": "Topic 1",
+    "subtopic": "Market Misconduct - Misleading Information",
+    "difficulty": "Level 2",
+    "question": "根據 SFO 第 277 條（民事市場失當行為）及第 298 條（刑事罪行），關於散布虛假或具誤導性資料以誘使交易的責任，下列敘述何者最正確？",
+    "options": {
+      "A": "刑事法律責任（第 298 條）的構成要件中，涵蓋了單純「疏忽」（Negligence）的情形。",
+      "B": "該條文僅適用於上市公司本身，協助編制公開文件的機構融資顧問無須承擔法律責任。",
+      "C": "在民事法庭或市場失當行為審裁處（MMT）的層面，只要披露實質虛假或誤導資料的人士屬於知情、罔顧或「疏忽」，即可構成市場失當行為。",
+      "D": "只要相關資料最終未導致證券價格實質波動，即便資料重大失實亦不構成違法。"
+    },
+    "answer": "C",
+    "explanation": "根據 SFO ss. 277 & 298 以及指南 1-21 頁 3.19 及 1-22 至 1-23 頁 3.24 節，第 XIII 部（民事/MMT）涵蓋了「明知、罔顧或疏忽」披露可能誘使交易的重大虛假或誤導性資料；但第 XIV 部（刑事）則排除單純「疏忽」，必須具備明知或罔顧意圖。機構融資顧問若參與編制失實文件同樣可被追究責任。",
+    "reference": "SFO ss. 277, 298; HKSI Paper 5 Guide Topic 1 Section 3.19, 3.24"
+  },
+  {
+    "id": "T1-007",
+    "topic": "Topic 1",
+    "subtopic": "Disclosure of Interests - Part XV SFO",
+    "difficulty": "Level 2",
+    "question": "某非董事投資者持有丙香港上市公司 4.9% 的有投票權股份。5 月 5 日（週一），該投資者在市場增持股份至 5.3%；隨後在 5 月 15 日（週四），其將持股量進一步增加至 5.8%。根據 SFO 第 XV 部，該投資者：",
+    "options": {
+      "A": "無須向聯交所或公司作任何申報，因為總持股量未達到 10%。",
+      "B": "須在 5 月 5 日起計的 3 個營業日內就跨越 5% 門檻作出申報；但 5 月 15 日由 5.3% 增至 5.8% 則無須申報。",
+      "C": "兩次增持均必須在相關交易日後的 10 個營業日內分別完成申報。",
+      "D": "必須在 5 月 15 日當天即時暫停在該公司的股份交易。"
+    },
+    "answer": "B",
+    "explanation": "根據 SFO Part XV 及指南 1-23 至 1-24 頁 3.30–3.33 節，大股東持股申報門檻為 5%，須於 3 個營業日內通知上市公司及聯交所。跨越 5% 之後，只有持股百分比跨越「整數百分點」（Whole percentage point，例如突破 6%）或降至 5% 以下才須再申報，從 5.3% 增至 5.8% 仍在 5% 水平內，無須申報。",
+    "reference": "SFO Part XV; HKSI Paper 5 Guide Topic 1 Section 3.30-3.33"
+  },
+  {
+    "id": "T1-008",
+    "topic": "Topic 1",
+    "subtopic": "Inside Information Disclosure - Safe Harbours",
+    "difficulty": "Level 3",
+    "question": "上市公司丁正與潛在買方進行極其機密的收購談判，該交易若達成將構成重大收購事項。下列哪種情況下，丁公司不能依據 SFO 第 307D 條的法定安全港（Safe Harbour）條款免除即時公開披露內幕消息的義務？",
+    "options": {
+      "A": "談判處於未完成階段，丁公司採取了合理的保密措施，且談判雙方均簽署了嚴格的保密協議。",
+      "B": "市場出現極為具體且詳盡的傳媒報道，準確披露了談判各方主體、作價及核心條款，且丁公司股份出現異常價格及成交量波動。",
+      "C": "該未完成談判屬於商業機密，且目前並無任何跡象顯示機密已經外洩。",
+      "D": "丁公司的董事在知悉該談判後，即時成立內部委員會審議保密控制程序。"
+    },
+    "answer": "B",
+    "explanation": "依據 SFO s. 307D 及指南 1-25 頁 3.36 與 1-28 頁 3.51 節，未完成談判或商業秘密可享安全港豁免，但其絕對前提為「機密性得以實質維持」。若市場已出現廣泛、具體且準確的傳媒報道或傳聞，即證明機密性已經喪失，上市公司必須立即終止依賴安全港並向公眾發布正式公告。",
+    "reference": "SFO s.307D; HKSI Paper 5 Guide Topic 1 Section 3.36, 3.51"
+  },
+  {
+    "id": "T1-009",
+    "topic": "Topic 1",
+    "subtopic": "Corporate Governance Code - Comply or Explain",
+    "difficulty": "Level 2",
+    "question": "根據聯交所《企業管治守則》（Corporate Governance Code, MBLR Appendix C1），下列哪項屬於守則條文（Code Provisions）所明確要求的董事會常規，發行人若偏離該常規必須於報告中詳細「解釋」（Comply or Explain）？",
+    "options": {
+      "A": "高級管理層成員的個人薪酬細節必須按名披露於年報內。",
+      "B": "董事會須每兩年至少進行一次正式的董事會績效評估。",
+      "C": "執行董事薪酬的大部分必須強制與公司整體業績及個人績效掛鉤。",
+      "D": "董事會主席與行政總裁的職色必須由同一名具備豐富行業經驗的人士兼任以提高決策效率。"
+    },
+    "answer": "B",
+    "explanation": "根據指南 1-13 頁 2.8(b) 節及 MBLR Appendix C1，董事會至少每兩年評估一次績效屬於「守則條文」（不遵守須解釋）；而 A 與 C 屬於「建議最佳常規」（Recommended Best Practices，屬自願性質，見 2.9 節）；D 則違反常規，守則條文規定主席與行政總裁的角色應予分開。",
+    "reference": "MBLR Appendix C1; HKSI Paper 5 Guide Topic 1 Section 2.8(b), 2.9"
+  },
+  {
+    "id": "T1-010",
+    "topic": "Topic 1",
+    "subtopic": "Companies Ordinance - Capital Reduction",
+    "difficulty": "Level 3",
+    "question": "一間在香港註冊成立的上市公司擬進行股本減少（Reduction of Share Capital）。若該公司選擇採用《公司條例》（Cap. 622）下的「無須經法院認可的程序」（Court-free procedure），必須符合下列哪項法定要件？",
+    "options": {
+      "A": "必須由全體董事簽署償付能力陳述書（Solvency Statement），且簽署日期不得早於股東特別決議案通過當日前 15 天。",
+      "B": "只要取得獨立非執行董事過半數書面同意，即無須通過股東特別決議案。",
+      "C": "必須將全體債權人名單提呈香港高等法院原訟法庭尋求最終蓋印確認。",
+      "D": "該減資款項必須全數用於向控股股東回購未上市的優先股。"
+    },
+    "answer": "A",
+    "explanation": "根據《公司條例》ss. 209–232 及指南 1-27 頁 5.14–5.15 節，無須經法院認可的減資程序要求通過特別決議案，且全體董事必須簽署符合法定格式的償付能力陳述書，該陳述書的日期不得早於特別決議案通過之日前 15 天。債權人或未贊成的成員在此程序下有權向法庭申請撤銷決議案以維護權益。",
+    "reference": "Companies Ordinance ss. 209-232; HKSI Paper 5 Guide Topic 1 Section 5.14-5.15"
+  },
+  {
+    "id": "T1-011",
+    "topic": "Topic 1",
+    "subtopic": "Regulatory Objectives of the SFC",
+    "difficulty": "Level 1",
+    "question": "根據《證券及期貨條例》（SFO）第 4 條，下列哪一項不是證監會（SFC）的法定監管目標？",
+    "options": {
+      "A": "維持和促進證券期貨業的公平性、效率、競爭力、透明度及秩序良好。",
+      "B": "為投資大眾提供保障並盡量減少在業界內的犯罪及失當行為。",
+      "C": "直接為香港上市公司的股價提供最低保障機制以消除所有二級市場投資風險。",
+      "D": "減少業界的系統性風險，並協助財政司司長維持香港的金融穩定。"
+    },
+    "answer": "C",
+    "explanation": "根據 SFO s. 4 及指南 1-4 頁 1.4 節，證監會的法定目標包括維持市場公平與效率、促進公眾了解、保障投資大眾、減少犯罪與失當行為、減少系統性風險及協助維持金融穩定。證監會絕不為證券價格提供兜底或消除商業投資風險。",
+    "reference": "SFO s.4; HKSI Paper 5 Guide Topic 1 Section 1.4"
+  },
+  {
+    "id": "T1-012",
+    "topic": "Topic 1",
+    "subtopic": "SFC Corporate Finance Division - Functions",
+    "difficulty": "Level 2",
+    "question": "證監會的「企業融資部」（Corporate Finance Division）主要負責多項與資本市場密切相關的職能。下列哪一項屬於該部門的法定職責？",
+    "options": {
+      "A": "負責全天候實時監控股票與衍生工具市場的異常交易活動以調查內幕交易。",
+      "B": "與香港聯交所（SEHK）共同審核新上市申請，並依據《證券及期貨（股票市場上市）規則》（SMLR）進行雙重存檔監管。",
+      "C": "處理所有中介機構個人代表及負責人員的日常發牌申請審批。",
+      "D": "監督並管理投資者賠償基金的日常運作及款項撥付。"
+    },
+    "answer": "B",
+    "explanation": "依據指南 1-5 頁 1.10 節，企業融資部負責與聯交所共同審閱上市申請、執行《收購守則》、監察上市公司公告、審批非上市股份/債權證的招股章程，並依據 SMLR 於嚴重個案早期介入。A 選項屬法規執行部職責；C 選項屬中介機構部（發牌科）職責；D 選項屬市場監察部職責。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 1.10, 1.12, 1.14, 1.15"
+  },
+  {
+    "id": "T1-013",
+    "topic": "Topic 1",
+    "subtopic": "Market Misconduct Tribunal (MMT) Sanctions",
+    "difficulty": "Level 2",
+    "question": "市場失當行為審裁處（MMT）是由高等法院法官及兩名成員組成的法定審裁處。根據 SFO 第 XIII 部，MMT 在裁定某人從事市場失當行為後，無權作出下列哪項命令？",
+    "options": {
+      "A": "判處該違規者即時入獄監禁 5 年。",
+      "B": "發出取消資格令，禁止其擔任上市公司董事或參與管理，最長為期 5 年。",
+      "C": "發出「冷淡對待令」（Cold shoulder order），禁止其在香港市場進行投資或交易，最長為期 5 年。",
+      "D": "命令其向政府交出因市場失當行為獲取的利潤或避免的損失，並附加複利計算的利息。"
+    },
+    "answer": "A",
+    "explanation": "根據 SFO 第 XIII 部及指南 1-20 至 1-21 頁 3.17–3.18 節，MMT 屬於民事審裁機制，其權力包括取消董事資格（最長5年）、冷淡對待令（最長5年）、交出非法所得加複利、支付政府及證監會調查費用等。監禁刑罰屬於 SFO 第 XIV 部刑事法庭（法院）的判決權力，MMT 無權判處監禁。",
+    "reference": "SFO Part XIII, ss. 257, 281; HKSI Paper 5 Guide Topic 1 Section 3.17-3.18"
+  },
+  {
+    "id": "T1-014",
+    "topic": "Topic 1",
+    "subtopic": "Securities and Futures Appeals Tribunal (SFAT)",
+    "difficulty": "Level 1",
+    "question": "證券及期貨事務上訴審裁處（SFAT）的主要法定職能是：",
+    "options": {
+      "A": "審理所有由律政司提起的市場失當行為刑事檢控案件。",
+      "B": "作為法定上訴機構，覆核由證監會（SFC）或香港金融管理局（HKMA）所作出的特定監管決定（如發牌及紀律處分決定）。",
+      "C": "審理所有關於聯交所上市委員會拒絕上市申請的第一審上訴案。",
+      "D": "直接代行聯交所上市覆核委員會的全部日常職能。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-7 頁 1.20 節指出，SFAT 是根據 SFO 設立的法定上訴機構，專門聆訊針對證監會或金管局作出的「特定決定」（Specified decisions，如牌照審批、條件施加、紀律處分罰款等）之上訴（見 SFO 附表 8 第 2 及 3 部）。",
+    "reference": "SFO Schedule 8; HKSI Paper 5 Guide Topic 1 Section 1.20"
+  },
+  {
+    "id": "T1-015",
+    "topic": "Topic 1",
+    "subtopic": "Dual Filing Regime (SMLR)",
+    "difficulty": "Level 3",
+    "question": "在香港的「雙重存檔制度」（Dual Filing Regime）下，根據《證券及期貨（股票市場上市）規則》（SMLR），下列敘述何者最正確？",
+    "options": {
+      "A": "申請人必須分別獨立將兩套內容不同的文件親身呈交至證監會及聯交所，兩者互不相干。",
+      "B": "上市申請人向聯交所提交上市申請時，授權聯交所將相關材料副本送交證監會存檔，證監會可在法定 10 個營業日內對披露不足提出反對。",
+      "C": "雙重存檔僅適用於 GEM 上市申請，主板上市申請完全不受 SMLR 規管。",
+      "D": "若證監會依據 SMLR 行使否決權拒絕公司上市，申請人無權向任何機構提出上訴。"
+    },
+    "answer": "B",
+    "explanation": "依據指南 1-10 頁 1.35 節、2-34 頁 7.23–7.29 節，SMLR 建立了雙重存檔制度。申請人授權聯交所將文件轉交證監會，證監會可在 10 個營業日內就披露不足提出意見或反對。若證監會依據 SMLR s. 6(2) 反對上市，申請人有權向證券及期貨事務上訴審裁處（SFAT）提出上訴。",
+    "reference": "SMLR ss. 3, 5, 6; HKSI Paper 5 Guide Topic 1 Section 1.35; Topic 2 Section 7.23-7.29"
+  },
+  {
+    "id": "T1-016",
+    "topic": "Topic 1",
+    "subtopic": "Legal Status of Listing Rules",
+    "difficulty": "Level 2",
+    "question": "關於香港聯交所《上市規則》（Listing Rules）的法律地位，下列哪一項說明最準確？",
+    "options": {
+      "A": "《上市規則》是由香港立法會制定的成文法規，具有法例同等強制執行力，聯交所可直接向法庭起訴違規董事並判處罰款。",
+      "B": "《上市規則》本質上屬於合約性質（以合約形式約束發行人及其關聯人士），本身並非法例，但透過 SMLR 獲得了一定的法定支持（Statutory Backing）。",
+      "C": "《上市規則》是由香港金融管理局獨立發布的行政命令，由銀行業全權監督。",
+      "D": "《上市規則》不具備任何約束力，僅為上市發行人自願參考的指引文件。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-10 頁 1.35 節明確說明，《上市規則》不是法例，聯交所不能透過法院執行規則，其基礎建立在發行人與聯交所簽訂的合約基礎上。然而，藉由 SFO 下的附屬法例 SMLR（雙重存檔制度），《上市規則》獲得了法定支持，提供虛假資料可引發 SFO 的法定法律責任。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 1.35"
+  },
+  {
+    "id": "T1-017",
+    "topic": "Topic 1",
+    "subtopic": "False Statements to Regulators (s. 384 SFO)",
+    "difficulty": "Level 2",
+    "question": "根據 SFO 第 384 條，機構融資顧問在執行職責並向證監會或聯交所提供資料時，若觸犯提供虛假或具誤導性資料的罪行，下列哪項構成法律責任？",
+    "options": {
+      "A": "該人員必須是出於惡意敲詐意圖，否則任何情況下均不承擔法律責任。",
+      "B": "只要該人員在明知情況下，或「罔顧」（Recklessly）資料在要項上是否屬虛假或具誤導性的情況下提供資料，即屬違法。",
+      "C": "只有當虛假陳述直接導致聯交所暫停交易超過 3 天時，才構成第 384 條罪行。",
+      "D": "該罪行僅追究公司秘書，任何財務顧問、保薦人或董事皆免責。"
+    },
+    "answer": "B",
+    "explanation": "依據 SFO s. 384 及指南 1-20 頁 3.14 節，任何人在要項上明知（Knowingly）或罔顧（Recklessly）而向證監會或認可交易所提供虛假或具誤導性的資料，即構成嚴重的法定刑事罪行。",
+    "reference": "SFO s.384; HKSI Paper 5 Guide Topic 1 Section 3.14"
+  },
+  {
+    "id": "T1-018",
+    "topic": "Topic 1",
+    "subtopic": "Officer Liability (s. 390 SFO)",
+    "difficulty": "Level 2",
+    "question": "根據 SFO 第 390 條，當某持牌法團被證實觸犯了 SFO 下的任何法定罪行時，其公司「高級人員」（Officer）在何種情況下亦須負上個人刑事責任？",
+    "options": {
+      "A": "只有持有該公司 50% 以上股權的高級人員才須負責。",
+      "B": "若該罪行經證實是在該高級人員的協助、教唆、慫使、促致或誘使下發生，或是在其同意、縱容或罔顧下發生，該高級人員同樣有罪。",
+      "C": "高級人員一律受公司有限責任保護，刑事責任絕對不能刺破公司面紗追究個人。",
+      "D": "只要該高級人員事後向證監會自首，其個人刑事責任即可依法自動轉移予合規主任。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-21 頁 3.21(b) 節引述 SFO s. 390 規定：凡法團觸犯 SFO 的罪行，經證明是在其高級人員（董事、經理、秘書等）的協助、教唆、慫使、促致、誘使下，或經其同意、縱容，或可歸咎於其罔顧，該高級人員與法團均屬有罪。",
+    "reference": "SFO s.390; HKSI Paper 5 Guide Topic 1 Section 3.21(b)"
+  },
+  {
+    "id": "T1-019",
+    "topic": "Topic 1",
+    "subtopic": "Takeovers and Mergers Panel - Functions",
+    "difficulty": "Level 2",
+    "question": "收購及合併委員會（Takeovers and Mergers Panel）是證監會下設的獨立諮詢委員會。下列哪一項屬於其法定/守則職能？",
+    "options": {
+      "A": "直接批准聯交所新上市公司股份代號的分配。",
+      "B": "第一審聆訊涉嫌違反《收購守則》的紀律事宜，以及應不服執行人員裁決之當事人之要求覆核該項裁決。",
+      "C": "行使刑事審判權，對內幕交易違規者判處監禁。",
+      "D": "負責每日公開審查所有上市發行人的日常財務公告。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-7 頁 1.17 節明確規定，收購及合併委員會的職能為：(1) 第一審聆訊紀律事宜；(2) 應對執行人員（Executive）裁決不滿之當事人的要求，覆核該裁決；(3) 聆訊執行人員轉介的特別重要爭議事項。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 1.17"
+  },
+  {
+    "id": "T1-020",
+    "topic": "Topic 1",
+    "subtopic": "Takeovers Appeal Committee (TAC)",
+    "difficulty": "Level 2",
+    "question": "當收購及合併委員會（Takeovers and Mergers Panel）在紀律聆訊中對違反《收購守則》的人士施加了紀律制裁（例如公開譴責或冷淡對待令），受影響人士向收購上訴委員會（TAC）提出上訴時，TAC 的審理權限是：",
+    "options": {
+      "A": "重新進行全面的事實認定審判，推翻原審對是否違規的事實認定。",
+      "B": "專門且僅限於判定收購委員會所施加的制裁措施是否不公平或過度嚴苛（Unfair or Excessive）。",
+      "C": "強制將案件轉介至廉政公署（ICAC）提起刑事訴訟。",
+      "D": "直接命令香港聯交所將該上市公司永久撤銷上市資格。"
+    },
+    "answer": "B",
+    "explanation": "根據指南 1-7 頁 1.18 節，收購上訴委員會（Takeovers Appeal Committee, TAC）聆訊針對委員會紀律裁決之上訴，其「唯一目的」（Sole purpose）是裁定由委員會所施加的制裁是否不公平或過度嚴苛。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 1.18"
+  },
+  {
+    "id": "T1-021",
+    "topic": "Topic 1",
+    "subtopic": "Stock Market Manipulation (ss. 278, 299 SFO)",
+    "difficulty": "Level 3",
+    "question": "根據 SFO 第 278 條（民事）及第 299 條（刑事），下列哪項要素是構成「操縱證券市場」（Stock Market Manipulation）的關鍵法定特徵？",
+    "options": {
+      "A": "必須由至少三名以上的董事共同在場簽署書面協議方可構成。",
+      "B": "直接或間接地進行兩次或以上的證券交易，藉此提高、降低、維持或穩定某股份的價格，並意圖誘使他人認購或買賣該等證券。",
+      "C": "涉及的金額必須超過港幣 5,000 萬元以上。",
+      "D": "只有在非交易時段（場外交易）執行的買賣才會構成該項市場失當行為。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-23 頁 3.27 節引述 SFO ss. 278, 299，操縱證券市場是指任何人單獨或聯同他人進行兩次或以上的證券交易，以提高、壓低、維持或穩定股份在認可市場的交易價格，且意圖藉此誘使他人認購、買賣該股份或其關聯法團的證券。",
+    "reference": "SFO ss. 278, 299; HKSI Paper 5 Guide Topic 1 Section 3.27"
+  },
+  {
+    "id": "T1-022",
+    "topic": "Topic 1",
+    "subtopic": "Price Stabilization Safe Harbour",
+    "difficulty": "Level 2",
+    "question": "在新股公開發售（IPO）的價格穩定機制中，穩定價格操作人進行護盤買入往往涉及干預市場價格。為免觸犯 SFO 下的操縱市場失當行為，必須依據下列哪一項附屬法例作為法定安全港？",
+    "options": {
+      "A": "《證券及期貨（客戶款項）規則》",
+      "B": "《證券及期貨（穩定價格）規則》（PS Rules）",
+      "C": "《公司（清盤及雜項條文）條例》",
+      "D": "《受規管活動發牌條件及能力指引》"
+    },
+    "answer": "B",
+    "explanation": "指南 1-23 頁 3.28 節指出，IPO 價格穩定行動通常可能落入操縱市場定義，但證監會依據 SFO 權力訂立了《證券及期貨（穩定價格）規則》（PS Rules），為嚴格遵守特定程序與限制的穩定價格行為提供合法豁免安全港。",
+    "reference": "Securities and Futures (Price Stabilizing) Rules; HKSI Paper 5 Guide Topic 1 Section 3.28"
+  },
+  {
+    "id": "T1-023",
+    "topic": "Topic 1",
+    "subtopic": "ESG Reporting Code - Four Reporting Principles",
+    "difficulty": "Level 2",
+    "question": "根據聯交所《環境、社會及管治報告指引》（ESG Code, MBLR Appendix C2），發行人在編制其 ESG 報告時，必須嚴格遵守並在報告中具體說明如何應用的四大編報原則是：",
+    "options": {
+      "A": "真實性（Authenticity）、保密性（Confidentiality）、盈利性（Profitability）、及時性（Timeliness）",
+      "B": "重要性（Materiality）、量化（Quantitative）、平衡（Balance）、一致性（Consistency）",
+      "C": "獨立性（Independence）、合規性（Compliance）、可預測性（Predictability）、審計性（Auditability）",
+      "D": "全面性（Comprehensiveness）、排他性（Exclusivity）、前瞻性（Forward-looking）、自願性（Voluntary）"
+    },
+    "answer": "B",
+    "explanation": "根據指南 1-15 至 1-16 頁 2.15 節，ESG Code 明確規定發行人在編制 ESG 報告時必須遵循四大編報原則：重要性（Materiality）、量化（Quantitative）、平衡（Balance）及一致性（Consistency），並須在報告中解釋如何應用該四項原則。",
+    "reference": "MBLR Appendix C2; HKSI Paper 5 Guide Topic 1 Section 2.15"
+  },
+  {
+    "id": "T1-024",
+    "topic": "Topic 1",
+    "subtopic": "ESG Reporting - Publication Timeline",
+    "difficulty": "Level 2",
+    "question": "根據現行《上市規則》對環境、社會及管治（ESG）報告的刊發規定，上市發行人刊發其獨立 ESG 報告的法定時限要求為何？",
+    "options": {
+      "A": "必須在財政年度結束後 6 個月內單獨刊發，不得與年報同時公布。",
+      "B": "ESG 報告涵蓋的期間必須與年報相同，若未載入年報內，則必須與年報「同步刊發」（Simultaneously with the annual report），並以電子方式送交股東。",
+      "C": "只要在發行人的股東週年大會召開前 3 個營業日發布即可。",
+      "D": "ESG 報告僅需由董事會內部歸檔，除非聯交所書面索取，否則完全毋須公開刊發。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-15 頁 2.13 節指出，發行人的 ESG 報告涵蓋期間須與年報一致，可包含於年報中或獨立刊發。若選擇獨立刊發，必須與年報「同時刊發」（Simultaneously），並在發行人及聯交所網站發布，且須透過電子方式提供予股東。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 2.13"
+  },
+  {
+    "id": "T1-025",
+    "topic": "Topic 1",
+    "subtopic": "CFA Code - Standard of Work & Verification",
+    "difficulty": "Level 3",
+    "question": "根據《機構融資顧問操守準則》（CFA Code），機構融資顧問在協助客戶編制發布予公眾的公開文件（如通函或招股章程）時，負有下列哪項具體責任？",
+    "options": {
+      "A": "顧問可完全免除核實義務，因為文件內容的法律責任完全由印刷商承擔。",
+      "B": "顧問應建議客戶採取一切合理步驟，並取得客戶的書面確認，確保由客戶提供的資料和陳述均為真實、準確、完整且不具誤導性。",
+      "C": "若專家報告存在重大疑點，顧問無須進行任何背景查核即可直接採用。",
+      "D": "顧問必須與客戶簽訂承諾書，承擔該文件日後出現的所有民事賠償責任。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-33 頁 4.20 節指出，機構融資顧問應建議客戶採取一切合理步驟以確保納入公開文件的資料真實、準確、完整且不具誤導性，並從客戶處取得確認。此外，根據 4.18 節，依賴專家工作時亦應進行合理查核以評估其經驗與專長。",
+    "reference": "CFA Code para 5; HKSI Paper 5 Guide Topic 1 Section 4.18, 4.20"
+  },
+  {
+    "id": "T1-026",
+    "topic": "Topic 1",
+    "subtopic": "CFA Code - Personal Account Dealing",
+    "difficulty": "Level 2",
+    "question": "根據 CFA Code 第 8 段，關於機構融資顧問內部「相關人士」（Relevant Persons）的個人賬戶證券交易監控，下列哪項規定最正確？",
+    "options": {
+      "A": "機構融資顧問的持牌代表嚴禁在任何情況下以個人名義投資任何香港上市公司股票。",
+      "B": "公司必須具備書面政策明確規範何時允許或禁止自營買賣，且相關人士的所有個人及關聯賬戶交易必須由指定合規主任有效監控。",
+      "C": "指定合規主任若本身持有該上市公司的重大利益，仍可負責審批該交易以提升效率。",
+      "D": "個人賬戶交易只需每三年向聯交所上市委員會統一彙報一次備查。"
+    },
+    "answer": "B",
+    "explanation": "依據指南 1-34 至 1-35 頁 4.26–4.27 節，公司必須制定書面政策規範個人買賣，包括申報關聯賬戶（本人及未成年子女擁有實益權益）、監控買賣條件；由指定合規主任主動監察，且合規主任對所監控的交易或賬戶不得擁有實益權益。",
+    "reference": "CFA Code para 8; HKSI Paper 5 Guide Topic 1 Section 4.26-4.27"
+  },
+  {
+    "id": "T1-027",
+    "topic": "Topic 1",
+    "subtopic": "CFA Code - Watchlist and Restricted List",
+    "difficulty": "Level 1",
+    "question": "為有效監控個人賬戶買賣及防止內幕消息外洩或利益衝突，機構融資顧問依據 CFA Code 必須維持並執行何種內部控制系統？",
+    "options": {
+      "A": "客戶信用額度超額預警清單",
+      "B": "監察名單（Watchlist）及受限制名單（Restricted List）制度",
+      "C": "證券保證金追收名冊",
+      "D": "印花稅徵收免除清冊"
+    },
+    "answer": "B",
+    "explanation": "指南 1-35 頁 4.28 節明確指出，機構融資顧問必須維持健全的監察名單（Watchlist）及受限制名單（Restricted List）系統，以妥善監控相關人士的個人賬戶交易及機構的自營買賣。",
+    "reference": "CFA Code para 8; HKSI Paper 5 Guide Topic 1 Section 4.28"
+  },
+  {
+    "id": "T1-028",
+    "topic": "Topic 1",
+    "subtopic": "Code of Conduct - Paragraph 17 Sponsor Duties",
+    "difficulty": "Level 3",
+    "question": "根據證監會《操守準則》（Code of Conduct）第 17 段，持牌法團擔任新上市申請人的保薦人（Sponsor）時，在遞交上市申請表格（Form A1）之前，必須履行下列哪項關鍵職責？",
+    "options": {
+      "A": "完成對申請人的全部合理盡職審查工作（除非性質上僅能在較後日期處理者），並確保呈交的申請版本在重大方面大致完備。",
+      "B": "保證申請人股票在掛牌首 30 個交易日內股價絕對不會跌破發行價。",
+      "C": "全權包銷發行人擬發售的全部新股，不得組建外部承銷團。",
+      "D": "直接向每名潛在零售散戶發出無條件盈利保證承諾書。"
+    },
+    "answer": "A",
+    "explanation": "依據指南 1-39 頁 4.48(c) 節及 Code of Conduct 第 17 段，保薦人在呈交上市申請前，必須完成對申請人的所有合理盡職審查步驟（除非其性質只能在稍後階段進行），確保公開披露內容真實準確完整，且呈交大致完備的申請版本（Application Proof）。",
+    "reference": "Code of Conduct para 17; HKSI Paper 5 Guide Topic 1 Section 4.48(c)"
+  },
+  {
+    "id": "T1-029",
+    "topic": "Topic 1",
+    "subtopic": "Code of Conduct - CMI & Placing Activities",
+    "difficulty": "Level 2",
+    "question": "根據《操守準則》第 21 段關於資本市場中介人（CMI）的規定，當保薦人本身或其所屬集團公司同時擔任該上市發行人的整體協調人（Overall Coordinator）或 CMI 時，該機構必須：",
+    "options": {
+      "A": "立即無條件辭去保薦人職務，因為兩者存在不可調和的絕對法定衝突。",
+      "B": "嚴格遵守第 21 段關於建檔（Bookbuilding）、配售活動及分配建議的行為標準與利益衝突管理規定。",
+      "C": "豁免向聯交所申報所有配售承配人的背後真實身份資料。",
+      "D": "將所有包銷佣金費用轉移至香港投資者賠償基金存管。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-40 頁 4.49 節指出，當保薦人或其集團成員擔任參與建檔及配售的資本市場中介人（CMI）時，必須遵守《操守準則》第 21 段的規範，包括公正配售、透明報價、妥善管理利益衝突及防範不當回佣行為。",
+    "reference": "Code of Conduct para 21; HKSI Paper 5 Guide Topic 1 Section 4.49"
+  },
+  {
+    "id": "T1-030",
+    "topic": "Topic 1",
+    "subtopic": "Enforcement - SFC Disciplinary Grounds",
+    "difficulty": "Level 2",
+    "question": "根據 SFO 第 IX 部，證監會可在何種法定基礎下，對持牌中介人或其負責人員行使紀律處分權力（如撤銷牌照、公開譴責或判處最高達 1,000 萬港元的罰款）？",
+    "options": {
+      "A": "僅限於該中介人在高等法院被判處破產清盤時。",
+      "B": "該受規管人士被裁定犯有「失當行為」（Misconduct），或證監會認為該人不再是獲發牌的「適當人選」（Fit and Proper）。",
+      "C": "該中介人未能達成其年度預計營業額目標超過 20%。",
+      "D": "香港交易所董事會通過決議案要求撤回其會員席位。"
+    },
+    "answer": "B",
+    "explanation": "依據指南 1-6 頁 1.14 節及 SFO 第 IX 部，當受規管人士被裁定犯有失當行為（包括違反 SFO、相關守則準則或任何發牌條件），或已不再是持牌的「適當人選」時，證監會即可行使法定紀律處分權威。",
+    "reference": "SFO Part IX; HKSI Paper 5 Guide Topic 1 Section 1.14"
+  },
+  {
+    "id": "T1-031",
+    "topic": "Topic 1",
+    "subtopic": "Enforcement Case 1 - Takeovers Code Breach",
+    "difficulty": "Level 3",
+    "question": "在學習指南第一章回顧的真實執法個案「個案一（Case 1）」中，持牌法團 INT-A 因在擔任自願要約目標公司的財務顧問期間違反《收購守則》而遭到證監會公開譴責。該法團所觸犯的具體違規行為是：",
+    "options": {
+      "A": "直接挪用了目標公司高達 1 億港元的銀行貸款進行自營操盤。",
+      "B": "作為受規管相關人士（Associate），在未按規定進行持倉申報（Rule 22）的情況下執行了目標公司股份買賣，且在未獲執行人員同意下持續散布研究報告。",
+      "C": "協助要約人虛構銀行資金證明進行敵意收購。",
+      "D": "未經授權在電視直播中宣布取消該收購要約。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-41 頁 4.57–4.62 節個案一指出，INT-A 作為目標公司顧問被視為其聯繫人（Associate），但其內部監控失誤，未依 Rule 22 申報交易，且違反 Rule 8.1 註釋 4 在未獲執行人員同意下分發目標公司研究報告。證監會考慮其主動自首及配合調查後予以公開譴責。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 4.57-4.62"
+  },
+  {
+    "id": "T1-032",
+    "topic": "Topic 1",
+    "subtopic": "Enforcement Case 2 - Criminal Insider Dealing",
+    "difficulty": "Level 2",
+    "question": "在指南回顧的個案二（Case 2，香港首宗內幕交易刑事定罪案件）中，投資銀行家 B 先生因私下將私有化內幕消息洩漏予聯絡人並慫使彼等買入股票，最終被法院判處何種制裁？",
+    "options": {
+      "A": "免除刑事起訴，僅被處以書面警告並繼續執業。",
+      "B": "被判處 26 個月即時監禁、罰款 23 萬港元，並須支付證監會逾 30 萬港元的調查費用。",
+      "C": "吊銷牌照 3 個月並罰款 1,000 港元。",
+      "D": "僅被要求向聯交所致送公開道歉信。"
+    },
+    "answer": "B",
+    "explanation": "依據指南 1-42 頁 4.65–4.66 節，這是香港首宗依據 SFO 第 XIV 部進行刑事起訴並定罪的內幕交易案件，主犯投資銀行家 B 先生被判處 26 個月監禁及罰款，並承擔高額調查費用，確立了對內幕交易嚴重刑事處罰的先例。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 4.65-4.66"
+  },
+  {
+    "id": "T1-033",
+    "topic": "Topic 1",
+    "subtopic": "Enforcement Case 3 - Cold Shoulder Order",
+    "difficulty": "Level 3",
+    "question": "在指南回顧的個案三（Case 3）中，非持牌人士 C 先生作為上市公司董事，聯同一致行動方增持 GEM 公司股份至 30.19% 卻未履行全面要約義務。證監會收購執行人員對非持牌的 C 先生施加了何種重大制裁？",
+    "options": {
+      "A": "因 C 先生非證監會持牌人，證監會無權施加任何實質制裁，只能將其移交香港警察處理。",
+      "B": "施加長達 18 個月的「冷淡對待令」（Cold shoulder order），剝奪其使用香港證券市場設施的權利，並予以公開譴責。",
+      "C": "強制沒收 C 先生名下的全部私人房地產物業。",
+      "D": "命令 GEM 交易所永久終止所有股票交易。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-42 至 1-43 頁 4.67–4.72 節指出，個案三證明《收購守則》的制裁權力及於非持牌人士。C 先生違規觸發 30% 強要義務而未發出要約，被執行人員處以公開譴責及為期 18 個月的冷淡對待令（禁止直接或間接使用市場設施買賣證券）。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 4.67-4.72"
+  },
+  {
+    "id": "T1-034",
+    "topic": "Topic 1",
+    "subtopic": "Companies Ordinance - Financial Assistance",
+    "difficulty": "Level 3",
+    "question": "根據《公司條例》（CO, Cap. 622）第 275 條，關於公司向他人提供財務資助以收購該公司或其母公司的股份，下列原則何者最正確？",
+    "options": {
+      "A": "上市公司可以隨意動用其全資子公司的未分配利潤，無條件免息借貸予任何潛在收購方購買自己的股份。",
+      "B": "一般原則上，任何公司或其附屬公司直接或間接為他人收購該公司本身的股份而提供財務資助均屬違法，除非符合法定的特定豁免或償付能力確認程序。",
+      "C": "只要收購方是持牌法團的負責人員，該財務資助即自動合法化。",
+      "D": "只有在海外註冊成立的上市公司才受該條文約束，香港本地公司不受此限。"
+    },
+    "answer": "B",
+    "explanation": "依據指南 1-30 頁 3.62 節及 CO s. 275，凡有人正在收購或擬收購某公司的股份，該公司或其任何附屬公司直接或間接為該項收購提供財務資助（Financial Assistance）即屬違法，聯交所《上市規則》亦貫徹了嚴格禁止財務資助的監管原則，以維護資本充實與債權人權益。",
+    "reference": "Companies Ordinance s. 275; HKSI Paper 5 Guide Topic 1 Section 3.62"
+  },
+  {
+    "id": "T1-035",
+    "topic": "Topic 1",
+    "subtopic": "Characteristics of HK Equity Market - Secondary Listings",
+    "difficulty": "Level 2",
+    "question": "根據香港股票資本市場的發展特徵及《上市規則》，一間已在紐約證券交易所（NYSE）或倫敦證券交易所（LSE）主板上市的海外企業申請在香港聯交所進行「第二上市」（Secondary Listing）時：",
+    "options": {
+      "A": "必須在香港掛牌前強制從紐約或倫敦交易所撤銷原有的主要上市地位。",
+      "B": "一般而言仍須符合香港的基本資格與股東保障基準，但聯交所可就若干規則予以適當修訂或豁免（例如豁免適用公眾持股量最低百分比限制）。",
+      "C": "嚴禁任何具備不同投票權架構（WVR）的大中華發行人進行第二上市。",
+      "D": "只能發行非上市的無擔保公司債券，不得將普通股上市交易。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-45 頁 5.7 節及 2-44 頁 8.40–8.42 節指出，已在合資格海外市場上市的企業可尋求第二上市，須提供對等的股東基準保障，但聯交所可考慮不同司法管轄區之常規給予特定豁免（如豁免公眾持股比例等要求）。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 5.7; Topic 2 Section 8.40-8.42"
+  },
+  {
+    "id": "T1-036",
+    "topic": "Topic 1",
+    "subtopic": "Market Misconduct - Double Jeopardy",
+    "difficulty": "Level 2",
+    "question": "關於 SFO 下「市場失當行為」（Market Misconduct）的民事審裁與刑事檢控雙軌制，下列哪項關於「免受雙重危險」（No Double Jeopardy）原則的陳述最準確？",
+    "options": {
+      "A": "律政司可在同一受規管人士被 MMT 裁決不成立後，就完全相同的涉案行為再度向法庭提起刑事起訴。",
+      "B": "一旦針對某特定行為依循其中一條路徑（MMT 民事或法院刑事）展開了正式訴訟程序，即不可再就同一行為循另一途徑提起訴訟。",
+      "C": "任何受規管人士若被 MMT 裁決違規，必須強制自動再接受刑事法庭的同一指控審判。",
+      "D": "民事審裁與刑事起訴可以由證監會隨意同步平行進行，無須取得律政司同意。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-20 頁 3.17 節明確指明，SFO 的雙軌機制受制於「無雙重危險」（No double jeopardy）原則：一旦就某行為展開了 MMT 審訊或刑事法庭程序，即不得再就同一行為依另一途徑展開訴訟。MMT 提起須經律政司司長同意，刑事訴訟則唯獨由律政司司長提起。",
+    "reference": "SFO ss. 283, 307; HKSI Paper 5 Guide Topic 1 Section 3.17"
+  },
+  {
+    "id": "T1-037",
+    "topic": "Topic 1",
+    "subtopic": "Market Misconduct - Civil Liability (s. 281/305)",
+    "difficulty": "Level 2",
+    "question": "根據 SFO 第 281 條及第 305 條，任何人從事市場失當行為（如內幕交易或散布虛假消息），除面臨監管處分外，還須承擔何種民事法律後果？",
+    "options": {
+      "A": "該違規者依法享有民事訴訟絕對豁免權，受損投資者不得要求任何賠償。",
+      "B": "該違規者須對任何因其市場失當行為而蒙受金錢損失的人士承擔民事賠償責任，向其支付損害賠償。",
+      "C": "只要該人支付了證監會的行政罰款，對第三方的民事賠償責任即可完全免除。",
+      "D": "賠償責任僅限於以原價回購所有受影響受害人的股票。"
+    },
+    "answer": "B",
+    "explanation": "依據指南 1-21 頁 3.20 節及 SFO ss. 281, 305，任何人因從事市場失當行為，對任何因該行為而遭受金錢損失的人士負有民事法律賠償責任，法庭在考慮公平公正情況下可命令其支付損害賠償，此處不適用雙重危險免責。",
+    "reference": "SFO ss. 281, 305; HKSI Paper 5 Guide Topic 1 Section 3.20"
+  },
+  {
+    "id": "T1-038",
+    "topic": "Topic 1",
+    "subtopic": "Inside Information - Reasonable Measures",
+    "difficulty": "Level 3",
+    "question": "上市公司董事會為履行 SFO 第 307G 條規定的法定責任，防止公司違反及時披露內幕消息的規定，應當落實下列哪一項內部控制與合理防護措施？",
+    "options": {
+      "A": "嚴禁公司任何員工或管理層與外界傳媒接觸，並關閉公司所有對外投資者關係網站。",
+      "B": "建立對關鍵業務及營運發展的監察機制、定期審查敏感因素清單、嚴格按「有需要知情」（Need-to-know）基準限制機密流轉，並制訂傳媒與謠言應對指引。",
+      "C": "所有未公開財務數據必須強制即時向證券分析師提早透露以測試市場反應。",
+      "D": "將董事會所有重大決策全權授權予外部財經公關顧問獨自全權決定是否公告。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-28 頁 3.50 節引述證監會《內幕消息披露指引》（GDII）列出的核心措施：建立業務事件監察控制、定期財務報告程序、維持敏感因素清單、嚴格落實 Need-to-know 機制、簽訂嚴格保密協議、制訂應對洩密及傳媒謠言的清晰程序等。",
+    "reference": "GDII; HKSI Paper 5 Guide Topic 1 Section 3.50"
+  },
+  {
+    "id": "T1-039",
+    "topic": "Topic 1",
+    "subtopic": "CWUMPO - Prospectus Registration",
+    "difficulty": "Level 2",
+    "question": "根據《公司（清盤及雜項條文）條例》（CWUMPO）及轉移職能命令，向公眾公開發售股份的招股章程在正式公開印發前，其審核與註冊程序為：",
+    "options": {
+      "A": "由香港律政司親自審核，並向立法會備案登記。",
+      "B": "由香港聯交所負責審閱是否符合規定並發出核准授權書，隨後由發行人將招股章程正式呈交公司註冊處處長（Registrar of Companies）登記註冊。",
+      "C": "由證監會企業融資部全權登記存檔，無須送交公司註冊處。",
+      "D": "直接在發行人官方網站刊登即可生效，完全不需任何官方登記手續。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-29 頁 3.54–3.58 節及 2-31 至 2-32 頁 7.6–7.9 節指明：為免職能重複，上市證券之招股章程審核權由證監會轉移至聯交所；聯交所審核滿意後發出授權證明書（Certificate of Authorisation），隨後發行人將其送交「公司註冊處處長」正式登記註冊（CWUMPO s.38D/s.342C）。",
+    "reference": "CWUMPO ss. 38D, 342C; HKSI Paper 5 Guide Topic 1 Section 3.54-3.58; Topic 2 Section 7.6-7.9"
+  },
+  {
+    "id": "T1-040",
+    "topic": "Topic 1",
+    "subtopic": "CFA Code - Duty to Client vs Regulators",
+    "difficulty": "Level 2",
+    "question": "根據《機構融資顧問操守準則》（CFA Code）第 6 段及第 7 段，當機構融資顧問發現其所服務的客戶在重大上市項目中涉嫌存在嚴重違規行為，而客戶在顧問提醒後仍拒絕向監管機構（證監會/聯交所）報告時，該顧問應當：",
+    "options": {
+      "A": "繼續全力為客戶隱瞞，因為律師與顧問對客戶負有絕對的保密特權，在任何法規下皆高於監管合規。",
+      "B": "認真考慮終止為該客戶提供服務（Cease to act），並在監管機構進行查詢時予以全面合作與如實陳述。",
+      "C": "自費為客戶墊付可能產生的監管罰款以維持委聘合約。",
+      "D": "擅自篡改客戶已遞交的申請文件以配合法規規定。"
+    },
+    "answer": "B",
+    "explanation": "依據指南 1-34 頁 4.22 節，機構融資顧問應盡一切合理努力確保客戶明瞭法規並促請其申報違規；若客戶無正當理由拒絕申報，顧問應考慮「停止為該客戶服務」（Cease to act），且在監管機構作出查詢時必須全力配合。",
+    "reference": "CFA Code paras 6, 7; HKSI Paper 5 Guide Topic 1 Section 4.22, 4.24"
+  },
+  {
+    "id": "T1-041",
+    "topic": "Topic 1",
+    "subtopic": "CFA Code - Sponsor Independence",
+    "difficulty": "Level 3",
+    "question": "某持牌法團受聘擔任一間主板擬上市公司的獨立保薦人。根據聯交所《上市規則》第 3A 章及證監會指引，下列哪種情形最可能直接使該保薦人的「獨立性」（Independence）受到嚴重質疑？",
+    "options": {
+      "A": "保薦人與上市申請人處於同一辦公大樓的不同樓層辦公。",
+      "B": "保薦人所屬集團控制上市申請人已發行股本（不含庫存股）超過 5% 的經濟權益，或保薦人的主要高管同時擔任該申請人的非執行董事。",
+      "C": "保薦人指派了三名全職持牌代表參與該上市項目的盡職調查。",
+      "D": "保薦人要求上市申請人必須簽訂符合香港法律標準的標準聘用合約。"
+    },
+    "answer": "B",
+    "explanation": "依據指南 2-9 頁 3.3–3.4 節及 MBLR 3A.07，保薦人及其集團在申請人擁有超過 5% 股權利益、彼此存在重大商業控制關係、或保薦人主要職員同時擔任發行人董事等，均會損害其獨立性。獨立保薦人必須於 Form A1 中申報確認其獨立身份。",
+    "reference": "MBLR 3A.07; HKSI Paper 5 Guide Topic 2 Section 3.3-3.4"
+  },
+  {
+    "id": "T1-042",
+    "topic": "Topic 1",
+    "subtopic": "Corporate Governance - INED Overboarding & Tenure",
+    "difficulty": "Level 2",
+    "question": "根據《企業管治守則》（MBLR Appendix C1）及相關上市規則最新修訂，關於獨立非執行董事（INED）的任職兼職限制與任期，下列敘述何者正確？",
+    "options": {
+      "A": "一名 INED 最多可同時擔任無限制數量的上市公司董事，只要其每年簽署獨立性確認書即可。",
+      "B": "一名 INED 最多只可同時在 6 間上市發行人擔任董事職務；且若其在同一發行人任職累計超過 9 年，其連任須經過獨立股東特別決議案審批並詳細解釋獨立理由（過渡期至 2031 年後將全面限制）。",
+      "C": "任何 INED 的任期一律不得超過 3 個月。",
+      "D": "INED 嚴禁在董事會轄下的審核委員會中擔任主席。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-13 頁 2.8(i)(j) 節及 2-15 至 2-16 頁 3.29 節指出，為確保董事能投入足夠時間，兼職上限為 6 間上市發行人（過渡期至 2028 年生效）；任職超過 9 年的「超期 INED」重新委任須獨立決議案批准（過渡至 2031 年 7 月後將全面禁止連任）。",
+    "reference": "MBLR 3.12A, 3.13A; HKSI Paper 5 Guide Topic 1 Section 2.8; Topic 2 Section 3.29"
+  },
+  {
+    "id": "T1-043",
+    "topic": "Topic 1",
+    "subtopic": "Market Misconduct - False Trading (s. 274/295)",
+    "difficulty": "Level 2",
+    "question": "根據 SFO 第 274 條及第 295 條，在沒有涉及實益擁有權轉變的情況下進行證券交易（俗稱洗售或虛售交易，Wash Sales），其主要構成何種市場失當行為？",
+    "options": {
+      "A": "虛假交易（False Trading）",
+      "B": "合法對沖套利（Hedging）",
+      "C": "內幕交易（Insider Dealing）",
+      "D": "自願要約全面收購（Voluntary General Offer）"
+    },
+    "answer": "A",
+    "explanation": "根據 SFO ss. 274, 295 及指南 1-20 頁 3.16 節，凡人為製造證券活躍交易的虛假或具誤導性表象、或未實質改變實益擁有權的買賣（洗售），屬於典型的法定「虛假交易」（False Trading）市場失當行為。",
+    "reference": "SFO ss. 274, 295; HKSI Paper 5 Guide Topic 1 Section 3.16"
+  },
+  {
+    "id": "T1-044",
+    "topic": "Topic 1",
+    "subtopic": "SFC Supervision of Markets Division",
+    "difficulty": "Level 1",
+    "question": "證監會的「市場監察部」（Supervision of Markets Division）其核心法定職責主要聚焦於：",
+    "options": {
+      "A": "處理每間證券公司的牌照核准及代表考試豁免。",
+      "B": "監督及監察香港交易所（HKEX）及其附屬的結算所與結算系統運作，並促進市場基建發展及管理投資者賠償基金。",
+      "C": "負責審理涉及全港律師事務所的職業失當處分。",
+      "D": "為所有主板上市公司編制年度財務審計報告。"
+    },
+    "answer": "B",
+    "explanation": "依據指南 1-6 頁 1.15(a) 節，市場監察部主要監控認可交易所及認可結算所（HKEX 等市場營運者）的運作與基建，制定跨境聯通政策，並監管投資者賠償基金。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 1.15(a)"
+  },
+  {
+    "id": "T1-045",
+    "topic": "Topic 1",
+    "subtopic": "Takeovers Code - Non-statutory Consensus",
+    "difficulty": "Level 2",
+    "question": "關於香港《公司收購及合併守則》與《股份回購守則》的法律屬性，下列陳述何者正確？",
+    "options": {
+      "A": "《收購守則》屬於香港立法會通過的成文法例，法庭有權直接對違反守則者處以刑事監禁。",
+      "B": "《收購守則》由證監會依據 SFO 第 399 條發布，本質上是非法定的（Non-statutory），代表市場參與者與證監會共識的商業道德標準；但違反守則可導致被剝奪進入市場設施的嚴厲制裁。",
+      "C": "《收購守則》完全不受任何香港法院的司法覆核。",
+      "D": "《收購守則》僅對持牌銀行有約束力，任何上市公司控股股東均可自願豁免遵從。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-36 至 1-37 頁 4.36 節及 3-3 至 3-4 頁 1.7 節指出：《收購守則》是非成文法定規則，體現業界可接受之商業行為共識；聯交所《上市規則》明確要求上市公司必須遵守《收購守則》，委員會裁決亦可受高等法院司法覆核。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 4.36; Topic 3 Section 1.7"
+  },
+  {
+    "id": "T1-046",
+    "topic": "Topic 1",
+    "subtopic": "Companies Ordinance - Articles of Association",
+    "difficulty": "Level 2",
+    "question": "根據香港新《公司條例》（Cap. 622），一間擬在香港聯交所申請上市的香港本地公司，其憲制文件架構為：",
+    "options": {
+      "A": "必須同時維持獨立的《組織章程大綱》（Memorandum of Association）及《組織章程細則》（Articles of Association）。",
+      "B": "取消了組織章程大綱，所有公司僅須具備單一的《組織章程細則》（Articles of Association），原大綱條款被視為細則條款。",
+      "C": "完全廢除任何章程文件，改由董事會決議案取代。",
+      "D": "章程細則必須強制規定全體股東不得轉讓股份。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-22 頁 4.2 節指出：在《公司條例》（Cap. 622）生效後，香港公司不再有單獨的組織章程大綱，原有大綱內容併入《組織章程細則》（Articles of Association）內，以此作為規管公司內部運作的單一憲制文件。",
+    "reference": "Companies Ordinance Cap. 622; HKSI Paper 5 Guide Topic 1 Section 4.2"
+  },
+  {
+    "id": "T1-047",
+    "topic": "Topic 1",
+    "subtopic": "Registrar of Companies - Public Inspection",
+    "difficulty": "Level 1",
+    "question": "公司註冊處處長（Registrar of Companies）在維持香港公司透明度方面扮演關鍵角色，其法定職責包括：",
+    "options": {
+      "A": "為所有在香港經營的對沖基金計算每日淨資產值（NAV）。",
+      "B": "備存並供公眾查閱公司的法定申報表、財務申報表、已註冊的抵押文件及登記上市招股章程。",
+      "C": "代表證監會向高等法院提出一切涉嫌內幕交易的刑事起訴。",
+      "D": "全權主導新股上市的建檔定價會議。"
+    },
+    "answer": "B",
+    "explanation": "依據指南 1-9 至 1-10 頁 1.30–1.32 節，公司註冊處負責執行《公司條例》，保管法定申報表、公司抵押登記、招股章程登記，並在法團長期失責時行使剔除註冊名冊（Strike off）的權力。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 1.30-1.32"
+  },
+  {
+    "id": "T1-048",
+    "topic": "Topic 1",
+    "subtopic": "CFA Code - Independence of Independent Financial Advisers (IFA)",
+    "difficulty": "Level 3",
+    "question": "在上市公司進行關連交易時受聘擔任獨立財務顧問（IFA）的持牌機構，依據 CFA Code 及《上市規則》第 13.80 條，其獨立義務起點時間（IFA Obligation Commencement Time）為何？",
+    "options": {
+      "A": "以向股東正式印發載有其意見函件的通函當日為準。",
+      "B": "以該 IFA 開始為發行人開展工作之時，或簽署正式聘用函之日（以較早者為準）起算，直至委聘終止。",
+      "C": "以股東大會正式投票表決通過該交易之時起算。",
+      "D": "以聯交所上市委員會正式蓋印批覆委聘函起算。"
+    },
+    "answer": "B",
+    "explanation": "指南 2-13 頁 3.21(c) 節明確指明：獨立財務顧問（IFA）必須自「IFA 義務生效時間」（即 IFA 開始為發行人工作之時，或簽署聘用函之時，以較早者為準）起直至委聘期結束，全程維持無利益衝突的絕對獨立性。",
+    "reference": "MBLR 13.80-13.87; HKSI Paper 5 Guide Topic 2 Section 3.21"
+  },
+  {
+    "id": "T1-049",
+    "topic": "Topic 1",
+    "subtopic": "Corporate Governance - Whistleblowing & Anti-Corruption",
+    "difficulty": "Level 2",
+    "question": "根據《企業管治守則》守則條文（Code Provisions），上市發行人在內部控制與審計委員會監督職責上，必須建立下列哪項內部政策？",
+    "options": {
+      "A": "強制要求舉報人公開真實姓名並於公司內聯網公示舉報內容。",
+      "B": "設立反貪污政策及系統，並設立允許僱員及商業往來方以匿名及保密方式向審核委員會舉報任何不當行為的「舉報政策」（Whistleblowing Policy）。",
+      "C": "由行政總裁個人全權掌控並查閱所有舉報信箱以防下屬濫用。",
+      "D": "禁止僱員對任何涉及財務舞弊的疑慮提出質疑。"
+    },
+    "answer": "B",
+    "explanation": "指南 1-14 頁 2.8(q)(r) 節指明，發行人應在守則條文下落實舉報政策（Whistleblowing Policy），確保員工或客戶/供應商能「保密且匿名地」（In confidence and anonymity）向審核委員會反映任何潛在不當行為，並制定反貪污體系。",
+    "reference": "MBLR Appendix C1; HKSI Paper 5 Guide Topic 1 Section 2.8(q)(r)"
+  },
+  {
+    "id": "T1-050",
+    "topic": "Topic 1",
+    "subtopic": "Inside Information Disclosure - Safe Harbours Exception",
+    "difficulty": "Level 3",
+    "question": "根據 SFO 第 307D 條，下列哪項屬於上市公司可暫免披露內幕消息的法定安全港（Safe Harbour）之一？",
+    "options": {
+      "A": "公司股價在過去 5 個交易日內跌幅超過 50%。",
+      "B": "該披露受到香港任何法律或法院命令的限制，或該消息屬於未完成的提案/商討且公司已採取合理保密措施並實際維持機密。",
+      "C": "全體執行董事口頭商定一致認為該消息不利於近期融資計劃。",
+      "D": "核數師尚未正式收取該財政年度的全部審計費用。"
+    },
+    "answer": "B",
+    "explanation": "依據指南 1-25 頁 3.36 節及 SFO s. 307D，法定豁免披露內幕消息的安全港主要包含：(1) 披露受成文法則或法院命令禁止；(2) 公司採取合理防護並實際保持機密，且該資料屬於未完成商議/提案、或屬於商業秘密、或獲證監會因海外法律豁免。",
+    "reference": "SFO s.307D; HKSI Paper 5 Guide Topic 1 Section 3.36"
+  }
+]
