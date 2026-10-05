@@ -16,7 +16,7 @@ button{border:0;border-radius:10px;padding:12px 18px;font-size:15px;font-weight:
 .q{font-size:20px;line-height:1.65;font-weight:650;margin:10px 0 20px}.option{display:flex;gap:12px;align-items:flex-start;border:1px solid var(--line);border-radius:12px;padding:15px;margin:10px 0;cursor:pointer}.option:hover{border-color:#98a2b3;background:#fafbff}.option input{margin-top:4px}.letter{font-weight:700;color:#475467;min-width:20px}.feedback{margin-top:18px;border-radius:12px;padding:15px;line-height:1.65}.correct{background:#ecfdf3;color:var(--good)}.wrong{background:#fef3f2;color:var(--bad)}.neutral{background:#f8fafc;color:#344054}.meta{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px}.small{font-size:13px;color:var(--muted)}
 .score{font-size:48px;font-weight:750;margin:10px 0}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin:20px 0}.stat{padding:16px;border:1px solid var(--line);border-radius:12px}.stat b{font-size:24px;display:block;margin-top:5px}.review{border-top:1px solid var(--line);padding:18px 0}.review h3{margin:0 0 8px;font-size:16px}.answer{margin-top:8px;padding:10px;border-radius:9px;background:#f8fafc;line-height:1.5}.refs{font-size:12px;color:var(--muted);margin-top:9px}.name{font-size:18px;font-weight:650;margin:18px 0 4px}.record-list{margin-top:12px}.record{border:1px solid var(--line);border-radius:12px;padding:12px;margin:8px 0;display:flex;justify-content:space-between;gap:12px;align-items:center}.record-main{line-height:1.5}.record-score{font-size:20px;font-weight:750;white-space:nowrap}.wrong-box{margin-top:20px;padding:16px;border:1px solid #fecdca;background:#fffbfa;border-radius:12px}.wrong-count{font-size:28px;font-weight:750;color:var(--bad)}
 .status{padding:10px 12px;border-radius:10px;background:#f8fafc;margin-top:12px;font-size:13px}.status.good{background:#ecfdf3;color:var(--good)}.status.bad{background:#fef3f2;color:var(--bad)}
-.auth{border:1px solid var(--line);border-radius:14px;padding:16px;margin-top:18px}.auth-row{display:flex;gap:10px;flex-wrap:wrap}.auth input{flex:1;min-width:220px;padding:12px;border:1px solid var(--line);border-radius:10px;font-size:15px}.userbar{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:15px}.signed-in{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.signed-in-email{font-size:13px;color:var(--muted);background:#ecfdf3;color:var(--good);padding:8px 10px;border-radius:999px}
+.auth{border:1px solid var(--line);border-radius:14px;padding:16px;margin-top:18px}.auth-row{display:flex;gap:10px;flex-wrap:wrap}.auth input{flex:1;min-width:220px;padding:12px;border:1px solid var(--line);border-radius:10px;font-size:15px}.auth .code-input{max-width:180px;letter-spacing:4px;text-align:center}.userbar{display:flex;justify-content:space-between;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:15px}.signed-in{display:flex;align-items:center;gap:10px;flex-wrap:wrap}.signed-in-email{font-size:13px;color:var(--muted);background:#ecfdf3;color:var(--good);padding:8px 10px;border-radius:999px}
 .library{margin-top:28px;border-top:1px solid var(--line);padding-top:20px}.library-tabs{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.library-tabs button.active{background:var(--accent);color:#fff}.library-tabs button:not(.active){background:#f2f4f7;color:#344054}.library-item{border:1px solid var(--line);border-radius:12px;padding:14px;margin:9px 0}.library-item h3{font-size:15px;line-height:1.5;margin:0 0 7px}.library-item p{margin:5px 0;line-height:1.5}.library-item .item-actions{display:flex;gap:8px;flex-wrap:wrap;margin-top:10px}.mark-btn{background:#fff7e6;color:#9a6700;border:1px solid #f2c94c}.mark-btn.marked{background:#fff0c2}
 @media(max-width:650px){.grid,.stats{grid-template-columns:1fr 1fr}.card{padding:18px}.q{font-size:18px}.wrap{padding:12px 10px 30px}}
 </style>
@@ -31,10 +31,14 @@ button{border:0;border-radius:10px;padding:12px 18px;font-size:15px;font-weight:
 
   <div id="authBox" class="auth">
     <div class="name">登入／建立學習帳戶</div>
-    <div class="small">使用 Email Magic Link 登入，不需要設定密碼。登入後，完成紀錄及錯題會跨裝置同步。</div>
+    <div class="small">使用 Email 驗證碼登入，不需要設定密碼。登入後，完成紀錄及錯題會跨裝置同步。</div>
     <div class="auth-row" style="margin-top:10px">
       <input id="email" type="email" placeholder="your@email.com">
-      <button onclick="sendMagicLink()">發送登入連結</button>
+      <button onclick="sendMagicLink()">發送驗證碼</button>
+    </div>
+    <div id="otpRow" class="auth-row hidden" style="margin-top:10px">
+      <input id="otp" class="code-input" inputmode="numeric" autocomplete="one-time-code" maxlength="6" placeholder="6 位數驗證碼">
+      <button class="secondary" onclick="verifyEmailCode()">確認驗證碼</button>
     </div>
     <div id="authStatus" class="status hidden"></div>
   </div>
@@ -151,10 +155,21 @@ function updateAuthUI(){
 async function sendMagicLink(){
  if(!SUPABASE_ENABLED){alert('請先在 HTML 內填入 Supabase URL 和 anon key。');return}
  const email=$('email').value.trim(); if(!email){alert('請輸入 Email。');return}
- const {error}=await sb.auth.signInWithOtp({email,options:{emailRedirectTo:location.href.split('#')[0]}});
+ const {error}=await sb.auth.signInWithOtp({email,options:{shouldCreateUser:true}});
  $('authStatus').classList.remove('hidden');
- $('authStatus').textContent=error?('登入失敗：'+error.message):'登入連結已發送，請到 Email 點擊連結返回 Quiz。';
+ $('otpRow').classList.toggle('hidden',!!error);
+ $('authStatus').textContent=error?('登入失敗：'+error.message):'驗證碼已發送，請查看 Email，並在此頁輸入 6 位數驗證碼。';
  $('authStatus').className='status '+(error?'bad':'good');
+}
+async function verifyEmailCode(){
+ if(!SUPABASE_ENABLED)return;
+ const email=$('email').value.trim(),token=$('otp').value.trim();
+ if(!email||!/^\d{6}$/.test(token)){alert('請輸入 Email 及 6 位數驗證碼。');return}
+ const {error}=await sb.auth.verifyOtp({email,token,type:'email'});
+ $('authStatus').classList.remove('hidden');
+ $('authStatus').textContent=error?('驗證失敗：'+error.message):'登入成功，正在同步你的資料。';
+ $('authStatus').className='status '+(error?'bad':'good');
+ if(!error){$('otp').value='';$('otpRow').classList.add('hidden')}
 }
 async function logout(){if(sb) await sb.auth.signOut();currentUser=null;updateAuthUI();await loadRecords()}
 async function ensureProfile(){
