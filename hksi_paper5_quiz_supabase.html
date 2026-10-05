@@ -37,7 +37,7 @@ button{border:0;border-radius:10px;padding:12px 18px;font-size:15px;font-weight:
       <button onclick="sendMagicLink()">發送驗證碼</button>
     </div>
     <div id="otpRow" class="auth-row hidden" style="margin-top:10px">
-      <input id="otp" class="code-input" inputmode="numeric" autocomplete="one-time-code" maxlength="6" placeholder="6 位數驗證碼">
+      <input id="otp" class="code-input" inputmode="numeric" autocomplete="one-time-code" maxlength="8" placeholder="輸入驗證碼">
       <button class="secondary" onclick="verifyEmailCode()">確認驗證碼</button>
     </div>
     <div id="authStatus" class="status hidden"></div>
@@ -164,7 +164,7 @@ async function sendMagicLink(){
 async function verifyEmailCode(){
  if(!SUPABASE_ENABLED)return;
  const email=$('email').value.trim(),token=$('otp').value.trim();
- if(!email||!/^\d{6}$/.test(token)){alert('請輸入 Email 及 6 位數驗證碼。');return}
+ if(!email||!/^\d{6,8}$/.test(token)){alert('請輸入 Email 及 6 至 8 位數驗證碼。');return}
  const {error}=await sb.auth.verifyOtp({email,token,type:'email'});
  $('authStatus').classList.remove('hidden');
  $('authStatus').textContent=error?('驗證失敗：'+error.message):'登入成功，正在同步你的資料。';
