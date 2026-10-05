@@ -20,6 +20,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      - name: Prepare site entry point
+        run: cp hksi_paper5_quiz_supabase.html index.html
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
