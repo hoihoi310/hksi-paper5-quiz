@@ -1,4 +1,4 @@
 window.HKSI_SUPABASE_CONFIG = {
-  url: "YOUR_SUPABASE_URL",
-  anonKey: "YOUR_SUPABASE_ANON_KEY"
+  url: "https://ybtiyqvswnzubjpwvbnz.supabase.co",
+  anonKey: "sb_publishable_nDajVv6RLBsZP5SBr5MlCg_7c4cMf6G"
 };
