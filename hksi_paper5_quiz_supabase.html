@@ -31,10 +31,10 @@ button{border:0;border-radius:10px;padding:12px 18px;font-size:15px;font-weight:
 
   <div id="authBox" class="auth">
     <div class="name">登入／建立學習帳戶</div>
-    <div class="small">使用 Email 驗證碼登入，不需要設定密碼。登入後，完成紀錄及錯題會跨裝置同步。</div>
+    <div class="small">使用 Email 一次性驗證碼登入，不需要設定密碼。登入後，完成紀錄及錯題會跨裝置同步。</div>
     <div class="auth-row" style="margin-top:10px">
       <input id="email" type="email" placeholder="your@email.com">
-      <button onclick="sendMagicLink()">發送驗證碼</button>
+      <button onclick="sendMagicLink()">發送登入驗證碼</button>
     </div>
     <div id="otpRow" class="auth-row hidden" style="margin-top:10px">
       <input id="otp" class="code-input" inputmode="numeric" autocomplete="one-time-code" maxlength="8" placeholder="輸入驗證碼">
@@ -158,13 +158,13 @@ async function sendMagicLink(){
  const {error}=await sb.auth.signInWithOtp({email,options:{shouldCreateUser:true}});
  $('authStatus').classList.remove('hidden');
  $('otpRow').classList.toggle('hidden',!!error);
- $('authStatus').textContent=error?('登入失敗：'+error.message):'驗證碼已發送，請查看 Email，並在此頁輸入 6 位數驗證碼。';
+ $('authStatus').textContent=error?('登入失敗：'+error.message):'登入驗證碼已發送，請查看 Email，並在此頁輸入 8 位數驗證碼。若郵件仍顯示登入連結，請按連結返回本網站即可完成登入。';
  $('authStatus').className='status '+(error?'bad':'good');
 }
 async function verifyEmailCode(){
  if(!SUPABASE_ENABLED)return;
  const email=$('email').value.trim(),token=$('otp').value.trim();
- if(!email||!/^\d{6,8}$/.test(token)){alert('請輸入 Email 及 6 至 8 位數驗證碼。');return}
+ if(!email||!/^\d{8}$/.test(token)){alert('請輸入 Email 及 8 位數驗證碼。');return}
  const {error}=await sb.auth.verifyOtp({email,token,type:'email'});
  $('authStatus').classList.remove('hidden');
  $('authStatus').textContent=error?('驗證失敗：'+error.message):'登入成功，正在同步你的資料。';

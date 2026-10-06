@@ -21,7 +21,11 @@ HKSI Paper 5 練習網站，使用 GitHub Pages 發布。題目在瀏覽器直�
 
 1. 建立 Supabase 專案，並在 SQL Editor 執行 `supabase/schema.sql`。
 2. 編輯 `supabase/config.js`，填入 Project URL 和 anon/publishable key。此 key 是前端公開 key，資料安全依賴 SQL 中的 Row Level Security 政策；不可放入 service role key。
-4. 在 Supabase Authentication 的 URL 設定中加入 GitHub Pages 網址作為 Site URL 和 Redirect URL。
+3. 在 Supabase Authentication 的 URL 設定中加入 GitHub Pages 網址作為 Site URL 和 Redirect URL。
+4. 在 Authentication → Providers → Email，關閉 **Confirm email**。否則新帳戶會套用 `Confirm signup` 模板，寄出「Confirm your email address」連結，而不是 OTP。
+5. 在 Authentication → Emails → Magic link or OTP，將郵件模板設定為只寄送一次性驗證碼。保留 `{{ .Token }}`，移除包含 `{{ .ConfirmationURL }}` 的 `<a href=...>` 段落；否則同一封郵件會同時出現驗證碼和登入連結。
+
+網站也能處理誤收到的登入連結：點擊連結回到網站後會直接建立登入狀態。不過若要使用頁面上的「輸入驗證碼」流程，模板必須移除 `{{ .ConfirmationURL }}`。
 
 請勿將任何 Supabase service role key 或其他伺服器密鑰放進此 repo。
 
