@@ -1,0 +1,802 @@
+[
+  {
+    "id": "T2-201",
+    "topic": "Topic 2",
+    "subtopic": "Listing Procedures - Form A1 Submission Requirements",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 9.10A 條及第 9.11 條，新上市申請人正式呈交上市申請表格（Form A1）時，必須隨表格一併送交聯交所的文件包括下列哪一組？",
+    "options": {
+      "A": "發行人的全套原始研發源代碼硬盤",
+      "B": "大致完備的上市文件申請版本（Application Proof）、保薦人確認營運資金充裕的信件草稿、所有擬申請豁免之草稿，以及首次上市費支票",
+      "C": "印發完畢的正式繁簡雙語招股章程最終版 5,000 份",
+      "D": "全體承銷商辛迪加成員已簽署的不可撤回最終包銷協議"
+    },
+    "answer": "B",
+    "explanation": "指南 2-58 頁 9.45 節及 MBLR 9.10A/9.11 明確規定：遞交 Form A1 時必須附帶：(1) 格式合規的申請版本（Application Proof）；(2) 豁免申請草稿；(3) 保薦人確認營運資金充足的函件草稿；(4) 董事/監事個人資料；及 (5) 首次上市費支票。",
+    "reference": "MBLR 9.10A, 9.11; HKSI Paper 5 Guide Topic 2 Section 9.45"
+  },
+  {
+    "id": "T2-202",
+    "topic": "Topic 2",
+    "subtopic": "Application Proof - Information Completeness & Accuracy",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 9.03(3) 條，在向聯交所呈交上市文件申請版本（Application Proof）之前，發行人董事會及保薦人必須確保該文件：",
+    "options": {
+      "A": "可以遺漏全部財務數據，待上市聆訊當天才補齊",
+      "B": "在所有重大方面均屬準確及完整，不具誤導性或欺詐性，且相關呈交已獲董事會及／或股東決議案正式授權批准",
+      "C": "僅需包含發行人的公司簡介投影片即可",
+      "D": "無須經任何董事審閱即可直接送交"
+    },
+    "answer": "B",
+    "explanation": "指南 2-57 頁 9.42(c) 節及 MBLR 9.03(3) 指明：在交付 Application Proof 前，各董事及監事必須確保其中資料在所有重大方面均準確完備且不具誤導性，發行人亦須確保已通過董事會或股東決議案正式授權該項呈交。",
+    "reference": "MBLR 9.03(3); HKSI Paper 5 Guide Topic 2 Section 9.42(c)"
+  },
+  {
+    "id": "T2-203",
+    "topic": "Topic 2",
+    "subtopic": "Application Proof Return - Example Omissions",
+    "difficulty": "Level 3",
+    "question": "根據聯交所刊發的上市決策及指南案例，下列哪項重大資料遺漏（Material omission）曾直接導致聯交所將上市申請版本（Application Proof）退回並施加 8 週暫停期？",
+    "options": {
+      "A": "遺漏了發行人辦公室前台行政人員的英文別名",
+      "B": "遺漏了關連人士提供擔保之重大貸款的關鍵資料，或遺漏了某執行董事曾任職法團被法庭頒令強制清盤及受聯交所紀律處分的紀錄",
+      "C": "遺漏了公司內部週五便服日的具體執行指引",
+      "D": "未載明發行人註冊地當地的實時天氣預報"
+    },
+    "answer": "B",
+    "explanation": "指南 2-57 至 2-58 頁 9.43 節明確引述真實退回個案：(a) 遺漏關連人士擔保貸款（涉及利益衝突重大審查）；(b) 遺漏董事曾任董事之公司遭法庭頒令強制清盤及違反上市規則紀錄（直接關乎董事品行誠信）。兩者均屬重大缺陷導致退回。",
+    "reference": "HKEX Guide Annex A.21; HKSI Paper 5 Guide Topic 2 Section 9.43"
+  },
+  {
+    "id": "T2-204",
+    "topic": "Topic 2",
+    "subtopic": "Listing Hearing - 4 Clear Business Days Submission Deadline",
+    "difficulty": "Level 2",
+    "question": "根據主板第 9.11 條，在上市委員會聆訊日期（Hearing date）前至少四個淨營業日（At least 4 clear business days prior），申請人必須呈交下列哪項關鍵文件？",
+    "options": {
+      "A": "上市文件的最後定稿版本（Final proof of the listing document）、已簽署的各項豁免申請、整體協調人費用明細，以及（如適用）中國證監會完成備案通知書",
+      "B": "上市後首份年度財務報告的完整草案",
+      "C": "全港零售中籤散戶的身份證號碼名冊",
+      "D": "香港特區行政長官簽署的推薦信"
+    },
+    "answer": "A",
+    "explanation": "指南 2-58 至 2-59 頁 9.48 節及 MBLR 9.11(18)–(23b) 指明：在聆訊日前至少 4 個淨營業日，必須呈交：上市文件最終定稿、所有正式簽署的豁免申請、整體協調人及中介人費用明細、以及 CSRC 境外上市備案通知書副本（如適用）。",
+    "reference": "MBLR 9.11; HKSI Paper 5 Guide Topic 2 Section 9.48"
+  },
+  {
+    "id": "T2-205",
+    "topic": "Topic 2",
+    "subtopic": "Sponsors Declaration Form E - Timing & Content",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 9.11(35) 條，保薦人及整體協調人向聯交所呈交《保薦人／整體協調人聲明》（Form E）的法定時限與核心聲明內容為：",
+    "options": {
+      "A": "在遞交 Form A1 當日提交，確認公司盈利預測達到 10 億港元",
+      "B": "在股份買賣開始之前（Before dealings commence）呈交，確認承配人／獲配發人數目、簿記建檔程序已按配售指引妥為執行，且上市規則獲全面遵守",
+      "C": "在上市敲鑼滿 1 年後呈交",
+      "D": "在招股章程發行前 3 個月呈交"
+    },
+    "answer": "B",
+    "explanation": "指南 2-60 頁 9.52 節及 MBLR 9.11(35)–(39) 規定：在股份開始買賣前，各保薦人及整體協調人必須呈交 Form E，申報承配人與獲配人人數、獲配證券數額，整體協調人確認已執行建檔並符合配售指引，保薦人確認規則已獲遵從。",
+    "reference": "MBLR Form E; HKSI Paper 5 Guide Topic 2 Section 9.52"
+  },
+  {
+    "id": "T2-206",
+    "topic": "Topic 2",
+    "subtopic": "CWUMPO - Prospectus Authorisation Registration at 11 AM",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 9.11(33) 條，若上市文件同時構成 CWUMPO 下的公開招股章程，發行人必須在擬定授權註冊招股章程當天的何時之前，將正式簽署的章程及授權申請呈送聯交所？",
+    "options": {
+      "A": "當天下午 5 時正",
+      "B": "不得遲於當天上午 11 時正（Not later than 11:00 am on the intended date of authorisation）",
+      "C": "當天午夜 12 時正",
+      "D": "在前一個月最後一個營業日"
+    },
+    "answer": "B",
+    "explanation": "指南 2-59 至 2-60 頁 9.51 節及 MBLR 9.11(33) 指明：若上市文件構成招股章程，必須在擬授權註冊當日上午 11:00 前，向聯交所送交：授權註冊申請、兩份經妥為簽署的招股章程，以及翻譯員與保薦人出具的翻譯無誤與勝任證書。",
+    "reference": "MBLR 9.11(33); HKSI Paper 5 Guide Topic 2 Section 9.51"
+  },
+  {
+    "id": "T2-207",
+    "topic": "Topic 2",
+    "subtopic": "Prospectus Translation Certificate - Sponsor Duty",
+    "difficulty": "Level 2",
+    "question": "根據主板第 9.11(33)(b) 條，在就招股章程中文或英文譯本辦理註冊手續時，保薦人負有何種法定認證職責？",
+    "options": {
+      "A": "保薦人負責全權逐字手寫翻譯整本章程",
+      "B": "保薦人必須出具證書，證明該翻譯員具備相應的翻譯勝任能力（Certificate issued by the sponsor that the translator is competent），並附帶翻譯員確認翻譯真實正確的證書",
+      "C": "保薦人無須出具任何證明，全憑公證處裁定",
+      "D": "保薦人須保證譯本絕無任何標點符號瑕疵"
+    },
+    "answer": "B",
+    "explanation": "指南 2-60 頁 9.51(c) 節及 MBLR 9.11(33) 規定：呈交章程譯本時，除翻譯員出具核證無誤的證明外，保薦人亦必須出具證書，確認該翻譯員具備勝任能力（Translator is competent）。",
+    "reference": "MBLR 9.11(33); HKSI Paper 5 Guide Topic 2 Section 9.51(c)"
+  },
+  {
+    "id": "T2-208",
+    "topic": "Topic 2",
+    "subtopic": "Listing Documents - General Overriding Disclosure Principle (SMLR)",
+    "difficulty": "Level 2",
+    "question": "根據《證券及期貨（股票市場上市）規則》（SMLR）及主板第 11 章，貫穿上市文件編制的核心「凌駕性披露原則」（Overriding principle）是：",
+    "options": {
+      "A": "上市文件字數必須嚴格控制在 100 頁以內",
+      "B": "上市文件必須載有一切必需的詳細資料及詳情，使有意投資者能在掌握充分資訊的情況下，就發行人及其尋求上市的證券作出知情評估（Informed assessment）",
+      "C": "上市文件只需載列過去五年的利潤表即可",
+      "D": "上市文件必須承諾向投資者全額保本"
+    },
+    "answer": "B",
+    "explanation": "指南 2-60 至 2-61 頁 9.59 節及 SMLR 第 3 條明文指明：凌駕性原則要求上市申請文件必須包含能讓投資者就發行人資產負債、經營狀況、利潤前景及證券權利作出充分知情評估（Informed decision/assessment）的一切必要資料。",
+    "reference": "SMLR s.3; MBLR 11.07; HKSI Paper 5 Guide Topic 2 Section 9.59"
+  },
+  {
+    "id": "T2-209",
+    "topic": "Topic 2",
+    "subtopic": "Listing Documents - Appendix D1A vs Appendix D1B",
+    "difficulty": "Level 1",
+    "question": "根據主板上市規則第 11 章，規範「新上市申請人」（New applicant）與「已上市發行人」（Existing issuer）刊發上市文件內容要求的附錄分別為：",
+    "options": {
+      "A": "新申請人適用附錄 C1；已上市發行人適用附錄 C2",
+      "B": "新申請人適用附錄 D1A（Appendix D1A）；已上市發行人適用附錄 D1B（Appendix D1B）",
+      "C": "新申請人適用附錄 F1；已上市發行人適用附錄 F2",
+      "D": "兩者均適用同一份附錄 A1"
+    },
+    "answer": "B",
+    "explanation": "指南 2-60 頁 9.57 節及 MBLR 第 11 章指明：新申請人的上市文件內容具體要求載於附錄 D1A；而現有已上市發行人（如後續供股或公開發售）的上市文件內容要求則載於附錄 D1B。",
+    "reference": "MBLR Appendices D1A, D1B; HKSI Paper 5 Guide Topic 2 Section 9.57"
+  },
+  {
+    "id": "T2-210",
+    "topic": "Topic 2",
+    "subtopic": "Formal Notice Publication (MBLR 12.04)",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 12 章，新申請人在公開發售或配售新股時刊發的「正式通告」（Formal Notice），其刊發時限與審閱要求為：",
+    "options": {
+      "A": "在上市掛牌滿一週後發布",
+      "B": "必須在上市文件刊發當日（Date of issue of the listing document）在聯交所及發行人網站刊登，且在聯交所完成審閱前嚴禁擅自發布",
+      "C": "可在任何時間隨意刊發，無須經聯交所審閱",
+      "D": "僅需在香港郵政局大堂張貼紙本通告"
+    },
+    "answer": "B",
+    "explanation": "指南 2-61 頁 9.63 節及 MBLR 12.02–12.04 指明：正式通告須於上市文件發行之日在發行人網站及聯交所披露易發布；且在聯交所審閱同意前，不得擅自刊登任何正式通告。",
+    "reference": "MBLR 12.02, 12.04; HKSI Paper 5 Guide Topic 2 Section 9.63"
+  },
+  {
+    "id": "T2-211",
+    "topic": "Topic 2",
+    "subtopic": "Exchange Discretion to Publish Information (MBLR 13.08)",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 13.08 條，為維持高水平的市場透明度，聯交所有權要求上市發行人刊發特定資料。若發行人無正當理由拒絕遵從該要求，聯交所獲授權採取何種直接行動？",
+    "options": {
+      "A": "聯交所可自行直接將該資料向市場公開發布（The SEHK may publish the information itself）",
+      "B": "聯交所必須向國際法庭提起跨國仲裁",
+      "C": "聯交所只能保持沉默，無任何干預權力",
+      "D": "聯交所必須強制買入發行人 10% 的股票"
+    },
+    "answer": "A",
+    "explanation": "指南 2-62 頁 9.67 節及 MBLR 13.08 指明：聯交所可要求發行人刊登進一步資料；若發行人未有遵從，聯交所可在聽取其陳述後，自行將該項資料向市場公佈，以防止市場資訊受阻。",
+    "reference": "MBLR 13.08; HKSI Paper 5 Guide Topic 2 Section 9.67"
+  },
+  {
+    "id": "T2-212",
+    "topic": "Topic 2",
+    "subtopic": "Connected Persons - 30% Controlled Company Definition",
+    "difficulty": "Level 3",
+    "question": "在界定關連人士的「緊密聯繫人」（Close Associate）時，根據《上市規則》第 14A.12 條，由關連人士個人直接或間接控制多少表決權的法團，會被界定為「受控公司」（Controlled Company）從而構成關連人士？",
+    "options": {
+      "A": "控制 5% 或以上表決權的公司",
+      "B": "控制 30% 或以上表決權的公司（30%-controlled company），或有權控制董事會過半數組成的公司及其附屬公司",
+      "C": "必須為 100% 全資持股的公司",
+      "D": "持有 1 股優先股的公司"
+    },
+    "answer": "B",
+    "explanation": "指南 2-48 頁 11.27 節註釋 1 及 MBLR 14A.12(1)(c) 指明：受控公司（Controlled company）是指由該個人單獨或連同其家屬有權在股東大會行使或控制行使 30% 或以上投票權，或控制董事會組成過半數的公司及其下屬附屬公司。",
+    "reference": "MBLR 14A.12; HKSI Paper 5 Guide Topic 2 Section 11.27 Note 1"
+  },
+  {
+    "id": "T2-213",
+    "topic": "Topic 2",
+    "subtopic": "Connected Transactions - Definition of Transaction",
+    "difficulty": "Level 2",
+    "question": "根據《上市規則》第 14A.24 條，下列哪項商業安排明確屬於受第 14A 章規管的「關連交易」（Connected Transaction）範疇？",
+    "options": {
+      "A": "上市發行人自關連人士處購買或出售任何資產（無論是否屬於資本性資產）",
+      "B": "發行人與關連人士訂立租賃合約、合營企業安排或提供財務資助",
+      "C": "發行人向關連人士發行新證券或轉讓庫存股份",
+      "D": "以上全部各項均屬於受規管的關連交易"
+    },
+    "answer": "D",
+    "explanation": "依據 MBLR 14A.24 及指南 2-47 頁 11.25 節：關連交易的範圍極廣，包括購買/出售資產、租賃物業、提供/接受服務、設立合營、提供/獲取財務資助、以及發行新證券或庫存股份予關連人士等。",
+    "reference": "MBLR 14A.24; HKSI Paper 5 Guide Topic 2 Section 11.25"
+  },
+  {
+    "id": "T2-214",
+    "topic": "Topic 2",
+    "subtopic": "Connected Transactions - Qualified Property Acquisition Exemption",
+    "difficulty": "Level 2",
+    "question": "根據主板第 14.33A 條及第 14A.101 條，合資格地產發行人（Qualified Issuer）在特定政府土地招標或拍賣中進行的「合資格物業收購」（Qualified Property Acquisition），可享有何種上市規則豁免？",
+    "options": {
+      "A": "可免除遵守第 14 章須予公布交易及第 14A 章部分關連交易的股東大會批准要求（以公告及通函申報替代）",
+      "B": "完全免繳土地出讓金",
+      "C": "自動將所購土地列為永久免稅物業",
+      "D": "免除編制經審計年度財務報表"
+    },
+    "answer": "A",
+    "explanation": "指南 2-49 頁 11.32 節及 MBLR 14.33A–14.33B 指出：合資格發行人參與政府土地競投或合營投標等合格物業收購，可享有豁免股東批准等特定監管便利，以配合房地產行業快速競標投地的商業常規。",
+    "reference": "MBLR 14.33A, 14.33B; HKSI Paper 5 Guide Topic 2 Section 11.32"
+  },
+  {
+    "id": "T2-215",
+    "topic": "Topic 2",
+    "subtopic": "Reverse Takeovers - De Facto Control Change Indicator",
+    "difficulty": "Level 3",
+    "question": "在聯交所依據原則驗證法審查反收購（RTO）時，關於「控制權變更」（Change in control），下列哪種情況即使未涉及單一股東持股突破 30%，仍可能被聯交所判定為存在「事實上的控制權變更」（De facto control change）？",
+    "options": {
+      "A": "發行人更換了辦公室接待員",
+      "B": "單一大股東將其股權轉讓予新投資者，新投資者雖僅持有 25% 股權，但獲賦權全面撤換董事會過半數成員並更換行政總裁及核心管理團隊",
+      "C": "全體獨立非執行董事連任屆滿 3 年",
+      "D": "發行人發行了為期 3 個月的商業匯票"
+    },
+    "answer": "B",
+    "explanation": "指南 2-45 頁 11.17(e) 節註釋指明：控制權變動不限於《收購守則》下的 30% 法定門檻，聯交所會考量事實上的控制權變更（De facto control），包括單一大股東轉移、董事會組成實質換血、或核心最高行政管理權移交。",
+    "reference": "MBLR 14.06B; HKSI Paper 5 Guide Topic 2 Section 11.17 Note"
+  },
+  {
+    "id": "T2-216",
+    "topic": "Topic 2",
+    "subtopic": "Reverse Takeovers - Reversal of Burden of Proof on Extreme Transactions",
+    "difficulty": "Level 3",
+    "question": "上市發行人若主張將一項符合反收購特徵的重大交易降級分類為「極端交易」（Extreme Transaction），其法定「舉證責任」（Burden of proof）承擔主體為：",
+    "options": {
+      "A": "聯交所上市委員會負有全部舉證責任證明其不是借殼",
+      "B": "發行人自身負有舉證責任（The issuer must demonstrate that the transaction was not an attempt to circumvent），證明其無意規避新上市規定並符合長期控制與業務龐大之標準",
+      "C": "由散戶股東大會自行推舉代表舉證",
+      "D": "由公司外部印刷商代為舉證"
+    },
+    "answer": "B",
+    "explanation": "指南 2-45 頁 11.19 節明確指明：尋求將 RTO 重新歸類為極端交易時，發行人自身必須向聯交所舉證證明（Demonstrate）該交易並非意圖規避新上市標準，並滿足同一控制至少 36 個月及業務具備龐大規模（收益/資產逾 10 億）的硬性標準。",
+    "reference": "MBLR 14.06C; HKSI Paper 5 Guide Topic 2 Section 11.19"
+  },
+  {
+    "id": "T2-217",
+    "topic": "Topic 2",
+    "subtopic": "Notifiable Transactions - Equity Capital Ratio Calculation",
+    "difficulty": "Level 2",
+    "question": "根據《上市規則》第 14.07(5) 條，在須予公布交易的五大比率中，「股本比率」（Equity capital ratio）的分子與分母分別為：",
+    "options": {
+      "A": "發行人的淨資產除以總負債",
+      "B": "發行人作為代價而發行／轉讓的股份及庫存股數目，除以緊接交易前發行人已發行股份總數（不含庫存股）",
+      "C": "控股股東名下持股數目除以公眾持股數目",
+      "D": "新股發行價除以每股面值"
+    },
+    "answer": "B",
+    "explanation": "指南 2-41 頁 11.7 節及 MBLR 14.07(5) 規定：股本比率計算方式為：作為對價發行或由庫存轉讓的股份數目，除以緊接該項交易前發行人已發行股份總數（不計庫存股份）。",
+    "reference": "MBLR 14.07(5); HKSI Paper 5 Guide Topic 2 Section 11.7"
+  },
+  {
+    "id": "T2-218",
+    "topic": "Topic 2",
+    "subtopic": "Trading Halt - Duration Exceeding Two Trading Days",
+    "difficulty": "Level 1",
+    "question": "根據主板第 6.02 條，上市發行人申請的「短暫停牌」（Trading Halt）若因編制公告耗時等原因持續超過了兩個交易日，該狀態將在法規程序上：",
+    "options": {
+      "A": "自動解除並強制於第三天開市前復牌",
+      "B": "自動轉為正式的「停牌」（Automatically become a trading suspension）",
+      "C": "發行人董事自動喪失董事資格",
+      "D": "發行人被即時罰款 1,000 萬港元"
+    },
+    "answer": "B",
+    "explanation": "指南 2-50 頁 12.2 節指明：短暫停牌是預期不超過兩個交易日的交易中斷；若短暫停牌時間超過兩個交易日，該交易中斷將自動轉換為正式「停牌」（Trading suspension）。",
+    "reference": "MBLR 6.02; HKSI Paper 5 Guide Topic 2 Section 12.2"
+  },
+  {
+    "id": "T2-219",
+    "topic": "Topic 2",
+    "subtopic": "Cancellation of Listing - Remedial Period Specification",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 6.01A 條及第 6.10 條，當聯交所考慮取消某發行人的上市地位時（除連續停牌 18 個月自動觸發外），聯交所通常採取的程序步驟是：",
+    "options": {
+      "A": "在 5 分鐘內切斷該公司所有交易系統終端",
+      "B": "透過發布公告指明發行人必須補正的具體事項（Matters required to be remedied），並訂明發行人必須採取補救行動的期限，屆滿未能達標方正式除牌",
+      "C": "強制將公司所有資產拍賣並分派予聯交所職員",
+      "D": "命令發行人遷出香港"
+    },
+    "answer": "B",
+    "explanation": "指南 2-52 頁 12.13 節及 MBLR 6.10 指明：聯交所在考慮除牌時，通常會發布公告訂明發行人必須糾正的問題及具體期限（Remedial period）；若發行人在指定期限內未能完成補救，聯交所將正式發出取消上市地位通告。",
+    "reference": "MBLR 6.10; HKSI Paper 5 Guide Topic 2 Section 12.13"
+  },
+  {
+    "id": "T2-220",
+    "topic": "Topic 2",
+    "subtopic": "Disciplinary Sanctions - Prejudice to Investors Statement",
+    "difficulty": "Level 2",
+    "question": "根據主板第 2A.10(c) 條，上市委員會在對違規個人施加處分時，若認為某現任或前任董事／高管的留任會損害市場，上市委員會有權發出的公開制裁聲明為：",
+    "options": {
+      "A": "公開聲明該個人已被判處終身監禁",
+      "B": "發表公開聲明，指該身為發行人或其附屬公司董事或高級管理層的個人，「可能會損害投資者的利益」（May cause prejudice to the interests of investors）",
+      "C": "命令該個人的銀行賬戶對全體公眾公開",
+      "D": "沒收該個人的全部護照與旅行證件"
+    },
+    "answer": "B",
+    "explanation": "指南 2-56 頁 13.4(c) 節及 MBLR 2A.10(b) 指明：聯交所可公開發表聲明，指出某董事或高級管理層個人的留任或行為可能會損害投資者利益（Prejudice to the interests of investors），作為嚴重公開制裁手段。",
+    "reference": "MBLR 2A.10; HKSI Paper 5 Guide Topic 2 Section 13.4(c)"
+  },
+  {
+    "id": "T2-221",
+    "topic": "Topic 2",
+    "subtopic": "GEM Listing Division Powers - Discharge by Listing Committee",
+    "difficulty": "Level 1",
+    "question": "根據 GEM 上市規則第 3 章，香港聯交所董事會就 GEM 板塊上市事宜的所有法定權力與職能，已正式授權由下列哪一個專責架構行使？",
+    "options": {
+      "A": "全權由香港警務處商業罪案調查科行使",
+      "B": "由 GEM 上市委員會（GEM Listing Committee）及／或其轉授權的上市科（Listing Division）及聯交所行政總裁行使",
+      "C": "由全港註冊會計師公會理事會行使",
+      "D": "由各上市公司獨立董事組成的互助協會行使"
+    },
+    "answer": "B",
+    "explanation": "指南 2-6 頁 2.1 節及 GLR 3.01–3.02 指明：聯交所董事會已將 GEM 上市事宜的所有權力轉授予 GEM 上市委員會；該委員會再將日常管理職能轉授予上市科及聯交所行政總裁執行。",
+    "reference": "GLR 3.01, 3.02; HKSI Paper 5 Guide Topic 2 Section 2.1"
+  },
+  {
+    "id": "T2-222",
+    "topic": "Topic 2",
+    "subtopic": "GEM Financial Reports Publication Deadlines",
+    "difficulty": "Level 2",
+    "question": "根據 GEM 上市規則第 18 章，GEM 上市發行人在刊發經審計年度報告及半年度中期報告時，其法定完成時限分別為：",
+    "options": {
+      "A": "年報：財年結束後 1 個月內；中期報告：半年度結束後 2 週內",
+      "B": "年報：於財政年度結束後四個月內；中期報告：於財政年度前六個月結束後三個月內刊發（Annual report within 4 months; Interim report within 3 months）",
+      "C": "年報：於財年結束後 6 個月內；中期報告：於半年度結束後 5 個月內",
+      "D": "GEM 發行人完全無須刊發中期報告"
+    },
+    "answer": "B",
+    "explanation": "指南 2-5 頁 1.5(b) 節註釋及 GLR Chapter 18 明確規定：GEM 發行人必須在財政年度結束後 4 個月內刊發年報，並在財政年度上半年結束後 3 個月內刊發中期報告。",
+    "reference": "GLR Chapter 18; HKSI Paper 5 Guide Topic 2 Section 1.5(b) Note"
+  },
+  {
+    "id": "T2-223",
+    "topic": "Topic 2",
+    "subtopic": "GEM Statement of Business Objectives",
+    "difficulty": "Level 2",
+    "question": "根據 GEM 上市規則第 11.15 條，新申請人在 GEM 首次刊發的上市文件中，在業務規劃披露層面必須載有下列哪項專項內容？",
+    "options": {
+      "A": "未來 20 年的每季固定派息承諾表",
+      "B": "詳細的「業務目標聲明」（Statement of business objectives），詳述其業務目標及上市後兩個財政年度內的落實進度計劃",
+      "C": "全體創辦人私人資產保證金收據",
+      "D": "保證首日股價不跌的書面承諾"
+    },
+    "answer": "B",
+    "explanation": "指南 2-4 頁 1.5(a) 節及 GLR 11.15 指明：GEM 新申請人必須在上市文件中列載詳盡的業務目標聲明（Statement of business objectives），詳細分析其商業規劃及集資款項推進時間表。",
+    "reference": "GLR 11.15; HKSI Paper 5 Guide Topic 2 Section 1.5(a)"
+  },
+  {
+    "id": "T2-224",
+    "topic": "Topic 2",
+    "subtopic": "Partly Paid Shares - Main Board vs GEM",
+    "difficulty": "Level 2",
+    "question": "關於未繳足股款股份（Partly paid shares）在聯交所的掛牌上市資格，主板與 GEM 規則的規定為：",
+    "options": {
+      "A": "GEM 允許未繳足股份上市，主板嚴格禁止",
+      "B": "主板在特定條件下（轉讓不受無理限制且交易能在公開正常基礎下進行）可准許未繳足股份上市；但 GEM 規則嚴格禁止未繳足股款股份上市",
+      "C": "主板及 GEM 均全面強制所有股份必須以未繳足形式發行",
+      "D": "未繳足股份只能在香港金銀業貿易場上市"
+    },
+    "answer": "B",
+    "explanation": "指南 2-47 頁 9.4(a) 節註釋及 MBLR 8.13、GLR 11.27 指明：主板可接納未繳足股份上市（前提是轉讓不受限且市場交易公開），而 GEM 規則則明確禁止未繳足股款的股份上市。",
+    "reference": "MBLR 8.13; GLR 11.27; HKSI Paper 5 Guide Topic 2 Section 9.4(a) Note"
+  },
+  {
+    "id": "T2-225",
+    "topic": "Topic 2",
+    "subtopic": "GEM Transfer - Volume Weighted Average Market Capitalisation",
+    "difficulty": "Level 3",
+    "question": "在合資格 GEM 發行人依據第 9B 章申請簡化轉往主板上市時，其在市值維度上必須符合的具體標準是：",
+    "options": {
+      "A": "在遞交申請當日收市時市值達到 1,000 萬港元即可",
+      "B": "在指定參考期內滿足聯交所規定的「成交量加權平均市值」（Volume weighted average market capitalisation）要求，以反映其二級市場具備真實主板體量",
+      "C": "市值必須超過 500 億港元",
+      "D": "無須任何市值標準，僅看淨利潤"
+    },
+    "answer": "B",
+    "explanation": "指南 2-43 頁 8.36(b) 節及 MBLR Chapter 9B 規定：簡化轉板發行人的市值必須在整個參考期內符合聯交所制定的成交量加權平均市值（VWAM）要求，杜絕股價虛假炒作造成的單日達標。",
+    "reference": "MBLR Chapter 9B; HKSI Paper 5 Guide Topic 2 Section 8.36(b)"
+  },
+  {
+    "id": "T2-226",
+    "topic": "Topic 2",
+    "subtopic": "GEM Transfer - Working Capital Confirmation",
+    "difficulty": "Level 2",
+    "question": "GEM 發行人申請簡化轉移至主板上市時，必須隨申請遞交由其財務顧問或核數師經審慎周詳考慮後出具的何種書面確認？",
+    "options": {
+      "A": "確認發行人的營運資金（Working capital）足以應付目前及自轉板公告刊發之日起至少 12 個月所需",
+      "B": "確認發行人全體董事已放棄收取任何薪酬",
+      "C": "確認發行人不再從事任何商業業務",
+      "D": "確認發行人獲得了全體 GEM 投資者的口頭表決贊成"
+    },
+    "answer": "A",
+    "explanation": "指南 2-44 頁 8.38 節及 MBLR Chapter 9B 指明：簡化轉板申請必須提交由財務顧問或核數師出具的書面確認函，證實發行人的營運資金充裕，足以應付現時及自公告刊發起 12 個月所需。",
+    "reference": "MBLR Chapter 9B; HKSI Paper 5 Guide Topic 2 Section 8.38"
+  },
+  {
+    "id": "T2-227",
+    "topic": "Topic 2",
+    "subtopic": "GEM Transfer - Announcement Timetable",
+    "difficulty": "Level 2",
+    "question": "根據主板第 9B 章，GEM 發行人接獲聯交所就其簡化轉板申請發出的原則性正式批准後，其刊發轉板公告的時限要求為：",
+    "options": {
+      "A": "在主板開始買賣滿一個月後發布",
+      "B": "在收到原則性批准後不遲於 1 個營業日內發布公告，且該公告必須在預期股份於主板開始買賣之日前至少 5 個淨營業日刊發",
+      "C": "在股東週年大會當天早晨發布",
+      "D": "公告刊發時間由經紀商自行斟酌"
+    },
+    "answer": "B",
+    "explanation": "指南 2-44 頁 8.39 節及 MBLR Chapter 9B 規定：發行人接獲正式原則性批准後，須在不遲於 1 個營業日內發布公告；且該公告必須在主板開始交易前至少 5 個淨營業日（At least 5 clear business days）刊發。",
+    "reference": "MBLR Chapter 9B; HKSI Paper 5 Guide Topic 2 Section 8.39"
+  },
+  {
+    "id": "T2-228",
+    "topic": "Topic 2",
+    "subtopic": "GEM Post-Listing Compliance Adviser Period",
+    "difficulty": "Level 2",
+    "question": "對於在 GEM 板塊新上市的發行人，其必須委聘合規顧問（Compliance Adviser）的法定強制期限為：",
+    "options": {
+      "A": "上市後滿 3 個月為止",
+      "B": "至少持續至發行人刊發其上市後「第二個完整財政年度」（Second full financial year）的財務業績之日為止",
+      "C": "僅持續至上市後首份季度業績公布為止",
+      "D": "GEM 發行人完全無須委任合規顧問"
+    },
+    "answer": "B",
+    "explanation": "GLR 6A.19 及監管指引指明：與主板（首個完整財年）不同，GEM 發行人的市場風險較高，其合規顧問的委任期必須至少持續至刊發上市後「第二個完整財政年度」（Second full financial year）之日為止。",
+    "reference": "GLR 6A.19; HKSI Paper 5 Guide Topic 2 Section 3.15"
+  },
+  {
+    "id": "T2-229",
+    "topic": "Topic 2",
+    "subtopic": "PRC Issuers - Articles Quorum & Voting Appendix D1A Requirements",
+    "difficulty": "Level 2",
+    "question": "根據主板附錄 D1A 第 54 至 65 段的補充條款，中國內地註冊成立的 H 股發行人，其上市文件招股章程中必須特別詳盡載有下列哪項專門資訊？",
+    "options": {
+      "A": "全體中國內地員工的戶籍證明",
+      "B": "中國證監會（CSRC）批准／備案狀況、股東大會法定開會人數（Quorum）及表決要求、適用稅率，以及是否有充足外匯派付 H 股預期股息及清償到期外債",
+      "C": "發行人所有內地工廠的電力線路分佈圖",
+      "D": "保證 H 股股價與 A 股股價完全相等的法律意見書"
+    },
+    "answer": "B",
+    "explanation": "指南 2-30 頁 6.11 節及 MBLR Appendix D1A paras 54–65 列明：H 股上市文件必須專項披露：CSRC 備案核准情況、股東大會法定人數與表決機制、稅率、以及外匯充足性（用以支付 H 股外幣股息及清償外債）。",
+    "reference": "MBLR Appendix D1A; HKSI Paper 5 Guide Topic 2 Section 6.11"
+  },
+  {
+    "id": "T2-230",
+    "topic": "Topic 2",
+    "subtopic": "PRC Issuers - Directors Fiduciary Duties to Conform with PRC Laws",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 3.09B 條，H 股上市公司董事除遵守香港法律與上市規則外，在履職過程中還負有何種特定法定義務？",
+    "options": {
+      "A": "必須在香港法院提存 100 萬美元作為履職保證金",
+      "B": "必須遵守並盡最大努力確保發行人遵守中國內地現行有關境內外公眾公司管理、運作及規管的各項法律、法規及規範性文件",
+      "C": "嚴禁持有任何香港上市公司股票",
+      "D": "每週必須向香港中聯辦匯報工作"
+    },
+    "answer": "B",
+    "explanation": "指南 2-29 頁 6.4 節及 MBLR 3.09B 指明：H 股發行人董事必須遵守並促使發行人遵守中國內地有關公眾公司管治、營運及規管的一切適用法律、法規及規範性文件；若接獲違規行政通知，須即時書面知會聯交所。",
+    "reference": "MBLR 3.09B; HKSI Paper 5 Guide Topic 2 Section 6.4"
+  },
+  {
+    "id": "T2-231",
+    "topic": "Topic 2",
+    "subtopic": "Accountants Report - Latest Financial Period Staleness (6 Months Rule)",
+    "difficulty": "Level 2",
+    "question": "根據主板第 8.06 條（GLR 11.11 條），新上市申請人的申報會計師報告所匯報的最近一個財務期結束日，距離上市文件刊發之日：",
+    "options": {
+      "A": "不得超過 1 個月",
+      "B": "不得超過六個月（Must not have ended more than six months before the date of the listing document）",
+      "C": "不得超過 12 個月",
+      "D": "無時間限制，十年前的財務數據亦可"
+    },
+    "answer": "B",
+    "explanation": "指南 2-46 頁 9.2 節及 MBLR 8.06（GLR 11.11）指明：會計師報告所載最近期財務報表結束日，距上市文件刊發日不得超過 6 個月，以防財務數據過期失效（Staleness）。",
+    "reference": "MBLR 8.06; GLR 11.11; HKSI Paper 5 Guide Topic 2 Section 9.2"
+  },
+  {
+    "id": "T2-232",
+    "topic": "Topic 2",
+    "subtopic": "Share Registrar in Hong Kong",
+    "difficulty": "Level 1",
+    "question": "根據主板第 8.16 條及 GEM 第 11.08 條，新上市發行人必須委聘何種機構以在香港妥為備存其股東名冊？",
+    "options": {
+      "A": "香港警務處警員",
+      "B": "獲認可的股份過戶登記處（An approved share registrar to maintain its register of members in Hong Kong）",
+      "C": "任何香港註冊的旅行社",
+      "D": "全體獨立董事輪流親自擔任"
+    },
+    "answer": "B",
+    "explanation": "指南 2-46 頁 9.2 節及 MBLR 8.16（GLR 11.08）指明：發行人必須聘用獲核准的香港股份過戶登記處（Approved share registrar）在香港維持其股東名冊，以確保股份過戶及過戶登記順暢合法。",
+    "reference": "MBLR 8.16; GLR 11.08; HKSI Paper 5 Guide Topic 2 Section 9.2"
+  },
+  {
+    "id": "T2-233",
+    "topic": "Topic 2",
+    "subtopic": "Open Market Requirements - Public Subscription Tranche Sizing",
+    "difficulty": "Level 2",
+    "question": "根據主板《第 18 項應用指引》及 GEM《第 6 項應用指引》，新股發售若同時採用配售與公開發售架構，其公開認購檔份（Public subscription tranche）的基準規模規定為：",
+    "options": {
+      "A": "公開認購檔份一律強制為 100%",
+      "B": "公開認購檔份必須至少佔發售股份的 5%（且須受回撥機制規限），或至少佔發售股份的 10%（但此情況下不設回撥機制）",
+      "C": "公開認購檔份可為 0%",
+      "D": "公開認購檔份必須嚴格固定為 50%"
+    },
+    "answer": "B",
+    "explanation": "指南 2-48 頁 9.4(h) 節及 MBLR PN18、GLR PN6 規定：發售若結合配售與公開認購，公開發售檔份必須為：(i) 不得少於發售股份總數的 5% 並受制於回撥機制；或 (ii) 佔發售股份總數的 10% 且無回撥機制。",
+    "reference": "MBLR Practice Note 18; GLR Practice Note 6; HKSI Paper 5 Guide Topic 2 Section 9.4(h)"
+  },
+  {
+    "id": "T2-234",
+    "topic": "Topic 2",
+    "subtopic": "Treasury Shares - Resale Pricing vs General Mandate",
+    "difficulty": "Level 2",
+    "question": "上市發行人若依據一般性授權向二級市場出售庫存股份（Treasury shares），該出售在定價折讓幅度上受到何種上市規則限制？",
+    "options": {
+      "A": "出售庫存股可以按市價一折進行拋售",
+      "B": "其出售價較基準價的折讓幅度不得超過 20%（Discount of not more than 20% to benchmarked price），適用與增發新股相同的 20% 折讓上限規限",
+      "C": "出售價必須嚴格按每股淨資產原價出售",
+      "D": "完全無任何價格規限"
+    },
+    "answer": "B",
+    "explanation": "指南 2-26 頁 5.9 節及 MBLR 10.06A 指出：出售庫存股份等同於發售新股，依據一般性授權出售庫存股份時，其最高折讓幅度嚴格受限於《上市規則》第 13.36(5) 條的 20% 折讓上限標準。",
+    "reference": "MBLR 10.06A, 13.36(5); HKSI Paper 5 Guide Topic 2 Section 5.9"
+  },
+  {
+    "id": "T2-235",
+    "topic": "Topic 2",
+    "subtopic": "Treasury Shares - Monthly Breakdown in Annual Report",
+    "difficulty": "Level 2",
+    "question": "根據主板第 10.06B 條，上市發行人在其刊發的年報中，就該財政年度內進行的所有庫存股份出售活動，必須披露下列哪項專門資訊？",
+    "options": {
+      "A": "全體買方的香港身份證號碼",
+      "B": "按月細分的庫存股份出售記錄（Monthly breakdown），包括出售股數、售價、最高及最低價、籌集資金總額、所得款項用途以及董事出售庫存股的理由",
+      "C": "全體員工股票購買意願問卷",
+      "D": "發行人在開曼群島的銀行對賬單原件"
+    },
+    "answer": "B",
+    "explanation": "指南 2-26 頁 5.12 節及 MBLR 10.06B 明文規定：發行人年報必須載有按月細分的庫存股份出售明細，披露每月出售數量、價格區間、募集總額、資金用途，以及董事會進行該等出售的具體商業理由。",
+    "reference": "MBLR 10.06B; HKSI Paper 5 Guide Topic 2 Section 5.12"
+  },
+  {
+    "id": "T2-236",
+    "topic": "Topic 2",
+    "subtopic": "Capital Reduction - Court Confirmed Procedure",
+    "difficulty": "Level 2",
+    "question": "香港註冊成立的上市公司若不採用無須法院認可的減資程序，而選擇採用由香港高等法院確認的減資程序（Court-confirmed procedure），其法定核心程序為：",
+    "options": {
+      "A": "只需由行政總裁個人簽署命令",
+      "B": "通過股東特別決議案，並向高等法院原訟法庭申請頒令確認減資，法庭將嚴格審查債權人保護安排，以防股東私自分派資本損害債權人",
+      "C": "由證監會全權頒發減資許可，法院無權過問",
+      "D": "全體債權人必須強制轉為無表決權股東"
+    },
+    "answer": "B",
+    "explanation": "指南 2-27 頁 5.14–5.16 節及《公司條例》ss. 211, 226–232 指明：經法院確認之減資程序由股東特別決議案通過後提呈法院，法庭審查重點在於確保債權人已獲償付、獲提供保證或已同意，防止損害債權人權益。",
+    "reference": "Companies Ordinance ss. 211, 226; HKSI Paper 5 Guide Topic 2 Section 5.14-5.16"
+  },
+  {
+    "id": "T2-237",
+    "topic": "Topic 2",
+    "subtopic": "Variations in Shareholders Rights (MBLR 13.51(3))",
+    "difficulty": "Level 2",
+    "question": "根據主板第 13.51(3) 條及《公司條例》，上市發行人若擬更改某類別股份所附帶的權利（Variation of shareholders' rights），發行人必須：",
+    "options": {
+      "A": "只需由公司秘書口頭通知交易所",
+      "B": "遵守《上市規則》第 13.51 條並及時刊登公告，且必須符合其註冊地公司法及章程細則規定的類別股東大會特別批准程序",
+      "C": "強制將該類別股份無償沒收",
+      "D": "將所有變更交由香港立法會表決"
+    },
+    "answer": "B",
+    "explanation": "指南 2-27 頁 5.18 節及 MBLR 13.51(3) 指明：更改股東權利必須遵守《上市規則》並即時發布公告，且必須嚴格依循註冊成立地的法律及章程細則（香港公司適用 Cap. 622，通常須受影響類別股東 75% 特別多數批准）。",
+    "reference": "MBLR 13.51(3); HKSI Paper 5 Guide Topic 2 Section 5.18"
+  },
+  {
+    "id": "T2-238",
+    "topic": "Topic 2",
+    "subtopic": "Scheme of Arrangement - Amalgamations prior to Listing",
+    "difficulty": "Level 2",
+    "question": "在擬上市公司進行上市前資本重組時，根據《公司條例》第 668 至 677 條，發行人常採納「協議安排」（Scheme of Arrangement）進行合併與重組。此類安排必須取得何種司法核准方可生效？",
+    "options": {
+      "A": "必須獲得香港高等法院的正式頒令批准（Sanctioned by the court）",
+      "B": "只需由保薦人內部法務總監簽字",
+      "C": "僅需在香港警務處備案",
+      "D": "無須任何官方批准，公司自行登報即生效"
+    },
+    "answer": "A",
+    "explanation": "指南 2-35 頁 7.33 節及《公司條例》ss. 668–677 指明：涉及公司合併、股本重組或業務轉移的協議安排（Scheme of arrangement），除須符合法定股東/債權人投票門檻外，依法必須獲得法院正式認可批准（Sanctioned by the court）。",
+    "reference": "Companies Ordinance ss. 668-677; HKSI Paper 5 Guide Topic 2 Section 7.33"
+  },
+  {
+    "id": "T2-239",
+    "topic": "Topic 2",
+    "subtopic": "Application Monies Irrevocability Period (5 Days)",
+    "difficulty": "Level 2",
+    "question": "根據 CWUMPO 關於招股章程股份認購之法律規定，公眾投資者在遞交認購申請表格後，在認購名單開啟後的幾天內，該項申請依法是「不可撤回的」（Generally not revocable）？",
+    "options": {
+      "A": "在 1 小時之內",
+      "B": "在認購名單開啟後的第五天屆滿之前不可撤回（不包括公眾假期、週六及週日）",
+      "C": "直至上市後滿三年為止",
+      "D": "投資者在任何時候均可隨時隨意單方面撤回申請"
+    },
+    "answer": "B",
+    "explanation": "指南 2-33 頁 7.16 節指明：依據 CWUMPO，依招股章程提出的股份認購申請，在認購名單開啟後的第五天屆滿之前，一般不可撤回（Not revocable until expiration of 5th day after opening of subscription lists；公眾假期及週末不計入）。",
+    "reference": "CWUMPO; HKSI Paper 5 Guide Topic 2 Section 7.16"
+  },
+  {
+    "id": "T2-240",
+    "topic": "Topic 2",
+    "subtopic": "Director Criminal Liability for Prospectus Misstatements",
+    "difficulty": "Level 3",
+    "question": "根據 CWUMPO 第 40A(1) 條，若招股章程中載有任何重大失實陳述，授權發行該章程的發行人董事若無法證明其具備法定免責抗辯理由，該董事所面臨的刑事法律後果為：",
+    "options": {
+      "A": "只需向交易所致送書面道歉信即可免責",
+      "B": "觸犯嚴重的刑事罪行，一經定罪可被處以巨額罰款及監禁（Fine and imprisonment）",
+      "C": "自動轉任為公司的無薪行政助理",
+      "D": "刑事起訴僅適用於公司法人，董事個人絕對豁免"
+    },
+    "answer": "B",
+    "explanation": "指南 2-33 頁 7.17–7.18 節及 CWUMPO s. 40A(1) 規定：凡授權發出載有未獲證實之重大失實陳述招股章程的個人（包括董事），依法構成刑事罪行，面臨監禁及罰款刑事制裁，展現香港法律對招股書真實性的極高要求。",
+    "reference": "CWUMPO s.40A(1); HKSI Paper 5 Guide Topic 2 Section 7.17-7.18"
+  },
+  {
+    "id": "T2-241",
+    "topic": "Topic 2",
+    "subtopic": "SFO Section 107/108 - Inducing Investment Liability",
+    "difficulty": "Level 2",
+    "question": "根據 SFO 第 107 條（刑事）及第 108 條（民事），任何人在招股章程或公開要約中，藉欺詐或罔顧的失實陳述誘使他人投資，該人將面臨：",
+    "options": {
+      "A": "僅限於被聯交所內部紀律處分",
+      "B": "承擔刑事犯罪處罰，且須對任何因依賴該失實陳述而投資並蒙受金錢損失的人士承擔民事賠償責任",
+      "C": "完全免除任何民事賠償",
+      "D": "僅需退還已收取的申請表格工本費"
+    },
+    "answer": "B",
+    "explanation": "指南 2-33 頁 7.19 節及 SFO ss. 107, 108 指出：藉虛假、誤導或欺詐陳述誘使他人投資，受制於 SFO s. 107 刑事檢控，且受害者可依據 SFO s. 108 直接向相關責任人提起民事訴訟追討全部投資損失。",
+    "reference": "SFO ss. 107, 108; HKSI Paper 5 Guide Topic 2 Section 7.19"
+  },
+  {
+    "id": "T2-242",
+    "topic": "Topic 2",
+    "subtopic": "Capital Market Intermediaries - Written Agreement Timing",
+    "difficulty": "Level 2",
+    "question": "根據《操守準則》第 21 段，上市申請人委聘資本市場中介人（CMI，非整體協調人）進行配售活動時，該 CMI 與發行人之間的書面協議必須在何時落實？",
+    "options": {
+      "A": "在股份於二級市場買賣結束後簽訂",
+      "B": "在該 CMI 正式開展任何建檔或配售活動之前（Prior to conducting any bookbuilding or placing activities）簽訂",
+      "C": "在上市申請失效時簽署",
+      "D": "只要有口頭共識，永遠無須簽訂書面協議"
+    },
+    "answer": "B",
+    "explanation": "指南 1-40 頁 4.49 節及 Code of Conduct para 21 明確規定：所有參與建檔配售的資本市場中介人（CMIs），均必須在開展任何配售或簿記活動之前，與發行人訂立正式的書面協議，訂明權責與費用標準。",
+    "reference": "Code of Conduct para 21; HKSI Paper 5 Guide Topic 1 Section 4.49"
+  },
+  {
+    "id": "T2-243",
+    "topic": "Topic 2",
+    "subtopic": "GEM Listing Rules - Quarterly Reporting Removal",
+    "difficulty": "Level 1",
+    "question": "聯交所優化 GEM 上市規則後，關於 GEM 發行人的季度財務報告（Quarterly reporting）要求，現行監管常規為：",
+    "options": {
+      "A": "季度報告仍為強制的法定罪行要求",
+      "B": "聯交所已取消了 GEM 強制性編制季度財務報表的要求，將其改為建議最佳常規（Recommended best practice），使 GEM 的定期報告框架與主板對齊",
+      "C": "GEM 發行人每週均必須公布未經審計的週報",
+      "D": "GEM 發行人全面免除公布年度報告"
+    },
+    "answer": "B",
+    "explanation": "指南 2-5 頁 1.5(b) 節及 GLR 改革指明：為減輕中小企業合規成本，GEM 已廢除強制性季度報告制度，改為建議最佳常規，定期報告現行僅強制要求年度報告（4 個月內）及中期報告（3 個月內）。",
+    "reference": "GLR Chapter 18; HKSI Paper 5 Guide Topic 2 Section 1.5(b)"
+  },
+  {
+    "id": "T2-244",
+    "topic": "Topic 2",
+    "subtopic": "GEM Public Float Sizing Minimum",
+    "difficulty": "Level 2",
+    "question": "根據 GEM 上市規則第 11.23 條，GEM 發行人在上市時由公眾人士持有的股份市值，最低絕對金額要求為：",
+    "options": {
+      "A": "至少 500 萬港元",
+      "B": "至少 4,500 萬港元（At least HK$45 million，或達到發行人規定的公眾持股比例）",
+      "C": "至少 2 億港元",
+      "D": "至少 5 億港元"
+    },
+    "answer": "B",
+    "explanation": "依據 GLR 11.23(7)：GEM 發行人上市時的最低預期市值為 1.5 億港元，按最低 25% 公眾持股比例計算，由公眾人士持有的股份市值在上市時最低不得少於 4,500 萬港元（HK$45 million）。",
+    "reference": "GLR 11.23; HKSI Paper 5 Guide Topic 2 Section 9.4"
+  },
+  {
+    "id": "T2-245",
+    "topic": "Topic 2",
+    "subtopic": "Methods of Listing - Capitalisation Issue Definition",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 7.17 條，何謂「資本化發行」（Capitalisation Issue）？",
+    "options": {
+      "A": "向公眾散戶溢價發行新股以募集巨額現金",
+      "B": "將發行人的儲備或利潤撥充資本，按現有股東持股比例向其配發全數繳足的證券，且不涉及任何現金付款（如以股代息計劃）",
+      "C": "大股東將個人自置房產無償贈予公司",
+      "D": "發行高風險的次級清盤可轉債"
+    },
+    "answer": "B",
+    "explanation": "指南 2-42 頁 8.28 節及 MBLR 7.17 指明：資本化發行（紅股發行/以股代息）是指將公司儲備或利潤轉化為已發行股本，按持股比例向現有股東配發股份，過程中不涉及任何貨幣付款。",
+    "reference": "MBLR 7.17; HKSI Paper 5 Guide Topic 2 Section 8.28"
+  },
+  {
+    "id": "T2-246",
+    "topic": "Topic 2",
+    "subtopic": "Methods of Listing - Consideration Issue Dilution Effect",
+    "difficulty": "Level 2",
+    "question": "上市發行人採用「代價發行」（Consideration Issue）作為收購目標資產的支付方式，其核心商業與股權影響是：",
+    "options": {
+      "A": "發行人必須動用其全部賬面流動現金進行交割",
+      "B": "發行人無須動用自身現金儲備完成收購，但會導致現有全體股東的持股比例產生稀釋效應（Dilute the holdings of existing shareholders）",
+      "C": "現有股東自動獲得同等數量的現金補償",
+      "D": "收購目標資產自動轉為外國國有資產"
+    },
+    "answer": "B",
+    "explanation": "指南 2-42 頁 8.30 節及 MBLR 7.11 指出：代價發行（Consideration issue）是向資產賣方發行新股作為收購代價。其優勢在於節省現金，但不可避免地會擴大股本並稀釋現有股東的每股權益與投票權。",
+    "reference": "MBLR 7.11; HKSI Paper 5 Guide Topic 2 Section 8.30"
+  },
+  {
+    "id": "T2-247",
+    "topic": "Topic 2",
+    "subtopic": "Open Offer - Renounceable Documents Restriction",
+    "difficulty": "Level 2",
+    "question": "在香港資本市場發行模式中，「公開發售」（Open Offer）與「供股」（Rights Issue）的最關鍵區別在於：",
+    "options": {
+      "A": "供股發售對象是公眾散戶，公開發售對象僅為機構投資者",
+      "B": "供股發給股東的配額屬於可暫定轉讓文件（Renounceable documents，股東可在市場買賣未繳款供股權 nil-paid rights）；而公開發售發給股東的權利為不可轉讓文件（Non-renounceable），未獲認購權限無法在市場轉售",
+      "C": "公開發售必須由香港金管局擔任承銷商",
+      "D": "兩者在法律文件與交易權利上完全一模一樣"
+    },
+    "answer": "B",
+    "explanation": "指南 2-40 頁 8.19–8.20 節指明：供股向股東發出暫定配額通知書，可於二級市場買賣供股權（Renounceable）；而公開發售（Open offer）向股東提供的認購權則不具備轉讓文件（Not allocated on renounceable documents），不能在市場出售未繳款權益。",
+    "reference": "MBLR 7.18, 7.23; HKSI Paper 5 Guide Topic 2 Section 8.19-8.20"
+  },
+  {
+    "id": "T2-248",
+    "topic": "Topic 2",
+    "subtopic": "Open Offer - Minimum Offer Period (10 Business Days)",
+    "difficulty": "Level 1",
+    "question": "根據主板上市規則第 7.25 條，上市發行人進行公開發售（Open offer）時，該要約向現有股東開放接納的法定最短期限為：",
+    "options": {
+      "A": "不少於 24 小時",
+      "B": "不少於十個營業日（Minimum period of ten business days）",
+      "C": "不少於 60 個曆日",
+      "D": "開放時間完全由控股股東任意決定"
+    },
+    "answer": "B",
+    "explanation": "指南 2-40 頁 8.22 節及 MBLR 7.25 指明：公開發售的要約接納期必須維持開放至少 10 個營業日（Minimum period of 10 business days）；若發行人海外股東眾多且接納期超過 15 個營業日，須諮詢聯交所。",
+    "reference": "MBLR 7.25; HKSI Paper 5 Guide Topic 2 Section 8.22"
+  },
+  {
+    "id": "T2-249",
+    "topic": "Topic 2",
+    "subtopic": "SEHK Enquiry Response & Timetable Delay (MBLR 9.11)",
+    "difficulty": "Level 2",
+    "question": "在新上市申請審查過程中，若申請人或其保薦人未能在聯交所訂明的期限內及時回覆聯交所的質詢，聯交所獲授權採取何種處置措施？",
+    "options": {
+      "A": "直接批准發行人掛牌上市以節省時間",
+      "B": "推遲該申請的審理及聆訊時間表（The SEHK may delay the timetable），或將該申請作失效處理",
+      "C": "向高等法院申請破產令",
+      "D": "接管保薦人機構的全部資產"
+    },
+    "answer": "B",
+    "explanation": "指南 2-59 頁 9.49 節及 MBLR 9.11 指出：若申請人未能及時回覆查詢，或修訂上市文件定稿無法按期提交，聯交所有權推遲其上市時間表（Delay the timetable），從而打亂其發行發售窗口。",
+    "reference": "MBLR 9.11; HKSI Paper 5 Guide Topic 2 Section 9.49"
+  },
+  {
+    "id": "T2-250",
+    "topic": "Topic 2",
+    "subtopic": "Summary of Topic 2 Roles - Frontline Regulator",
+    "difficulty": "Level 1",
+    "question": "綜合香港機構融資法規架構，關於香港聯交所（SEHK）在所有上市相關事宜中的首要法律角色，下列陳述何者最準確？",
+    "options": {
+      "A": "聯交所是所有在港上市發行人及其上市事宜的前線監管機構（Frontline regulator），行使合約與上市規則權威，並受香港證監會（SFC）的全面監管與監督",
+      "B": "聯交所是香港唯一的刑事司法審判機關",
+      "C": "聯交所為所有上市公司股東提供永久無條件資本保本擔保",
+      "D": "聯交所是直接隸屬於香港警務處的行政執行科"
+    },
+    "answer": "A",
+    "explanation": "指南 1-8 頁 1.26 節及 2-6 頁 2.1 節明確確立了香港上市監管的基本架構：聯交所作為認可交易所，是所有上市事宜與上市發行人的前線監管者（Frontline regulator）；聯交所本身則處於香港證監會（SFC）的監管與法定監督之下。",
+    "reference": "SFO s.19; HKSI Paper 5 Guide Topic 1 Section 1.26; Topic 2 Section 2.1"
+  }
+]

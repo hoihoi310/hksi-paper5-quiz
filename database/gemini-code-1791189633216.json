@@ -1,0 +1,802 @@
+[
+  {
+    "id": "T2-051",
+    "topic": "Topic 2",
+    "subtopic": "Biotech Companies (Chapter 18A) - Minimum Market Capitalisation",
+    "difficulty": "Level 1",
+    "question": "根據主板上市規則第 18A 章，未有收益或盈利的生物科技公司（Biotech Company）申請在聯交所主板上市時，其在上市時的最低預期市值要求為：",
+    "options": {
+      "A": "至少 5 億港元",
+      "B": "至少 10 億港元",
+      "C": "至少 15 億港元（At least HK$1.5 billion）",
+      "D": "至少 40 億港元"
+    },
+    "answer": "C",
+    "explanation": "依據 MBLR 18A.03 及指南 2-50 頁 9.10 節，生物科技公司獲豁免一般財務資格測試，但上市時的預期市值必須至少達到 15 億港元（At least HK$1.5 billion）。",
+    "reference": "MBLR 18A.03; HKSI Paper 5 Guide Topic 2 Section 9.10"
+  },
+  {
+    "id": "T2-052",
+    "topic": "Topic 2",
+    "subtopic": "Biotech Companies - Working Capital Requirement",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 18A 章，生物科技新申請人必須具備充足的營運資金。該營運資金必須足以應付自刊發上市文件之日起計至少 12 個月內集團成本的多少比例？",
+    "options": {
+      "A": "至少 100%",
+      "B": "至少 125%（At least 125% of the group's costs）",
+      "C": "至少 150%",
+      "D": "至少 200%"
+    },
+    "answer": "B",
+    "explanation": "指南 2-50 頁 9.10 節指明：未有盈利的生物科技公司必須證明其具備充足營運資金，足以應付集團由上市文件刊發之日起計至少 12 個月內集團成本的至少 125%（At least 125% of the group's costs）。",
+    "reference": "MBLR 18A.03(4); HKSI Paper 5 Guide Topic 2 Section 9.10"
+  },
+  {
+    "id": "T2-053",
+    "topic": "Topic 2",
+    "subtopic": "Biotech Companies - Trading Record & Management Continuity",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 18A 章，申請上市的生物科技公司在管理層大致相同的情況下，必須具備多長的營業紀錄期？",
+    "options": {
+      "A": "至少 1 個完整財政年度",
+      "B": "至少 2 個財政年度（Two-year trading record period under substantially the same management）",
+      "C": "至少 3 個完整財政年度",
+      "D": "完全免除任何營業紀錄期要求"
+    },
+    "answer": "B",
+    "explanation": "指南 2-50 頁 9.10 節及 MBLR 18A.03(3) 指出：生物科技公司適用的營業紀錄期要求為至少兩個財政年度，且在該兩年間須在「大致相同的管理層」（Substantially the same management）管治下營運。",
+    "reference": "MBLR 18A.03(3); HKSI Paper 5 Guide Topic 2 Section 9.10"
+  },
+  {
+    "id": "T2-054",
+    "topic": "Topic 2",
+    "subtopic": "Biotech Companies - Core Product Criteria",
+    "difficulty": "Level 2",
+    "question": "根據第 18A 章及聯交所新上市指引，生物科技公司申請上市的核心前提之一，是其必須已研發出至少一款「核心產品」（Core Product）。該核心產品必須已達到下列哪項開發階段？",
+    "options": {
+      "A": "僅停留在實驗室概念構想階段",
+      "B": "研發進展已超越概念階段，擁有所需知識產權，且其商業化銷售依法需要獲得監管當局審批（如臨床試驗通過第一階段）",
+      "C": "已在全港各大藥房實現超過 1 億港元的年度零售額",
+      "D": "已在海外完成私有化退市"
+    },
+    "answer": "B",
+    "explanation": "指南 2-50 頁 9.9 節指明：合資格生物科技公司必須將核心產品研發超越概念階段（Beyond the concept stage）、擁有知識產權，且該產品受監管當局法規規管須取得官方上市許可，並曾獲至少一名資深投資者提供有實質意義的第三方投資。",
+    "reference": "MBLR 18A.01; HKSI Paper 5 Guide Topic 2 Section 9.9"
+  },
+  {
+    "id": "T2-055",
+    "topic": "Topic 2",
+    "subtopic": "Biotech Companies - Fundamental Change Prohibition",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 18A 章，未有盈利的生物科技公司在成功上市後，受到下列哪項持續責任約束？",
+    "options": {
+      "A": "上市後首三年內嚴禁委任任何新的獨立非執行董事",
+      "B": "未經聯交所事先批准，發行人不得進行任何會導致其主營業務發生根本性改變（Fundamental change of its business）的收購、出售或其他交易",
+      "C": "每年必須將所有營運資金折算為實物黃金存管",
+      "D": "必須每個月委任獨立估值師進行重組核數"
+    },
+    "answer": "B",
+    "explanation": "指南 2-51 頁 9.11 節及 MBLR 18A.10 規定：生物科技發行人在未符合常規主板財務資格前，若未經聯交所事先批准，嚴禁進行任何會導致其業務性質出現根本轉變的交易，以防借殼或偏離生科研發初衷。",
+    "reference": "MBLR 18A.10; HKSI Paper 5 Guide Topic 2 Section 9.11"
+  },
+  {
+    "id": "T2-056",
+    "topic": "Topic 2",
+    "subtopic": "Weighted Voting Rights (Chapter 8A) - Maximum Voting Ratio",
+    "difficulty": "Level 1",
+    "question": "根據主板上市規則第 8A 章（不同投票權架構/WVR），一股特權股（WVR share）所能附帶的最高投票權，不得超過一股普通股投票權的多少倍？",
+    "options": {
+      "A": "不超過 2 倍",
+      "B": "不超過 5 倍",
+      "C": "不超過 10 倍（Ten times that of an ordinary share）",
+      "D": "不超過 20 倍"
+    },
+    "answer": "C",
+    "explanation": "依據 MBLR 8A.10 及指南 2-51 頁 9.14 節，不同投票權股份所附帶的表決權，最高不得超過普通股每股附帶表決權的十倍（Ten times that of an ordinary share）。",
+    "reference": "MBLR 8A.10; HKSI Paper 5 Guide Topic 2 Section 9.14"
+  },
+  {
+    "id": "T2-057",
+    "topic": "Topic 2",
+    "subtopic": "Weighted Voting Rights - Minimum Economic Interest",
+    "difficulty": "Level 2",
+    "question": "根據第 8A 章，不同投票權（WVR）受益人在發行人上市時，合計必須實益持有該發行人已發行股本中至少多少比例的底層「經濟利益」（Economic Interest）？",
+    "options": {
+      "A": "至少 5%",
+      "B": "至少 10%（At least 10% of the underlying economic interest）",
+      "C": "至少 25%",
+      "D": "至少 50%"
+    },
+    "answer": "B",
+    "explanation": "指南 2-51 頁 9.14 節及 MBLR 8A.12 指明：在上市時，全體 WVR 股份的實益擁有人合計必須持有發行人股本中至少 10% 的實質經濟利益（Economic interest）。",
+    "reference": "MBLR 8A.12; HKSI Paper 5 Guide Topic 2 Section 9.14"
+  },
+  {
+    "id": "T2-058",
+    "topic": "Topic 2",
+    "subtopic": "Weighted Voting Rights - Listing Prohibition",
+    "difficulty": "Level 2",
+    "question": "關於主板 WVR 股份本身的上市與交易資格，根據《上市規則》第 8A 章，下列敘述何者正確？",
+    "options": {
+      "A": "WVR 特權股份可以自由在聯交所公開掛牌交易並供公眾散戶買賣",
+      "B": "不同投票權股份本身不得尋求在聯交所上市交易（WVR shares cannot be admitted to listing）；只有普通股類別可掛牌買賣",
+      "C": "WVR 股份必須在 GEM 板塊雙重掛牌",
+      "D": "WVR 股份在上市滿 6 個月後自動上市交易"
+    },
+    "answer": "B",
+    "explanation": "指南 2-51 頁 9.14 節及 MBLR 8A.08 明確規定：不同投票權股份本身不符合上市資格（Cannot be admitted to listing），公開掛牌並在二級市場流通的僅限於普通投票權股份。",
+    "reference": "MBLR 8A.08; HKSI Paper 5 Guide Topic 2 Section 9.14"
+  },
+  {
+    "id": "T2-059",
+    "topic": "Topic 2",
+    "subtopic": "Weighted Voting Rights - Non-WVR Minimum Voting Power",
+    "difficulty": "Level 2",
+    "question": "根據《上市規則》第 8A.09 條，為保障非 WVR 股東的發言權，在發行人的股東大會上，非不同投票權股份（普通股）的持有人所享有的投票權總額，至少必須佔全體投票權的：",
+    "options": {
+      "A": "至少 5%",
+      "B": "至少 10%（At least 10% of the votes eligible to be cast）",
+      "C": "至少 25%",
+      "D": "至少 50%"
+    },
+    "answer": "B",
+    "explanation": "指南 2-51 頁 9.14 節及 MBLR 8A.09 指明：在發行人的股東大會上，有資格由非 WVR 股份持有人投出的表決權比例，至少必須佔全體合資格投票權總數的 10%（At least 10% of the votes）。",
+    "reference": "MBLR 8A.09; HKSI Paper 5 Guide Topic 2 Section 9.14"
+  },
+  {
+    "id": "T2-060",
+    "topic": "Topic 2",
+    "subtopic": "Weighted Voting Rights - Who Can Hold WVR Shares",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 8A 章，個人不同投票權股份（WVR shares）的持有人資格受到何種限制？",
+    "options": {
+      "A": "任何持有公司 1% 股份的普通顧問均可獲配發 WVR 股份",
+      "B": "WVR 股份只能發行予發行人的現任董事會成員（Members of the issuer's board of directors）",
+      "C": "所有機構基金經理均自動享有持有 WVR 股份的特權",
+      "D": "WVR 股份必須由公司的全體工會成員共同共有"
+    },
+    "answer": "B",
+    "explanation": "指南 2-51 頁 9.15 節及 MBLR 8A.11 規定：個人特權 WVR 股份只能發行予身為發行人董事會成員的個人；若該人士身故、不再出任董事或將股權轉讓，特權投票權隨即終止。",
+    "reference": "MBLR 8A.11; HKSI Paper 5 Guide Topic 2 Section 9.15"
+  },
+  {
+    "id": "T2-061",
+    "topic": "Topic 2",
+    "subtopic": "Weighted Voting Rights - Cessation & Conversion",
+    "difficulty": "Level 3",
+    "question": "當持有 WVR 股份的董事將其名下的特權股出售予第三方，或該董事辭任／退任發行人董事會席位時，根據第 8A 章，該等 WVR 股份的法律地位將會：",
+    "options": {
+      "A": "該等特權投票權永久保留並可自由轉移予新買家",
+      "B": "特權投票權即時失效，該等股份必須按照一對一基準（One-to-one basis）自動轉換為普通股",
+      "C": "股份自動被發行人無償沒收為庫存股",
+      "D": "自動轉換為三倍利息的無擔保可換股債券"
+    },
+    "answer": "B",
+    "explanation": "指南 2-51 頁 9.15 節及 MBLR 8A.17 規定：當 WVR 董事不再擔任董事或將特權股的實益經濟利益轉讓時，該等 WVR 股份的額外投票特權即時終止，並須按 1:1 比例轉換為一般普通股。",
+    "reference": "MBLR 8A.17; HKSI Paper 5 Guide Topic 2 Section 9.15"
+  },
+  {
+    "id": "T2-062",
+    "topic": "Topic 2",
+    "subtopic": "Weighted Voting Rights - Prohibition of New Creation Post-IPO",
+    "difficulty": "Level 2",
+    "question": "在具備 WVR 架構的發行人掛牌上市後，關於後續發行新的特權 WVR 股份，聯交所《上市規則》第 8A 章的硬性規定是：",
+    "options": {
+      "A": "發行人每年均可透過股東大會普通決議案增發 20% 的新 WVR 股份",
+      "B": "在獲准上市後，發行人嚴禁進一步發行或創設任何新的 WVR 股份（No new WVR shares may be created），因此已發行的 WVR 股份數目只會減少而不會增加",
+      "C": "只要行政總裁書面簽署同意，隨時可創設新類別特權股",
+      "D": "僅能在收購合併時向要約人發行新特權股"
+    },
+    "answer": "B",
+    "explanation": "指南 2-51 頁 9.15 節及 MBLR 8A.13 明確指出：上市後發行人不得增加已發行 WVR 股份的數目，亦不得增發任何附帶特權投票權的新股份。因此，WVR 股份在上市後只會逐年遞減或維持不變，絕不能增加。",
+    "reference": "MBLR 8A.13; HKSI Paper 5 Guide Topic 2 Section 9.15"
+  },
+  {
+    "id": "T2-063",
+    "topic": "Topic 2",
+    "subtopic": "Weighted Voting Rights - Reserved Matters (One Share One Vote)",
+    "difficulty": "Level 3",
+    "question": "根據《上市規則》第 8A.24 條，為保護非 WVR 股東，在股東大會審議特定「保留事項」（Reserved matters）時，WVR 股份的特權投票權必須被凍結，全體股東必須嚴格按「一股一票」基準投票。下列哪一項屬於該等法定保留事項？",
+    "options": {
+      "A": "批准日常經營中購買原材料的商業合同",
+      "B": "修訂章程細則、更改任何股份類別的權利、委聘或罷免獨立非執行董事、或委聘/罷免核數師及清盤決議案",
+      "C": "通過公司的每月管理賬目",
+      "D": "審批員工飯堂的年度採購預算"
+    },
+    "answer": "B",
+    "explanation": "指南 2-51 頁 9.16 節及 MBLR 8A.24 列明核心保留事項：(1) 修改憲制文件；(2) 變更任何股份類別權利；(3) 委任或罷免獨立非執行董事；(4) 委任或罷免核數師；(5) 公司主動清盤。就此等事項，WVR 股東每股只能享有一票表決權。",
+    "reference": "MBLR 8A.24; HKSI Paper 5 Guide Topic 2 Section 9.16"
+  },
+  {
+    "id": "T2-064",
+    "topic": "Topic 2",
+    "subtopic": "Special Purpose Acquisition Companies (Chapter 18B) - De-SPAC Deadlines",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 18B 章，特殊目的收購公司（SPAC）在上市後，必須在多長時間內宣布 De-SPAC 交易，以及完成 De-SPAC 交易？",
+    "options": {
+      "A": "上市後 6 個月內宣布，12 個月內完成",
+      "B": "上市之日起 24 個月內公布 De-SPAC 交易條款，並在上市之日起 36 個月內完成該項收購（經股東大會批准最多可延長 6 個月）",
+      "C": "上市後 5 年內宣布，10 年內完成",
+      "D": "無任何時間限制，由發起人自由安排"
+    },
+    "answer": "B",
+    "explanation": "指南 2-52 頁 9.18 節及 MBLR 18B.67, 18B.70 規定：SPAC 必須在上市後 24 個月內公布 De-SPAC 交易條款，並在 36 個月內完成收購（經聯交所批准並獲股東大會同意最多可延長 6 個月）。",
+    "reference": "MBLR 18B.67, 18B.70; HKSI Paper 5 Guide Topic 2 Section 9.18"
+  },
+  {
+    "id": "T2-065",
+    "topic": "Topic 2",
+    "subtopic": "SPAC Promoters Licensing Requirements",
+    "difficulty": "Level 3",
+    "question": "根據主板第 18B 章對 SPAC 發起人（SPAC Promoters）及董事的資格規定，下列何者正確？",
+    "options": {
+      "A": "所有發起人均可為無牌個人，無須任何持牌要求",
+      "B": "至少一名 SPAC 發起人必須為持牌法團（持有第 6 類機構融資或第 9 類資產管理牌照），且至少兩名 SPAC 董事必須為持牌人（其中至少一人為持牌發起人的代表）",
+      "C": "全體發起人必須為退休的大律師",
+      "D": "SPAC 董事嚴禁持有任何證監會發放的個人牌照"
+    },
+    "answer": "B",
+    "explanation": "指南 2-52 頁 9.19 節及 MBLR 18B.10–18B.14 指明：至少一名發起人必須為證監會第 6 類或第 9 類持牌法團；SPAC 董事會中至少兩名董事必須為持牌個人（且至少一人為持牌發起人的代表）。",
+    "reference": "MBLR 18B.10-18B.14; HKSI Paper 5 Guide Topic 2 Section 9.19"
+  },
+  {
+    "id": "T2-066",
+    "topic": "Topic 2",
+    "subtopic": "SPAC Initial Offering Size",
+    "difficulty": "Level 1",
+    "question": "根據主板上市規則第 18B.15 條，SPAC 在其首次公開發售中，所籌集的總資金總額（Gross funds raised）不得少於：",
+    "options": {
+      "A": "港幣 1 億元",
+      "B": "港幣 5 億元",
+      "C": "港幣 10 億元（HK$1 billion）",
+      "D": "港幣 50 億元"
+    },
+    "answer": "C",
+    "explanation": "依據 MBLR 18B.15 及指南 2-52 頁 9.21 節，SPAC 首次公開發售募集的總集資金額不得少於 10 億港元（Gross funds raised must be not less than HK$1 billion）。",
+    "reference": "MBLR 18B.15; HKSI Paper 5 Guide Topic 2 Section 9.21"
+  },
+  {
+    "id": "T2-067",
+    "topic": "Topic 2",
+    "subtopic": "SPAC - Professional Investors Only Restriction",
+    "difficulty": "Level 2",
+    "question": "在 SPAC 完成 De-SPAC 交易前，其證券的推介發售與二級市場交易，在對象上有何嚴格限制？",
+    "options": {
+      "A": "可以隨意向香港全體零售散戶進行公開路演與推介",
+      "B": "必須設有嚴格安排，確保 SPAC 證券只可推介予專業投資者（PIs），且二級市場買賣僅限專業投資者參與，散戶嚴禁交易",
+      "C": "僅限向外國政府主權基金發售",
+      "D": "僅限向年滿 65 歲的香港永久性居民發售"
+    },
+    "answer": "B",
+    "explanation": "指南 2-52 至 2-53 頁 9.21 節及 MBLR 18B.03 規定：在 De-SPAC 交易前，SPAC 證券嚴禁向公眾散戶推介，發行與二級市場買賣均僅限於符合 SFO 定義的專業投資者（Professional Investors, PIs）。",
+    "reference": "MBLR 18B.03; HKSI Paper 5 Guide Topic 2 Section 9.21"
+  },
+  {
+    "id": "T2-068",
+    "topic": "Topic 2",
+    "subtopic": "SPAC - 100% Escrow Account Requirement",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 18B 章，SPAC 首次公開發售所募集的全部款項必須如何妥善存管？",
+    "options": {
+      "A": "存入發起人的個人私人儲蓄戶口進行高風險加密貨幣投資",
+      "B": "必須百分之百（100%）以現金或現金等價物形式，存管於設在香港的獨立隔離託管賬戶（Ring-fenced escrow account domiciled in Hong Kong）內",
+      "C": "全數匯往開曼群島無抵押放貸",
+      "D": "全數用於支付發起人的日常海外差旅開支"
+    },
+    "answer": "B",
+    "explanation": "指南 2-53 頁 9.22 節及 MBLR 18B.16 指明：發行 SPAC 股份籌得的全部資金，必須存放在位於香港的獨立隔離託管賬戶內（Ring-fenced escrow account），該款項僅可用於股份贖回、完成 De-SPAC 交易或在清盤除牌時向股東退款。",
+    "reference": "MBLR 18B.16; HKSI Paper 5 Guide Topic 2 Section 9.22"
+  },
+  {
+    "id": "T2-069",
+    "topic": "Topic 2",
+    "subtopic": "Successor Company - New Listing Standards",
+    "difficulty": "Level 3",
+    "question": "當 SPAC 物色到合適目標資產並推進 De-SPAC 交易時，該項收購完成後的「繼承公司」（Successor Company）在上市資格層面必須滿足：",
+    "options": {
+      "A": "完全豁免任何審核，自動享有永久上市地位",
+      "B": "必須符合聯交所主板新上市申請人的所有常規上市要求（包括營業紀錄期、財務測試等），委聘保薦人，並編制達到招股章程標準的上市文件",
+      "C": "僅需由發起人簽署一份合規承諾書即可",
+      "D": "繼承公司只能轉移至 GEM 上市交易"
+    },
+    "answer": "B",
+    "explanation": "指南 2-53 頁 9.23–9.24 節及 MBLR 18B.36 指出：繼承公司（Successor Company）必須符合適用於所有新上市申請人的同一套上市要求，且必須委聘至少一名獨立保薦人按新上市標準進行審查及呈交文件。",
+    "reference": "MBLR 18B.36; HKSI Paper 5 Guide Topic 2 Section 9.23-9.24"
+  },
+  {
+    "id": "T2-070",
+    "topic": "Topic 2",
+    "subtopic": "De-SPAC - Independent Third Party Investment (PIPE)",
+    "difficulty": "Level 3",
+    "question": "根據主板第 18B 章，De-SPAC 交易必須引入獨立第三方投資者（PIPE 投資者）。關於該獨立第三方投資的最低法定投資金額，下列敘述何者正確？",
+    "options": {
+      "A": "投資總額不得少於 50 萬港元",
+      "B": "合計投資金額不得少於 5 億港元，或目標資產協定估值之特定規定百分比（介乎 7.5% 至 25%）的較低者；且至少 50% 須來自不少於三名資深投資者",
+      "C": "必須由發起人的全資直系親屬出資",
+      "D": "無任何最低投資金額規定"
+    },
+    "answer": "B",
+    "explanation": "指南 2-53 頁 9.25 節及 MBLR 18B.40–18B.44 指出：獨立第三方投資額須不低於 5 億港元或特定百分比（7.5%–25%）的較低者；且該最低投資額中至少 50% 必須來自不少於三名資深投資者（Sophisticated investors）。",
+    "reference": "MBLR 18B.40-18B.44; HKSI Paper 5 Guide Topic 2 Section 9.25"
+  },
+  {
+    "id": "T2-071",
+    "topic": "Topic 2",
+    "subtopic": "De-SPAC - Promoters 12 Months Lock-up",
+    "difficulty": "Level 2",
+    "question": "在 De-SPAC 交易順利完成且繼承公司股份掛牌上市後，SPAC 發起人（Promoters）名下的實益股份權益將面臨多長的法定禁售期？",
+    "options": {
+      "A": "3 個月",
+      "B": "6 個月",
+      "C": "12 個月（Period of 12 months from the completion of the De-SPAC Transaction）",
+      "D": "終身禁售"
+    },
+    "answer": "C",
+    "explanation": "指南 2-54 頁 9.28 節及 MBLR 18B.26 明確規定：在 De-SPAC 交易完成後，SPAC 發起人在繼承公司中的實益權益受制於為期 12 個月的禁售期限制（Period of 12 months）。",
+    "reference": "MBLR 18B.26; HKSI Paper 5 Guide Topic 2 Section 9.28"
+  },
+  {
+    "id": "T2-072",
+    "topic": "Topic 2",
+    "subtopic": "Specialist Technology Companies (Chapter 18C) - Commercial vs Pre-Commercial",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 18C 章（特專科技公司/STCs），區分「商業化公司」（Commercial Company）與「未商業化公司」（Pre-Commercial Company）的關鍵收益門檻為：",
+    "options": {
+      "A": "最近一個經審計財政年度的特專科技業務收益達到 5,000 萬港元",
+      "B": "最近一個經審計財政年度由特專科技業務產生的收益達到至少 2.5 億港元（At least HK$250 million）",
+      "C": "最近一年總收益達到 10 億港元",
+      "D": "最近三年淨利潤累計達到 8,000 萬港元"
+    },
+    "answer": "B",
+    "explanation": "指南 2-55 頁 9.33 節及 MBLR 18C.01 指明：特專科技公司在最近一個經審計財政年度，特專科技業務收益達 2.5 億港元或以上者為「商業化公司」；未達此門檻者則為「未商業化公司」。",
+    "reference": "MBLR 18C.01; HKSI Paper 5 Guide Topic 2 Section 9.33"
+  },
+  {
+    "id": "T2-073",
+    "topic": "Topic 2",
+    "subtopic": "Specialist Technology Companies - Minimum Market Capitalisation",
+    "difficulty": "Level 2",
+    "question": "根據第 18C 章，商業化公司與未商業化公司在上市時的最低預期市值門檻分別為：",
+    "options": {
+      "A": "商業化公司至少 10 億港元；未商業化公司至少 20 億港元",
+      "B": "商業化公司至少 40 億港元；未商業化公司至少 80 億港元（HK$4 billion vs HK$8 billion）",
+      "C": "商業化公司至少 50 億港元；未商業化公司至少 100 億港元",
+      "D": "商業化公司至少 20 億港元；未商業化公司至少 40 億港元"
+    },
+    "answer": "B",
+    "explanation": "指南 2-55 頁 9.34 節及 MBLR 18C.03 規定上市最低市值要求為：商業化公司至少 40 億港元；未商業化公司至少 80 億港元。",
+    "reference": "MBLR 18C.03; HKSI Paper 5 Guide Topic 2 Section 9.34"
+  },
+  {
+    "id": "T2-074",
+    "topic": "Topic 2",
+    "subtopic": "Specialist Technology Companies - R&D Track Record Period",
+    "difficulty": "Level 2",
+    "question": "申請依據第 18C 章上市的特專科技公司，必須在大致相同的管理層管治下，營運並持續從事特專科技產品的研發至少達幾年？",
+    "options": {
+      "A": "至少 1 個財政年度",
+      "B": "至少 2 個財政年度",
+      "C": "至少 3 個財政年度（At least three financial years prior to listing）",
+      "D": "至少 5 個財政年度"
+    },
+    "answer": "C",
+    "explanation": "指南 2-55 頁 9.31 節及 MBLR 18C.04 指明：特專科技公司必須在上市前至少三個財政年度（At least 3 financial years）維持大致相同的管理層營運，並持續致力於特專科技產品的研發（特殊情況下聯交所可接納兩年）。",
+    "reference": "MBLR 18C.04; HKSI Paper 5 Guide Topic 2 Section 9.31"
+  },
+  {
+    "id": "T2-075",
+    "topic": "Topic 2",
+    "subtopic": "Specialist Technology Companies - Working Capital (125%)",
+    "difficulty": "Level 2",
+    "question": "第 18C 章下的「未商業化公司」（Pre-Commercial Company）在營運資金（Working Capital）方面必須證明具備：",
+    "options": {
+      "A": "足以應付上市文件刊發後 6 個月成本的 100% 資金",
+      "B": "足以應付自上市文件刊發之日起計至少 12 個月內集團成本至少 125% 的充足營運資金（Sufficient working capital to cover at least 125% of its group's costs for at least 12 months）",
+      "C": "足以應付 3 年研發支出的定期存款",
+      "D": "無任何營運資金要求"
+    },
+    "answer": "B",
+    "explanation": "指南 2-55 頁 9.35(b) 節及 MBLR 18C.05 規定：未商業化特專科技公司必須證明其具備充足營運資金，足以涵蓋自上市文件刊發起至少 12 個月內集團成本的至少 125%。",
+    "reference": "MBLR 18C.05; HKSI Paper 5 Guide Topic 2 Section 9.35(b)"
+  },
+  {
+    "id": "T2-076",
+    "topic": "Topic 2",
+    "subtopic": "Specialist Technology Companies - Independent Price Setting Investors",
+    "difficulty": "Level 3",
+    "question": "根據主板第 18C 章對 IPO 股份發售結構的規定，特專科技公司在公開發售與配售的分配上，必須確保：",
+    "options": {
+      "A": "發售股份的 100% 必須強制配售予發起人集團",
+      "B": "至少 50% 的 IPO 發售股份必須配售予「獨立定價投資者」（Independent price setting investors），且公開認購部分不得少於 5%",
+      "C": "散戶公開認購部分必須強制達到 50%",
+      "D": "完全不得進行任何機構簿記建檔"
+    },
+    "answer": "B",
+    "explanation": "指南 2-55 頁 9.36 節及 MBLR 18C.15 規定：STC 的 IPO 配售中，至少 50% 發售股份必須分配予合資格獨立定價投資者（Independent price setting investors），且公開認購檔份至少佔 5%。",
+    "reference": "MBLR 18C.15; HKSI Paper 5 Guide Topic 2 Section 9.36"
+  },
+  {
+    "id": "T2-077",
+    "topic": "Topic 2",
+    "subtopic": "Pre-Commercial STCs - Re-designation as Commercial",
+    "difficulty": "Level 2",
+    "question": "一間依據第 18C 章上市的未商業化特專科技公司，在上市後若擬申請轉為「商業化公司」（Commercial Company）以解除額外業務限制，其必須向聯交所證明：",
+    "options": {
+      "A": "公司股價已較發行價上漲 200%",
+      "B": "其在最近一個財政年度已達成商業化公司的收益門檻（2.5 億港元），或符合主板常規財務測試之一（如盈利測試或市值/收益測試）",
+      "C": "公司全體董事更換為香港註冊會計師",
+      "D": "已將所有專利無條件轉讓予特區政府"
+    },
+    "answer": "B",
+    "explanation": "指南 2-56 頁 9.38 節及 MBLR 18C.23 指出：未商業化公司可向聯交所申請轉為商業化公司，只要證明其 (i) 達到了商業化公司的收益標準（2.5 億港元），或 (ii) 符合了一般主板上市申請人的財務測試之一。",
+    "reference": "MBLR 18C.23; HKSI Paper 5 Guide Topic 2 Section 9.38"
+  },
+  {
+    "id": "T2-078",
+    "topic": "Topic 2",
+    "subtopic": "Suitability for Listing - Cash Shell Disqualification",
+    "difficulty": "Level 2",
+    "question": "根據聯交所主板第 8.04 條及相關上市指引，若新申請人的資產主要由現金或短期證券（如期限少於一年的債券或票據）組成，聯交所通常會：",
+    "options": {
+      "A": "直接批准其上市，因為現金充裕代表財務健全",
+      "B": "視其為缺乏足夠實質營運業務而不適合上市（Not suitable for listing），除非申請人屬於純粹從事證券經紀業務的金融機構",
+      "C": "強制將其歸入特專科技公司類別上市",
+      "D": "命令其在 24 小時內將所有現金派發給公眾"
+    },
+    "answer": "B",
+    "explanation": "指南 2-56 頁 9.40 節及 MBLR 8.04 指出：資產主要由現金或短期流動資產構成的申請人，通常被視為不適合上市（Cash company / shell），除非其主要業務本質為證券經紀業務等特殊金融行業。",
+    "reference": "MBLR 8.04, 14.82; HKSI Paper 5 Guide Topic 2 Section 9.40"
+  },
+  {
+    "id": "T2-079",
+    "topic": "Topic 2",
+    "subtopic": "Management Presence in Hong Kong (MBLR 8.12)",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 8.12 條，尋求在香港聯交所進行主要上市的新申請人，在管理層常駐香港（Management presence）方面通常必須具備何種法定安排？",
+    "options": {
+      "A": "全體非執行董事必須常駐香港",
+      "B": "必須有足夠的管理層常駐香港，通常要求至少兩名執行董事通常居於香港（Normally resident in Hong Kong），除非獲聯交所正式豁免",
+      "C": "首席技術官必須常駐香港",
+      "D": "管理層常駐地不受任何限制，完全無須豁免"
+    },
+    "answer": "B",
+    "explanation": "指南 2-57 頁 9.41 節及 MBLR 8.12 規定：主要上市發行人必須維持充足的在港管理層人員，通常要求至少兩名執行董事通常居於香港（Normally resident in HK）；若業務在海外，須向聯交所申請豁免並委派適當授權代表保持即時溝通。",
+    "reference": "MBLR 8.12; HKSI Paper 5 Guide Topic 2 Section 9.41"
+  },
+  {
+    "id": "T2-080",
+    "topic": "Topic 2",
+    "subtopic": "Warrants Limit - 20% Ceiling and Expiry Range",
+    "difficulty": "Level 3",
+    "question": "根據主板上市規則第 15.02 條，上市發行人若擬發行認股權證（Warrants，非員工期權計劃），在發行上限及有效期限上必須符合何種監管限制？",
+    "options": {
+      "A": "總額無限制，期限不得超過 3 個月",
+      "B": "因行使該等權證而發行的股份總數不得超過發行時已發行股份（不含庫存股）的 20%，且權證的到期期限不得少於 1 年或多於 5 年（Not less than 1 or more than 5 years）",
+      "C": "權證行使股份上限為 50%，期限至少 10 年",
+      "D": "權證總額不得超過 5%，期限最長為 6 個月"
+    },
+    "answer": "B",
+    "explanation": "指南 2-64 頁 9.79 節及 MBLR 15.02 規定：所有發行權證須獲聯交所批准；行權可發行股份上限為已發行股本（不計庫存股）的 20%；且權證有效期不得少於 1 年，亦不得超過 5 年。",
+    "reference": "MBLR 15.02; HKSI Paper 5 Guide Topic 2 Section 9.79"
+  },
+  {
+    "id": "T2-081",
+    "topic": "Topic 2",
+    "subtopic": "Derivative Warrants - Issuer Net Asset Value Requirement",
+    "difficulty": "Level 2",
+    "question": "根據主板第 15A 章，發行非抵押衍生認股權證（Non-collateralised derivative warrants）的機構，其最低資產淨值（NAV）門檻要求為：",
+    "options": {
+      "A": "不低於 1 億港元",
+      "B": "不低於 5 億港元",
+      "C": "不低於 20 億港元（Net asset value of not less than HK$2 billion），並具備良好信用評級或受金管局/證監會規管",
+      "D": "不低於 100 億港元"
+    },
+    "answer": "C",
+    "explanation": "指南 2-65 頁 9.83 節及 MBLR 15A.11 指明：非抵押衍生權證的發行人，其資產淨值不得少於 20 億港元（HK$2 billion），並須具備合格信貸評級，或為受金管局或證監會規管的實體、或政府主權機構。",
+    "reference": "MBLR 15A.11; HKSI Paper 5 Guide Topic 2 Section 9.83"
+  },
+  {
+    "id": "T2-082",
+    "topic": "Topic 2",
+    "subtopic": "Derivative Warrants - Underlying Shares Float Capitalisation",
+    "difficulty": "Level 2",
+    "question": "根據主板第 15A.30 條，衍生認股權證若掛鉤單一類別的香港上市股票，該相關底層股票在公眾人士手中的流通市值（Public float capitalisation）必須達到至少：",
+    "options": {
+      "A": "至少 5 億港元",
+      "B": "至少 10 億港元",
+      "C": "至少 40 億港元（Public float capitalisation of at least HK$4 billion）",
+      "D": "至少 200 億港元"
+    },
+    "answer": "C",
+    "explanation": "指南 2-65 頁 9.86 節及 MBLR 15A.30 規定：掛鉤單一股份的衍生權證，其底層上市股份由公眾持有的市值必須至少達到 40 億港元（HK$4 billion），以防止標的股票因市值過小而易受操縱。",
+    "reference": "MBLR 15A.30; HKSI Paper 5 Guide Topic 2 Section 9.86"
+  },
+  {
+    "id": "T2-083",
+    "topic": "Topic 2",
+    "subtopic": "Derivative Warrants - Prohibition on GEM",
+    "difficulty": "Level 1",
+    "question": "關於衍生認股權證（Derivative Warrants）能否在聯交所 GEM 板塊發行與掛牌，規則的明確規定是：",
+    "options": {
+      "A": "衍生權證可以在 GEM 自由發行，門檻與主板相同",
+      "B": "衍生認股權證嚴禁在 GEM 上市（Derivative warrants cannot be listed on GEM）",
+      "C": "只有獲得證監會主席特批的衍生權證方可在 GEM 上市",
+      "D": "GEM 發行人每季必須發行至少兩隻衍生權證"
+    },
+    "answer": "B",
+    "explanation": "指南 2-65 頁 9.89 節明確指出：衍生認股權證不得在 GEM 上市（Derivative warrants cannot be listed on GEM），該產品專屬於主板市場結構。",
+    "reference": "GLR; HKSI Paper 5 Guide Topic 2 Section 9.89"
+  },
+  {
+    "id": "T2-084",
+    "topic": "Topic 2",
+    "subtopic": "Base Listing Document Validity for Warrants",
+    "difficulty": "Level 1",
+    "question": "根據主板第 15A 章，結構性產品（如衍生認股權證及牛熊證）發行人所刊發的「基礎上市文件」（Base Listing Document），其法定有效期限為：",
+    "options": {
+      "A": "3 個月",
+      "B": "6 個月",
+      "C": "12 個月（12 months）",
+      "D": "永久有效"
+    },
+    "answer": "C",
+    "explanation": "指南 2-65 頁 9.87 節及 MBLR 15A 指明：發行人可刊發基礎上市文件，其有效期為 12 個月（Valid for 12 months）；在有效期內發行人可透過補充文件快速發行不同批次的結構性產品。",
+    "reference": "MBLR 15A; HKSI Paper 5 Guide Topic 2 Section 9.87"
+  },
+  {
+    "id": "T2-085",
+    "topic": "Topic 2",
+    "subtopic": "Share Schemes (Chapter 17) - Shareholder Approval",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 17 章（股份計劃），上市發行人採納股份期權計劃（Share option scheme）或股份獎勵計劃（Share award scheme）時，必須履行何種審批手續？",
+    "options": {
+      "A": "只需由行政總裁個人簽署行政命令",
+      "B": "所有股份計劃必須由股東大會批准（Approved by shareholders in general meeting），除非發行人在上市前已採納該計劃並已在招股章程中全面披露其條款",
+      "C": "必須經香港稅務局核准",
+      "D": "無須股東批准，只需由薪酬委員會書面備案"
+    },
+    "answer": "B",
+    "explanation": "指南 2-66 頁 9.94 節及 MBLR 17.02 指出：所有股份計劃必須獲股東於股東大會上批准；但上市前已採納並在招股書充分披露重大條款的上市前股權激勵計劃，上市時無須再經股東大會審批。",
+    "reference": "MBLR 17.02; HKSI Paper 5 Guide Topic 2 Section 9.94"
+  },
+  {
+    "id": "T2-086",
+    "topic": "Topic 2",
+    "subtopic": "Share Schemes - Blackout Period for Grants",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 17.05 條，上市發行人在下列哪一期間內**嚴禁**向任何合資格參與者授出任何股份期權或股份獎勵？",
+    "options": {
+      "A": "在擁有未公布的內幕消息期間，或在公布年度/半年度業績前 30 天之期間內",
+      "B": "在公司股票成交量放大的營業日",
+      "C": "在每年 7 月 1 日特區成立紀念日",
+      "D": "在全體董事領取年終花紅當日"
+    },
+    "answer": "A",
+    "explanation": "指南 2-67 頁 9.96 節及 MBLR 17.05 規定：發行人在持有未公開內幕消息期間，或在刊發年度/半年業績公布前 30 天內，嚴禁向參與者授出任何股份期權或獎勵股份。",
+    "reference": "MBLR 17.05; HKSI Paper 5 Guide Topic 2 Section 9.96"
+  },
+  {
+    "id": "T2-087",
+    "topic": "Topic 2",
+    "subtopic": "Debt Securities - Application Submission Timeline",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 24 章，向公眾零售發售的常規債務證券（非專業投資者專用），其上市申請必須在上市文件定稿刊發日前至少多少天送達聯交所？",
+    "options": {
+      "A": "至少 3 天",
+      "B": "不少於 14 個淨日（Not less than 14 clear days prior to the date of finalisation）",
+      "C": "至少 60 天",
+      "D": "至少 6 個月"
+    },
+    "answer": "B",
+    "explanation": "指南 2-68 頁 9.105 節及 MBLR 24.08 指明：向公眾零售發售的債務證券上市申請，必須在上市文件定稿供發布之日前至少 14 個淨日（Not less than 14 clear days）呈交聯交所。",
+    "reference": "MBLR 24.08; HKSI Paper 5 Guide Topic 2 Section 9.105"
+  },
+  {
+    "id": "T2-088",
+    "topic": "Topic 2",
+    "subtopic": "Debt Securities - Tap Issue Rules",
+    "difficulty": "Level 2",
+    "question": "根據主板第 29.02 條，上市發行人若申請增發債務證券（俗稱「增發／水龍頭發行」，Tap Issue），下列監管要求何者正確？",
+    "options": {
+      "A": "後續批次債券完全不受任何面額上限限制",
+      "B": "各後續批次債券可受同一上市文件涵蓋，但上市文件必須明確訂明可能發行的債務證券的最高面額上限（Maximum nominal amount），且各批次條款須符合初始批次要求",
+      "C": "每次增發必須由全體股東召開實體特別大會逐次表決",
+      "D": "增發債券嚴禁支付任何固定利息"
+    },
+    "answer": "B",
+    "explanation": "指南 2-69 頁 9.110 節及 MBLR 29.02 指出：增發（Tap issue）債券受原上市文件涵蓋，但該上市文件必須指明可發行債券的最高面值上限，聯交所對後續每批發行通常施加與初始批次相同的標準。",
+    "reference": "MBLR 29.02; HKSI Paper 5 Guide Topic 2 Section 9.110"
+  },
+  {
+    "id": "T2-089",
+    "topic": "Topic 2",
+    "subtopic": "Debt Securities - Medium Term Note (MTN) Programme",
+    "difficulty": "Level 2",
+    "question": "在主板第 29 章中期票據發行計劃（Debt Issuance Programme）架構下，聯交所所給予的上市批准，其有效涵蓋的票據發行期限為：",
+    "options": {
+      "A": "自上市文件發布之日起計 12 個月內（Within 12 months after publication of the listing document）所發行的全部合資格證券",
+      "B": "自核准之日起 10 年內",
+      "C": "僅限於發布當日發行的一期票據",
+      "D": "永久有效"
+    },
+    "answer": "A",
+    "explanation": "指南 2-69 頁 9.111 節及 MBLR 29.05 指明：在獲聯交所批准債務發行計劃後，聯交所接納在刊發上市文件後 12 個月內（Within 12 months）於該計劃下發行及上市的所有證券。",
+    "reference": "MBLR 29.05; HKSI Paper 5 Guide Topic 2 Section 9.111"
+  },
+  {
+    "id": "T2-090",
+    "topic": "Topic 2",
+    "subtopic": "Asset-backed Securities (Chapter 29)",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 29 章，申請上市的資產抵押證券（Asset-backed Securities），其發行人通常必須具備何種法律組織形式？",
+    "options": {
+      "A": "必須為大型跨國多元化集團公司",
+      "B": "通常必須為「單一目的實體／特定目的工具」（Single-purpose undertaking），且常規經審計賬目及最新財務期規定不適用",
+      "C": "必須為香港慈善團體",
+      "D": "必須由全體自然人合夥經營"
+    },
+    "answer": "B",
+    "explanation": "指南 2-69 頁 9.112 節及 MBLR 29.11 指明：資產抵押證券發行人通常必須為單一目的機構（Single-purpose undertaking），一般三年審計歷史賬目及最後財務期限制獲豁免，但須詳細披露資產池結構。",
+    "reference": "MBLR 29.11, 29.12; HKSI Paper 5 Guide Topic 2 Section 9.112"
+  },
+  {
+    "id": "T2-091",
+    "topic": "Topic 2",
+    "subtopic": "Debt Issues to Professional Investors Only (Chapter 37)",
+    "difficulty": "Level 2",
+    "question": "根據主板上市規則第 37 章（僅面向專業投資者的債務證券上市），與常規公售債券相比，其最顯著的監管便利優勢在於：",
+    "options": {
+      "A": "完全毋須經聯交所批核即可隨意上市",
+      "B": "享受簡化的上市審批流程、極短的審查時間表、豁免遵循招股章程法定登記制度，且僅限專業投資者認購及二級市場買賣",
+      "C": "發行人可以違約不償還本金",
+      "D": "必須強制向全體公眾散戶派發發債通告"
+    },
+    "answer": "B",
+    "explanation": "指南 2-70 頁 9.114 節及 MBLR Chapter 37 指明：第 37 章債券專門針對專業投資者，具備極度精簡的審批路徑與披露要求，免受零售招股章程嚴格繁複的法規登記限制，是機構發債的主流架構。",
+    "reference": "MBLR Chapter 37; HKSI Paper 5 Guide Topic 2 Section 9.114"
+  },
+  {
+    "id": "T2-092",
+    "topic": "Topic 2",
+    "subtopic": "Public Offer Underwriting - Force Majeure Clause",
+    "difficulty": "Level 2",
+    "question": "在香港新股公開發售（IPO）中，承銷商辛迪加與發行人簽訂的包銷協議（Underwriting Agreement）通常包含不可抗力條款（Force Majeure Clause）。該條款的主要法律功能是：",
+    "options": {
+      "A": "允許發行人永久沒收投資者的認購保證金",
+      "B": "在發生特定極端不可預見事件（如不可抗力戰爭、嚴重金融災難或天災）時，承銷商有權在規定期限前合法解除其包銷義務（Underwriting obligations can be relinquished）",
+      "C": "保證承銷商每年獲得 100% 的投資報酬率",
+      "D": "免除承銷商全體代表的香港刑事責任"
+    },
+    "answer": "B",
+    "explanation": "指南 2-71 頁 10.6 節指明：公開發售及配售的包銷協議通常載有不可抗力條款（Force majeure），允許承銷商在出現重大不可抗力事件或重大市場災難等例外情況下，合法撤銷其包銷義務。",
+    "reference": "HKSI Paper 5 Guide Topic 2 Section 10.6"
+  },
+  {
+    "id": "T2-093",
+    "topic": "Topic 2",
+    "subtopic": "Clawback Mechanism - Practice Note 18",
+    "difficulty": "Level 3",
+    "question": "在香港 IPO 同時包含機構配售與公開發售（散戶）時，根據主板《第 18 項應用指引》（Practice Note 18）的回撥機制（Clawback Mechanism），其核心運作邏輯為：",
+    "options": {
+      "A": "若機構投資者認購超額，強制從散戶手中奪回股份分配給機構",
+      "B": "若散戶公開認購部分出現重大超額認購，原本初步分配在國際配售檔份的股份，必須依據固定階梯公式自動重新分配（回撥）至公開發售檔份",
+      "C": "發行人有權在定價後強制要求所有中籤投資者加價 20%",
+      "D": "保薦人有權在上市首日沒收所有散戶股份"
+    },
+    "answer": "B",
+    "explanation": "指南 2-72 頁 10.8 節及 MBLR Practice Note 18 指明：回撥機制（Clawback）規定，當公開發售出現高倍數超額認購時，必須從國際配售檔份回撥股份至公開認購檔份（如超額 100 倍以上須回撥至 50%），以滿足散戶需求。",
+    "reference": "MBLR Practice Note 18; HKSI Paper 5 Guide Topic 2 Section 10.8"
+  },
+  {
+    "id": "T2-094",
+    "topic": "Topic 2",
+    "subtopic": "Price Stabilization - Minimum Offer Size (HK$100M)",
+    "difficulty": "Level 1",
+    "question": "根據《證券及期貨（穩定價格）規則》（PS Rules），發行人及穩定價格操作人若擬合法依賴該規則進行價格穩定護盤買賣，該公開發售在香港的集資規模不得少於：",
+    "options": {
+      "A": "港幣 1,000 萬元",
+      "B": "港幣 5,000 萬元",
+      "C": "港幣 1 億元（Not less than HK$100 million）",
+      "D": "港幣 10 億元"
+    },
+    "answer": "C",
+    "explanation": "依據指南 2-73 頁 10.15 節註釋及 10.17(d) 節，PS Rules 僅適用於在香港發售規模不少於 1 億港元（Not less than HK$100 million）的公開發售，低於此規模者不得依賴該安全港進行穩定價格活動。",
+    "reference": "Securities and Futures (Price Stabilizing) Rules; HKSI Paper 5 Guide Topic 2 Section 10.15 Note, 10.17"
+  },
+  {
+    "id": "T2-095",
+    "topic": "Topic 2",
+    "subtopic": "Price Stabilization - Stabilizing Period Definition",
+    "difficulty": "Level 2",
+    "question": "根據 PS Rules，穩定價格操作人獲准進行護盤行動的「穩定價格期」（Stabilizing Period）在法定時間範圍上是指：",
+    "options": {
+      "A": "自招股書刊發日起至上市後 1 年止",
+      "B": "自交易開始時起，至以下兩者中較早者起計滿 30 天為止：(i) 上市文件訂明的截止日期；及 (ii) 股份開始交易之日",
+      "C": "上市首日開盤前 15 分鐘內",
+      "D": "發行人在香港交易所掛牌交易滿 90 天當天"
+    },
+    "answer": "B",
+    "explanation": "指南 2-73 頁 10.16 節明確指明：穩定價格期（Stabilizing period）始於交易開始，並於以下兩者較早者之後 30 天結束：(i) 發售文件訂明的截止認購日期；或 (ii) 開始交易之日。逾期進行護盤即喪失安全港保護。",
+    "reference": "PS Rules; HKSI Paper 5 Guide Topic 2 Section 10.16"
+  },
+  {
+    "id": "T2-096",
+    "topic": "Topic 2",
+    "subtopic": "Price Stabilization - Over-allotment & Stock Borrowing (s. 170 SFO)",
+    "difficulty": "Level 3",
+    "question": "在 IPO 中，穩定價格操作人行使超額配股權（Over-allotment option）常會建立空頭頭寸。為避免觸犯 SFO 第 170 條禁止無抵押賣空（Naked short selling）的刑事罪行，操作人必須採取的法定合規措施是：",
+    "options": {
+      "A": "在市場上發起未具名融券競價",
+      "B": "在分配超額股份前，與控股股東或主要股東訂立具法律約束力的借貨協議（Stock borrowing and lending agreement）以借入相應數量股份",
+      "C": "要求聯交所暫停執行 SFO 第 170 條",
+      "D": "向每名認購人收取雙倍保證金"
+    },
+    "answer": "B",
+    "explanation": "指南 2-74 至 2-75 頁 10.24(b) 節註釋指明：超額分配會形成淡倉，為免觸犯 SFO s. 170 違法賣空規定，操作人必須與大股東簽訂借股協議（Stock borrowing agreement）借入股份，以確保賣空屬於具備有借股支持的合法行為。",
+    "reference": "SFO s.170; PS Rules; HKSI Paper 5 Guide Topic 2 Section 10.24(b) Note"
+  },
+  {
+    "id": "T2-097",
+    "topic": "Topic 2",
+    "subtopic": "Price Stabilization - Price Ceiling Restriction",
+    "difficulty": "Level 2",
+    "question": "根據《穩定價格規則》，穩定價格操作人在二級市場買入股份以防止價格下跌時，其在買入作價上受到的絕對上限限制為：",
+    "options": {
+      "A": "不得高於上一個交易日收市價的 150%",
+      "B": "在任何情況下，買入價格絕不得高於該證券的首次公開發售價（Never higher than the price at which securities were offered）",
+      "C": "必須高於發行價的 10% 以拉抬市場信心",
+      "D": "無價格限制，操作人可隨意追高出價"
+    },
+    "answer": "B",
+    "explanation": "指南 2-75 頁 10.25 節明文指明：穩定價格行動受限於最高價格規定，穩定價格操作人的買入價「絕不得高於該證券的公開發行價」（Never be higher than the offer price），否則即構成市場操縱。",
+    "reference": "PS Rules; HKSI Paper 5 Guide Topic 2 Section 10.25"
+  },
+  {
+    "id": "T2-098",
+    "topic": "Topic 2",
+    "subtopic": "Price Stabilization - Register Keeping Period (7 Years)",
+    "difficulty": "Level 1",
+    "question": "根據 PS Rules，穩定價格操作人必須備存完整的穩定價格交易登記冊（Register of stabilizing actions）。該登記冊必須自穩定價格期結束起妥善保存至少：",
+    "options": {
+      "A": "至少 1 年",
+      "B": "至少 3 年",
+      "C": "至少 7 年（Period of seven years from the end of the stabilizing period）",
+      "D": "至少 20 年"
+    },
+    "answer": "C",
+    "explanation": "指南 2-74 頁 10.23 節指明：穩定價格交易登記冊必須自穩定價格期結束起「備存 7 年」（Kept for a period of seven years），以備證監會隨時查閱；發行人有權在期滿後 3 個月內查閱該登記冊。",
+    "reference": "PS Rules; HKSI Paper 5 Guide Topic 2 Section 10.23"
+  },
+  {
+    "id": "T2-099",
+    "topic": "Topic 2",
+    "subtopic": "Price Stabilization - Type 1 Licence Requirement",
+    "difficulty": "Level 1",
+    "question": "獲發行人授權擔任穩定價格操作人（Stabilizing Manager）的金融機構，由於需要在二級市場實際執行證券買賣交易，該機構通常必須具備證監會發出的哪一類受規管活動牌照？",
+    "options": {
+      "A": "第 1 類受規管活動（證券交易）牌照（Type 1 licence）",
+      "B": "第 3 類受規管活動（槓桿式外匯交易）牌照",
+      "C": "第 8 類受規管活動（提供證券保證金融資）牌照",
+      "D": "第 10 類受規管活動（提供信貸評級服務）牌照"
+    },
+    "answer": "A",
+    "explanation": "指南 2-74 頁 10.20 節指明：由於穩定價格操作人需要直接在二級市場進行買賣護盤，其必須持有證監會第 1 類牌照（證券交易，Dealing in securities）。",
+    "reference": "SFO Schedule 5; HKSI Paper 5 Guide Topic 2 Section 10.20"
+  },
+  {
+    "id": "T2-100",
+    "topic": "Topic 2",
+    "subtopic": "Price Stabilization - Overseas Records Reconstitution (48 Hours)",
+    "difficulty": "Level 2",
+    "question": "在一項涵蓋香港及海外的全球發售（Global Offering）中，穩定價格操作人委聘了海外代理人進行離岸護盤。根據 PS Rules，操作人必須確保在證監會要求查閱時，能在多長時間內將海外穩定價格紀錄在香港重組重現？",
+    "options": {
+      "A": "2 小時內",
+      "B": "24 小時內",
+      "C": "48 小時之內（Within a period of 48 hours after requested）",
+      "D": "30 天內"
+    },
+    "answer": "C",
+    "explanation": "指南 2-74 頁 10.21 節明確指明：穩定價格操作人須確保妥善保存本地及海外紀錄，若監管機構提出查閱要求，操作人必須確保海外紀錄能在「48 小時之內」（Within 48 hours）在香港重整備妥以供查核。",
+    "reference": "PS Rules; HKSI Paper 5 Guide Topic 2 Section 10.21"
+  }
+]

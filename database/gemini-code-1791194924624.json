@@ -1,0 +1,802 @@
+[
+  {
+    "id": "T3-151",
+    "topic": "Topic 3",
+    "subtopic": "Equality of Treatment - Share Classes and Convertible Securities Valuation",
+    "difficulty": "Level 3",
+    "question": "受要約公司發行了普通股以及可按固定比例換取普通股的非上市優先股。要約人擬對普通股提出自願全面要約。根據《收購守則》第 13 條及第 14 條，要約人針對該批非上市優先股所提出的「相若要約」（Comparable offer），其定價通常應遵循何種客觀基準？",
+    "options": {
+      "A": "定價必須由香港財政司司長全權指定",
+      "B": "通常應參照「透視價值」（See-through value），即以普通股的要約價格乘以每股優先股所能轉換的普通股數目，並由獨立財務顧問進行評估並經執行人員認可",
+      "C": "優先股的要約價嚴禁超過普通股要約價的 50%",
+      "D": "優先股要約價必須強制設定為每股優先股面值的 10 倍"
+    },
+    "answer": "B",
+    "explanation": "依據《收購守則》第 13 條及學習指南 3-28 頁 4.44–4.45 節，對附帶可轉換權益之證券（如優先股、認股權證、可轉債）提出相若要約時，定價的核心慣例是採用「透視價值」（See-through value），即以標的普通股的要約價乘以轉股比例所得之理論價值，以維持不同類別證券持有人的實質公平待遇。",
+    "reference": "Takeovers Code Rules 13, 14; HKSI Paper 5 Guide Topic 3 Section 4.44-4.45"
+  },
+  {
+    "id": "T3-152",
+    "topic": "Topic 3",
+    "subtopic": "Rule 13 - Out-of-the-money Options Appropriate Offer",
+    "difficulty": "Level 3",
+    "question": "受要約公司有若干尚未行使的僱員股份期權，其行使價為每股 12.00 港元。要約人對受要約公司普通股提出的全面要約價為每股 10.00 港元（即期權處於價外狀態 / Out-of-the-money）。根據《收購守則》第 13 條，要約人對該等價外期權持有人應當提出何種要約？",
+    "options": {
+      "A": "要約人可以完全不理會該等期權持有人且無須發出任何文件",
+      "B": "要約人仍須提出「適當要約」（Appropriate offer），在此情況下，要約人通常可以像徵性代價（如每手或每份期權 0.01 港元或名義現金代價）提出收購並註銷該等期權",
+      "C": "要約人必須強制按每股 10.00 港元全額收購該等期權",
+      "D": "該等期權必須由法院強制沒收"
+    },
+    "answer": "B",
+    "explanation": "指南 3-28 頁 4.44 節及 Takeovers Code Rule 13 指明：即使衍生工具處於「價外」（即行使價高於要約價，透視價值為負數或零），要約人仍負有法定義務提出適當要約（Appropriate offer），實務上通常以名義上的象徵性金額（Nominal amount，例如 0.01 港元）要約收購以註銷該等權證。",
+    "reference": "Takeovers Code Rule 13; HKSI Paper 5 Guide Topic 3 Section 4.44"
+  },
+  {
+    "id": "T3-153",
+    "topic": "Topic 3",
+    "subtopic": "Whitewash Waiver - Competence Criteria of Advisers (Appendix B Competence Guidelines)",
+    "difficulty": "Level 2",
+    "question": "根據證監會《勝任能力的指引》附錄 B（Appendix B）及指南說明，機構融資顧問在受聘就受《收購守則》約束的交易或清洗豁免事項向客戶提供專業意見時，該顧問機構及其從業員必須：",
+    "options": {
+      "A": "僅需持有普通證券經紀人資格",
+      "B": "符合專門針對《收購守則》諮詢業務的額外勝任能力及經驗要求（Additional competence requirements），並符合特定的持續專業培訓（CPT）規定",
+      "C": "向香港交易所繳納 500 萬港元押金",
+      "D": "由全體非執行董事提供個人信用背書"
+    },
+    "answer": "B",
+    "explanation": "指南 1-38 頁 4.45(b) 節指明：就《收購守則》或《股份回購守則》受規管交易提供意見的機構融資顧問，必須符合證監會《勝任能力的指引》附錄 B 所訂明的專門資格、交易經驗、負責人員標準及持續專業培訓（CPT）專項時數要求。",
+    "reference": "SFC Guidelines on Competence Appendix B; HKSI Paper 5 Guide Topic 1 Section 4.45"
+  },
+  {
+    "id": "T3-154",
+    "topic": "Topic 3",
+    "subtopic": "The Creeper Provision - Interaction with Share Capital Changes",
+    "difficulty": "Level 3",
+    "question": "某大股東在某上市公司持有 35.0% 的投票權。該上市公司隨後因少數股東行使期權而增發新股，導致該大股東的持股比例被稀釋至 34.0%。若該大股東擬在二級市場買入股份以恢復持股比例，在計算 12 個月內 2% 的爬行率時，該大股東自 34.0% 的低點起計，最多可買入：",
+    "options": {
+      "A": "可買入 3.0% 股份以超越原先水平",
+      "B": "在該 12 個月內自 34.0% 起計累計買入不得超過 2.0%（即持股上限為 36.0%），即使其歷史持股曾高達 35.0%",
+      "C": "可無限制買入以抵消被動稀釋的影響",
+      "D": "一股都不能買入，否則即觸發全面要約"
+    },
+    "answer": "B",
+    "explanation": "指南 3-21 頁 4.18(b) 節及 Takeovers Code Rule 26.1 Note 4 規定：2% 自由增購率是以 12 個月期間內該人持股的「最低百分比」（34.0%）為絕對基準點；無論該最低點是由於被動稀釋還是主動減持造成，該人在 12 個月內的總增購額均不得超過 2.0%（即不得買入超過 2.0% 的表決權股份）。",
+    "reference": "Takeovers Code Rule 26.1 Note 4; HKSI Paper 5 Guide Topic 3 Section 4.18"
+  },
+  {
+    "id": "T3-155",
+    "topic": "Topic 3",
+    "subtopic": "Mandatory Offer - Placing and Top-up Transactions (Rule 26 Note 6)",
+    "difficulty": "Level 3",
+    "question": "在香港資本市場常見的「先舊後新配售」（Placing and Top-up）交易中，控股股東先將其持有的 10% 舊股配售予獨立投資者（持股由 45% 降至 35%），隨後按相同價格認購上市公司增發的 10% 新股以補足持股（持股回升至約 43%）。在下列哪種條件下，該控股股東重新認購新股獲豁免觸發全面要約？",
+    "options": {
+      "A": "只要配售與認購在 6 個月內完成即可",
+      "B": "根據《收購守則》第 26.1 條註釋 6，大股東在配售舊股後，必須在十四天之內（Within 14 days）完成認購新股，且其認購後所持股份百分比不得超過其配售前原有的持股百分比，並符合相關豁免申報條件",
+      "C": "大股東必須全額免收任何配售佣金",
+      "D": "必須經香港高等法院頒令認可"
+    },
+    "answer": "B",
+    "explanation": "Takeovers Code Rule 26.1 Note 6 及指南 3-26 頁 4.40 節指明：在先舊後新配售中，大股東減持後再增持看似觸發爬行條款，但若新股認購在舊股配售後 14 天內完成，且最終持股比例不超過初始配售前的持股比例，執行人員依法給予常規豁免，不視為違規觸發全面要約。",
+    "reference": "Takeovers Code Rule 26.1 Note 6; HKSI Paper 5 Guide Topic 3 Section 4.40"
+  },
+  {
+    "id": "T3-156",
+    "topic": "Topic 3",
+    "subtopic": "Offer Timetable - Multiple Classes of Shares Day 21 Synchronization",
+    "difficulty": "Level 2",
+    "question": "當要約人對受要約公司的普通股以及可換股優先股同時提出全面要約時，在要約文件寄發與截止時間表上，兩類要約在程序上的關係為：",
+    "options": {
+      "A": "優先股要約必須在普通股要約結束三年後方可開始",
+      "B": "兩類要約的文件通常合併於同一份要約文件中寄發，且其最早接納截止日期（Day 21）及終局截止日期（Day 60）在時間表上必須保持同步（Synchronized）",
+      "C": "普通股要約截止日必須比優先股要約早 60 天",
+      "D": "優先股要約接納期僅能為 24 小時"
+    },
+    "answer": "B",
+    "explanation": "指南 3-28 至 3-30 頁 4.44–4.49 節及 Rule 13/15 指明：對不同類別證券發出的相若要約，其時間表與要約文件通常同步推進，各類別證券的首次截止日及最終截止日保持一致，以防不同類別證券持有人面臨資訊與時間不對稱。",
+    "reference": "Takeovers Code Rules 13, 15; HKSI Paper 5 Guide Topic 3 Section 4.44, 4.49"
+  },
+  {
+    "id": "T3-157",
+    "topic": "Topic 3",
+    "subtopic": "Rule 3.5 Announcement - Conditions Precedent to an Offer",
+    "difficulty": "Level 3",
+    "question": "要約人在公布發出收購要約時，擬將要約設定為「附帶先決條件的要約」（Pre-conditional Offer，例如須取得海外反壟斷監管審批）。根據《收購守則》第 3.5 條及第 8.2 條，該先決條件在設置與時間表上必須符合何種監管要求？",
+    "options": {
+      "A": "要約人可以隨意將先決條件設定為長達 20 年",
+      "B": "該先決條件必須獲得證監會執行人員的事先同意，公告中必須訂明達成先決條件的最後截止日期（Long-stop date），且要約文件通常僅在該等先決條件全數達成後 7 天內（或 21 天內）方正式寄發",
+      "C": "先決條件必須包含由要約人全體董事進行投票",
+      "D": "先決條件在香港全面要約中屬永久違法"
+    },
+    "answer": "B",
+    "explanation": "Takeovers Code Rules 3.5, 8.2 及實務指引：附帶先決條件的要約公告（Pre-conditional announcement）必須經執行人員事先認可，先決條件必須客觀明確且訂有清晰的最後時限（Long-stop date）；要約文件在先決條件全數達成前不得寄發，待條件達成後方啟動正式寄發要約文件時間表。",
+    "reference": "Takeovers Code Rules 3.5, 8.2; HKSI Paper 5 Guide Topic 3 Section 4.48"
+  },
+  {
+    "id": "T3-158",
+    "topic": "Topic 3",
+    "subtopic": "Acting in Concert - Partners in a Partnership",
+    "difficulty": "Level 2",
+    "question": "根據《收購守則》關於一致行動人士之法定推定類別，在有限合夥基金（Limited Partnership Fund）架構中，下列哪組主體依法被「推定為一致行動人士」？",
+    "options": {
+      "A": "有限合夥基金的普通合夥人（General Partner）、該基金本身、以及受同一普通合夥人控制的其他關聯投資基金",
+      "B": "全體被動有限合夥人（LPs）及其各自的私人家庭保姆",
+      "C": "有限合夥基金與其所有的海外開戶銀行",
+      "D": "有限合夥基金與香港稅務局"
+    },
+    "answer": "A",
+    "explanation": "指南 3-22 頁 4.21 節及 Takeovers Code Definitions Class (1) & (2) 指明：合夥企業架構中，普通合夥人（GP）掌握投資與表決控制權，因此 GP 與其管理的合夥基金以及受同一管理架構控制的其他同系實體，依法被推定為一致行動人士。",
+    "reference": "Takeovers Code Definitions Class 1 & 2; HKSI Paper 5 Guide Topic 3 Section 4.21"
+  },
+  {
+    "id": "T3-159",
+    "topic": "Topic 3",
+    "subtopic": "Whitewash Waiver - Voting by Independent Shareholders on Poll",
+    "difficulty": "Level 2",
+    "question": "根據《收購守則》附錄六，在受要約公司召開股東大會審議清洗豁免決議案時，該項決議案在表決方式上必須嚴格採用：",
+    "options": {
+      "A": "大會現場舉手表決（Show of hands）",
+      "B": "以一股一票的方式進行正式「投票表決」（Voting by poll），且表決結果公告中必須詳細披露贊成與反對的實際股份數額與百分比",
+      "C": "由董事會主席一人全權決定",
+      "D": "由公證人在大會門外以抽籤方式決定"
+    },
+    "answer": "B",
+    "explanation": "指南 3-25 頁 4.35 節及 Takeovers Code Schedule VI para 2 明確規定：清洗豁免決議案依法必須以「按股數投票方式」（Voting by poll）表決，嚴禁使用舉手表決，且受惠人與非獨立股東名下持股不得計入，大會結果公告須具體披露票數明細。",
+    "reference": "Takeovers Code Schedule VI para 2; HKSI Paper 5 Guide Topic 3 Section 4.35"
+  },
+  {
+    "id": "T3-160",
+    "topic": "Topic 3",
+    "subtopic": "Share Buy-backs Code - Repurchases by Subsidiaries Treatment",
+    "difficulty": "Level 2",
+    "question": "上市發行人的全資附屬公司若在公開市場買入其上市母公司的股份，根據《股份回購守則》及《公司條例》，該交易在法規上的定性與約束為：",
+    "options": {
+      "A": "視為普通二級市場自營投資，完全不受任何規則約束",
+      "B": "附屬公司購買其母公司股份在香港《公司條例》（Cap. 622）下原則上受法律嚴格禁止；若符合特定海外法定豁免，該買入在《股份回購守則》下亦被等同視為發行人本身的股份購回（Treated as share buy-back by the issuer）",
+      "C": "附屬公司購買母公司股票可享受免稅待遇",
+      "D": "買入的股份自動享有三倍投票權"
+    },
+    "answer": "B",
+    "explanation": "指南 1-30 頁 3.61 節、3-34 頁 6.1 節及《公司條例》s. 140 指明：香港公司法原則上禁止附屬公司持有或買入母公司股份；在海外法例允許的特定架構下，附屬公司買入母公司證券受《股份回購守則》直接管轄，被等同視為母公司本身的回購。",
+    "reference": "Companies Ordinance s.140; Share Buy-backs Code; HKSI Paper 5 Guide Topic 3 Section 6.1"
+  },
+  {
+    "id": "T3-161",
+    "topic": "Topic 3",
+    "subtopic": "Rule 8.3 - Timing of Dispatch of Share Certificates in Offers",
+    "difficulty": "Level 2",
+    "question": "在收購要約徹底失效（Lapsed）後，受要約公司股東先前已遞交過戶處的股票實體憑證（Share Certificates）及過戶文件，要約人負有何種法定退回時限責任？",
+    "options": {
+      "A": "可由要約人保管三年",
+      "B": "要約人及股份過戶登記處必須在要約失效之日起計十天之內（Within 10 days of the offer lapsing），以郵寄方式將股票憑證等文件退還予相關股東",
+      "C": "該等股票憑證自動在失效當日銷毀",
+      "D": "股東必須親身前往要約人辦公室繳費領回"
+    },
+    "answer": "B",
+    "explanation": "Takeovers Code Rule 20.2 及實務規範指明：若全面要約失效，要約人及其過戶處必須在要約失效後 10 天內（Within 10 days），將股東提呈接納時交付的股票證書及轉讓文書妥為退還寄回，解除對少數股東資產的凍結。",
+    "reference": "Takeovers Code Rule 20.2; HKSI Paper 5 Guide Topic 3 Section 4.52"
+  },
+  {
+    "id": "T3-162",
+    "topic": "Topic 3",
+    "subtopic": "Equality of Treatment - Shareholder Irrevocables Compensation Prohibition",
+    "difficulty": "Level 3",
+    "question": "要約人向受要約公司的某位主要股東索取不可撤銷接納承諾時，私下向該股東支付了一筆相當於每股 0.20 港元的「承諾簽約金」（Commitment fee）。該安排在《收購守則》下的法律定性為：",
+    "options": {
+      "A": "合法的商業期權補償費",
+      "B": "嚴重違反《收購守則》一般原則 1（平等對待原則）及第 25 條（禁止特別交易），因為該費用實質上提高了該股東所獲得的每股變現對價，若未獲批准將導致要約人面臨公開譴責及強制要求向全體股東加價",
+      "C": "完全符合市場常規，無須披露",
+      "D": "該簽約金可自香港印花稅中全額抵免"
+    },
+    "answer": "B",
+    "explanation": "指南 3-6 頁 2.7 節（原則 1）及 3-13 至 3-14 頁 3.27 節（Rule 25）明確指出：向簽署不可撤銷承諾的股東支付額外費用或補償，構成了對其他股東的不平等待遇，屬於受禁特別交易，要約人不得以任何名義向特定股東輸送超額代價。",
+    "reference": "Takeovers Code General Principle 1, Rule 25; HKSI Paper 5 Guide Topic 3 Section 3.27"
+  },
+  {
+    "id": "T3-163",
+    "topic": "Topic 3",
+    "subtopic": "Acting in Concert - Board Directors Recommendation Cohesion",
+    "difficulty": "Level 2",
+    "question": "受要約公司全體執行董事均在董事會通函中簽名支持要約並推薦股東接納。在收購監管下，全體董事共同發表推薦意見這一行為本身：",
+    "options": {
+      "A": "直接使全體執行董事被視為與要約人一致行動的人士",
+      "B": "純屬董事履行其法定受託責任與守則職責（Fiduciary duties），該推薦行為本身不會僅憑此項原因致使董事被視為與要約人一致行動",
+      "C": "自動剝奪全體董事的個人持股投票權",
+      "D": "屬於受禁防礙行動"
+    },
+    "answer": "B",
+    "explanation": "Takeovers Code Definitions 及指南 3-7 頁 2.7 節（原則 8）指明：受要約公司董事向股東出具意見函並推薦要約，乃履行董事職責之常態；只要董事自身與要約人不存在私下利益協議，純粹出具接納推薦意見絕不會使其成為要約人的一致行動人士。",
+    "reference": "Takeovers Code Definitions; HKSI Paper 5 Guide Topic 3 Section 2.7"
+  },
+  {
+    "id": "T3-164",
+    "topic": "Topic 3",
+    "subtopic": "Rule 16.2 - Minimum Offer Period after Price Revision",
+    "difficulty": "Level 2",
+    "question": "根據《收購守則》第 16.2 條，要約人在刊發修訂要約文件（例如提高收購價）之後，該要約必須維持向全體股東開放接納至少多長時間？",
+    "options": {
+      "A": "至少 24 小時",
+      "B": "至少十四天（Must be open for acceptance for not less than 14 days following the date of the revised offer document）",
+      "C": "至少 60 天",
+      "D": "接納期不得超過 3 天"
+    },
+    "answer": "B",
+    "explanation": "指南 3-30 頁 4.49 節及 Takeovers Code Rule 16.2 明確指明：無論要約先前已開放多久，一旦要約人修訂要約條款並寄發修訂文件，要約自該修訂文件寄發日起必須維持開放至少 14 天（Not less than 14 days），以確保股東享有充足時間消化新條款。",
+    "reference": "Takeovers Code Rule 16.2; HKSI Paper 5 Guide Topic 3 Section 4.49"
+  },
+  {
+    "id": "T3-165",
+    "topic": "Topic 3",
+    "subtopic": "The Executive - Informal Guidance and Consultation Meetings",
+    "difficulty": "Level 1",
+    "question": "根據《收購守則》引言第 1.5 段，從業人員在籌劃一項可能涉及《守則》複雜條文或豁免條款的重大收購交易時，證監會企業融資部執行人員所提倡的常規合作方式為：",
+    "options": {
+      "A": "在交易公告發布前嚴禁與執行人員取得任何聯繫",
+      "B": "鼓勵從業人員在交易籌備的早期階段（At an early stage），就任何有疑問的事宜主動向執行人員進行保密非正式諮詢（Consult with the Executive）",
+      "C": "僅能透過香港警務處轉遞諮詢公函",
+      "D": "向執行人員繳納保密諮詢費後方可對話"
+    },
+    "answer": "B",
+    "explanation": "指南 1-38 頁 4.42 節、3-3 頁 1.6 節及 3-7 頁 2.9 節反覆強調：《收購守則》強烈鼓勵各方及其顧問在交易的「早期階段」（At an early stage）主動與執行人員溝通諮詢，以確保交易結構設計符合守則精神，避免事後違規爭端。",
+    "reference": "Takeovers Code Introduction para 1.5; HKSI Paper 5 Guide Topic 3 Section 2.9"
+  },
+  {
+    "id": "T3-166",
+    "topic": "Topic 3",
+    "subtopic": "Whitewash Waiver - Interim Dividends Pre-completion Restrictions",
+    "difficulty": "Level 3",
+    "question": "在等待股東大會審議清洗豁免及完成新股發行交割期間，受要約公司董事會若擬宣布派發一筆異常高額的特別現金股息。在《收購守則》下，該派息提議受到的合規約束為：",
+    "options": {
+      "A": "發行人可以隨意派息，與清洗豁免無任何關聯",
+      "B": "該非常規大額派息實質上構成了對現有資產的重大處置或可能改變要約作價基礎，受要約公司必須事先諮詢執行人員，且可能需要經獨立股東在大會上獨立審批，否則可能損害清洗豁免的審批基礎",
+      "C": "公司董事長個人可直接沒收該筆股息",
+      "D": "特別股息在香港上市公司中屬違法分派"
+    },
+    "answer": "B",
+    "explanation": "Takeovers Code Rule 4 及 Schedule VI 規定：在審批清洗豁免或要約期間，目標公司突擊派發非常規重大股息（Abnormal dividend）會實質改變公司每股淨資產與財務基礎，可能被視為防礙行動或損害整體交易公允性，必須事先諮詢執行人員取得許可。",
+    "reference": "Takeovers Code Rule 4, Schedule VI; HKSI Paper 5 Guide Topic 3 Section 3.30"
+  },
+  {
+    "id": "T3-167",
+    "topic": "Topic 3",
+    "subtopic": "Acting in Concert - Financial Accommodations as Concert Indicator",
+    "difficulty": "Level 3",
+    "question": "甲投資者向乙投資者提供了一筆巨額無息個人信貸，專供乙投資者在市場大手購入丙上市公司的股票。在《收購守則》下，甲與乙之間的關係為：",
+    "options": {
+      "A": "純粹屬於私人借貸關係，互不相干",
+      "B": "提供融資直接協助他人購買目標公司股份以獲取表決權，依法直接使甲與乙被推定為「一致行動人士」（Presumed to be acting in concert），彼等持有的丙公司股份必須全額合併計算",
+      "C": "甲自動成為丙公司的影子董事",
+      "D": "乙的借款行為構成洗錢罪行"
+    },
+    "answer": "B",
+    "explanation": "指南 3-22 頁 4.21 節及 Takeovers Code Definitions Class (9) 指明：凡提供財務資助或信貸（Financial accommodation）專供他人收購某公司表決權股份者，出資人與借款人依法直接被推定為一致行動人士，防止透過出資代理人隱匿幕後收購意圖。",
+    "reference": "Takeovers Code Definitions Class 9; HKSI Paper 5 Guide Topic 3 Section 4.21"
+  },
+  {
+    "id": "T3-168",
+    "topic": "Topic 3",
+    "subtopic": "Compulsory Acquisition - Multiple Classes 90% Independence",
+    "difficulty": "Level 3",
+    "question": "受要約公司發行了普通股及無表決權優先股。要約人在自願要約中對兩類股份均提出了收購要約。要約人若擬行使法定強制收購權（Squeeze-out），根據《公司條例》第 693 條，該 90% 的強制收購門檻在計算時必須：",
+    "options": {
+      "A": "將兩類股份總市值合併計算達到 90% 即可",
+      "B": "必須在「每一類別股份」中各自獨立達到該類別要約所涉及股份的至少 90%（Must achieve 90% in each separate class of shares），方可針對該特定類別行使強制收購權",
+      "C": "只需在普通股達到 90%，即可強制收購全部優先股",
+      "D": "由全體優先股股東一人一票表決決定"
+    },
+    "answer": "B",
+    "explanation": "《公司條例》s. 693 及指南 3-33 頁 5.3 節明確指明：強制擠出收購權是按股份類別分別行使的（Class by class）；要約人只有在某特定類別股份中實際收購達到該類別要約股份的 90% 時，方可針對該類別未接納股東行使強制收購權。",
+    "reference": "Companies Ordinance s.693; HKSI Paper 5 Guide Topic 3 Section 5.3"
+  },
+  {
+    "id": "T3-169",
+    "topic": "Topic 3",
+    "subtopic": "Rule 2.10 - Scheme of Arrangement Court Sanction Hearing Oppositions",
+    "difficulty": "Level 3",
+    "question": "在協議安排私有化獲獨立股東在法院會議通過 75% 贊成及未超 10% 反對後，呈請法院舉行最終認可聆訊（Court sanction hearing）時，少數反對股東享有的權利為：",
+    "options": {
+      "A": "反對股東嚴禁在法庭聆訊中委託律師陳詞",
+      "B": "反對股東有權出席法院聆訊並向法官陳詞提出異議；法庭在審查會議表決程序是否公允、以及該方案是否屬合理商人會認可的公正條款時，將實質考量該等異議陳詞",
+      "C": "法院認可令由法官秘書自動蓋印，無須實質開庭",
+      "D": "反對股東出席法庭聆訊必須繳納 100 萬港元手續費"
+    },
+    "answer": "B",
+    "explanation": "指南 1-30 頁 3.63 節、2-35 頁 7.33 節及香港法院司法審查常規：協議安排的法院認可程序是獨立司法防線，異議股東有權在法院聆訊中正式出庭反對（Appear and object）；法官有絕對裁量權評估方案是否實質公平，若存在苛待少數，法庭有權拒絕頒令。",
+    "reference": "Companies Ordinance s.674; HKSI Paper 5 Guide Topic 1 Section 3.63; Topic 2 Section 7.33"
+  },
+  {
+    "id": "T3-170",
+    "topic": "Topic 3",
+    "subtopic": "Takeovers Code - Material Changes in Information Circular 9.1",
+    "difficulty": "Level 2",
+    "question": "根據《收購守則》第 9.1 條，在要約文件或受要約公司通函刊發後、至要約期結束期間，若原文件中所載的任何資料發生了重大變動（Material changes），各方負有何種及時通報義務？",
+    "options": {
+      "A": "可留待交易交割滿半年後在年報中備註",
+      "B": "各方必須在合理切實可行下盡快向市場刊登補充公告或向股東寄發補充文件（Publish a supplementary announcement or document），全面交代重大變更內容",
+      "C": "董事會必須集體向香港警方自首",
+      "D": "該要約自動在 24 小時內撤銷"
+    },
+    "answer": "B",
+    "explanation": "Takeovers Code Rule 9.1 及指南 3-3 頁 1.6 節指明：要約期間資訊時效至高無上，凡已公布文件中的資料出現實質性變更，當事人負有不間斷的法定/守則更新責任，必須迅速發布補充公告或寄發補充通函以消除市場盲點。",
+    "reference": "Takeovers Code Rule 9.1; HKSI Paper 5 Guide Topic 3 Section 1.6"
+  },
+  {
+    "id": "T3-171",
+    "topic": "Topic 3",
+    "subtopic": "Frustrating Actions - Disposal of Material Asset Contract Conditional on Offer Failure",
+    "difficulty": "Level 3",
+    "question": "受要約公司董事會與第三方簽訂一份重大出售協議，並在合約中約定：「本出售合約僅在當前敵意收購要約徹底失效或撤回時方始生效」。該合約在《收購守則》第 4 條下的性質為：",
+    "options": {
+      "A": "完全不屬於防礙行動，因為其在要約期內並未實際交割",
+      "B": "依然構成受禁防礙行動（Frustrating action），因為該條件設置旨在為要約人製造阻礙或剝奪股東就該要約作出決策的機會，未經股東大會批准屬嚴重違規",
+      "C": "合法的商業遠期期權",
+      "D": "由發行人行政總裁個人獨立承擔違約責任"
+    },
+    "answer": "B",
+    "explanation": "Takeovers Code Rule 4 及指南 3-14 頁 3.30 節指明：防礙行動的判定在於實質影響，簽署以要約失敗為生效條件的重大合約，直接旨在挫敗要約人的收購意願，使目標公司在收購後背負重大負擔，未獲股東大會批准同屬違規防礙行動。",
+    "reference": "Takeovers Code Rule 4; HKSI Paper 5 Guide Topic 3 Section 3.30"
+  },
+  {
+    "id": "T3-172",
+    "topic": "Topic 3",
+    "subtopic": "Mandatory Offer - No Conditions Other Than 50% Rule Absolute",
+    "difficulty": "Level 3",
+    "question": "某買方在場外收購了大股東 32% 的股份（觸發 Rule 26 強要義務）。該買方在刊發全面要約公告時，擬在要約中加入「以目標公司維持現有銀行信貸額度為先決條件」。證監會執行人員對此條件的裁決為：",
+    "options": {
+      "A": "無條件批准，因為商業信貸至關重要",
+      "B": "堅決拒絕批准（Will not permit），因為強制全面要約依法不得附加任何除 50% 接納條件之外的任何商業先決條件或主觀融資條件（No conditions other than 50% acceptance condition）",
+      "C": "要求買方繳納 1,000 萬港元手續費後方可附加",
+      "D": "將受要約公司轉移至香港金融管理局代管"
+    },
+    "answer": "B",
+    "explanation": "指南 3-23 頁 4.26 節及 Takeovers Code Rule 26.2 明確指明：強制全面要約是法定收購控制權後的剛性對價義務，除 50% 投票權接納條件外，要約人絕對不可附加任何其他條件（No other conditions permitted），任何附加融資或信貸條件的提議均不獲接納。",
+    "reference": "Takeovers Code Rule 26.2; HKSI Paper 5 Guide Topic 3 Section 4.26"
+  },
+  {
+    "id": "T3-173",
+    "topic": "Topic 3",
+    "subtopic": "Acting in Concert - Joint Venture Partners in New Bidding Vehicle",
+    "difficulty": "Level 2",
+    "question": "甲公司與乙公司共同出資設立一家合營實體 Newco，各佔 Newco 50% 股權，並由 Newco 發起對香港上市公司丙的全面要約。在《收購守則》下，甲公司與乙公司的身份認定為：",
+    "options": {
+      "A": "兩者僅為普通股東，互不相干",
+      "B": "甲公司與乙公司身為共同發起人，直接構成 Newco 的「一致行動人士」（Concert parties），兩者自身持有的任何丙公司股份均須全額合併計算",
+      "C": "兩者自動成為丙公司的影子監事",
+      "D": "兩者享有永久免受收購守則約束的特權"
+    },
+    "answer": "B",
+    "explanation": "指南 3-21 頁 4.20 節及 Takeovers Code Definitions Class (1) 指明：共同設立收購載體出資的股東，依照合營協議積極合作推進要約，各出資方與收購載體直接構成無可爭議的一致行動群組。",
+    "reference": "Takeovers Code Definitions; HKSI Paper 5 Guide Topic 3 Section 4.20"
+  },
+  {
+    "id": "T3-174",
+    "topic": "Topic 3",
+    "subtopic": "The Creeper Provision - Zero Base Margin Rule",
+    "difficulty": "Level 3",
+    "question": "股東丁在過去 12 個月內已透過自由增購率（Creeper）累計在市場買入了 2.0% 的股份（持股由 32% 增至 34%）。在該 12 個月期限屆滿之前，丁若在二級市場進一步買入哪怕只有一手（0.001%）的股份，該交易的後果為：",
+    "options": {
+      "A": "因金額極小，受 de minimis 豁免而不受管轄",
+      "B": "該買入直接使 12 個月內的累計增幅超過 2%，即時觸發《收購守則》第 26 條項下的強制全面收購要約義務",
+      "C": "買入股份被聯交所自動凍結 10 天",
+      "D": "丁的全部持股被依法強制註銷"
+    },
+    "answer": "B",
+    "explanation": "指南 3-21 頁 4.18(b) 節及 Rule 26.1(b) 規定：2% 爬行率是嚴格的法定剛性天花板；一旦在 12 個月內累計增幅突破 2.0%（即使超出 0.001%），即行觸發全面現金收購要約，守則對超額買入無任何微量免責條款。",
+    "reference": "Takeovers Code Rule 26.1(b); HKSI Paper 5 Guide Topic 3 Section 4.18"
+  },
+  {
+    "id": "T3-175",
+    "topic": "Topic 3",
+    "subtopic": "Whitewash Waiver - Expiry of Waiver If Proposals Lapsed",
+    "difficulty": "Level 2",
+    "question": "證監會執行人員批出的清洗豁免（Whitewash Waiver），在有效期限上受到何種限制？",
+    "options": {
+      "A": "清洗豁免一旦批出，永久終身有效",
+      "B": "清洗豁免受制於底層交易方案的落實；若底層配股或注資協議失效、撤回或未能在規定時限內完成交割，該清洗豁免即告同時失效（The waiver will lapse）",
+      "C": "清洗豁免有效期固定為 100 年",
+      "D": "執行人員無權對豁免設定任何時限"
+    },
+    "answer": "B",
+    "explanation": "Takeovers Code Schedule VI 及指南 3-25 頁 4.35 節指明：清洗豁免是附隨於特定發行方案的專項寬免；若方案未獲股東通過或底層合約終止失效，清洗豁免隨即自動失效，不得移轉用於任何其他後續交易。",
+    "reference": "Takeovers Code Schedule VI; HKSI Paper 5 Guide Topic 3 Section 4.35"
+  },
+  {
+    "id": "T3-176",
+    "topic": "Topic 3",
+    "subtopic": "Rule 21.1 - Dealings Restrictions on Target Shares by Offeror during Offer",
+    "difficulty": "Level 2",
+    "question": "根據《收購守則》第 21.1 條，在要約期內，要約人及其一致行動人士在二級市場買賣受要約公司證券時，受到下列哪項一般原則的約束？",
+    "options": {
+      "A": "要約人可以隨意進行盤中日內高頻套利交易",
+      "B": "要約人及其一致行動人士不得在要約期內以低於要約價的價格在市場買入目標公司股份，且任何買入均須依據 Rule 22 進行逐日透明申報",
+      "C": "要約人嚴禁在要約期買入任何一股目標公司股票",
+      "D": "所有交易必須全數在場外以黃金結算"
+    },
+    "answer": "B",
+    "explanation": "Takeovers Code Rule 21.1, 22 及指南 3-24 頁 4.29 節指明：要約人可在市場買入股份以推進要約（但須遵守最高價格規則與 Rule 22 翌日申報）；若以高於要約價買入，須調高要約價，嚴禁進行擾亂市場秩序的虛假買賣。",
+    "reference": "Takeovers Code Rules 21.1, 22, 24; HKSI Paper 5 Guide Topic 3 Section 4.29"
+  },
+  {
+    "id": "T3-177",
+    "topic": "Topic 3",
+    "subtopic": "Takeovers Panel Hearings - Open or Closed Sessions",
+    "difficulty": "Level 2",
+    "question": "收購及合併委員會（Panel）召開紀律處分聆訊或覆核聆訊時，關於聆訊會議的公開性，守則的程序規定通常為：",
+    "options": {
+      "A": "必須在香港大球場公開向全港市民進行電視現場直播",
+      "B": "聆訊通常以「閉門形式」（In private / closed sessions）進行以維護商業機密與程序嚴謹性，但委員會作出的最終裁決結果及理由書通常會向公眾發表",
+      "C": "聆訊僅限於透過電郵文字傳閱，嚴禁召開實體會議",
+      "D": "會議必須由香港警務處處長親自主持"
+    },
+    "answer": "B",
+    "explanation": "指南 3-38 頁 7.14 節及 Takeovers Code Introduction 指明：委員會聆訊通常閉門進行（Held in private），確保當事人能坦誠陳述機密商業資訊；聆訊結束審裁完畢後，委員會會刊發正式公開裁決書公布處分結論。",
+    "reference": "Takeovers Code Introduction para 1.8; HKSI Paper 5 Guide Topic 3 Section 7.14"
+  },
+  {
+    "id": "T3-178",
+    "topic": "Topic 3",
+    "subtopic": "Dealings Disclosure - Definition of Associate under Rule 22",
+    "difficulty": "Level 2",
+    "question": "在《收購守則》第 22 條交易申報體系中，下列哪類機構依法被界定為受要約公司的「聯繫人」（Associate）？",
+    "options": {
+      "A": "受要約公司的常年獨立核數師事務所",
+      "B": "受聘為受要約公司提供機構融資意見的持牌財務顧問（Financial adviser to the offeree company）",
+      "C": "受要約公司的辦公大樓物業管理保安公司",
+      "D": "為受要約公司提供日常快遞服務的物流公司"
+    },
+    "answer": "B",
+    "explanation": "指南 1-41 頁 4.58 節、3-31 頁 4.53 節及 Takeovers Code Definitions 指明：擔任受要約公司財務顧問（包括獨立財務顧問 IFA）的持牌法團，依法直接屬於受要約公司的「聯繫人」（Associate），在要約期進行任何相關證券買賣均須受 Rule 22 申報約束。",
+    "reference": "Takeovers Code Definitions; HKSI Paper 5 Guide Topic 1 Section 4.58; Topic 3 Section 4.53"
+  },
+  {
+    "id": "T3-179",
+    "topic": "Topic 3",
+    "subtopic": "Takeovers Code Disciplinary Sanctions - Reprimand Status",
+    "difficulty": "Level 1",
+    "question": "在指南回顧的個案一（Case 1）中，持牌金融機構 INT-A 因在擔任受要約公司顧問期間違規進行股份買賣且未作 Rule 22 申報，證監會最終對其施加的制裁為：",
+    "options": {
+      "A": "判處 INT-A 董事長監禁 5 年",
+      "B": "施加「公開譴責」（Public reprimand），證監會在決定處分時考慮了其事後主動自首及配合調查的補救態度",
+      "C": "吊銷 INT-A 全體僱員的香港身份證",
+      "D": "沒收 INT-A 所有的客戶託管股票"
+    },
+    "answer": "B",
+    "explanation": "指南 1-41 頁 4.62 節及執法案例一指明：證監會對 INT-A 處以公開譴責（Public reprimand），鑑於其內部監控失誤但主動自首（Self-reported）並糾正合規缺陷，證監會未施加更嚴厲的吊銷牌照處分，展現了相稱性執法原則。",
+    "reference": "HKSI Paper 5 Guide Topic 1 Section 4.62"
+  },
+  {
+    "id": "T3-180",
+    "topic": "Topic 3",
+    "subtopic": "Summary of Topic 3 - The Ultimate Role of Independent Shareholders",
+    "difficulty": "Level 2",
+    "question": "綜合香港《收購守則》與《股份回購守則》的全部核心機制（包括清洗豁免、私有化協議安排、第 4 條防礙行動例外、第 25 條特別交易），該等重大交易獲准推進的最終決定權始終歸屬於：",
+    "options": {
+      "A": "由受要約公司控股股東全權決定",
+      "B": "由不受利益衝突影響的「無利害關係獨立股東」（Disinterested Independent Shareholders）在獲取充分資訊及專業獨立財務顧問意見後，於股東大會上以投票表決方式作出最終決策",
+      "C": "由證監會執行董事個人全權代為行使投票權",
+      "D": "由承銷團各大投資銀行聯名裁定"
+    },
+    "answer": "B",
+    "explanation": "指南 3-6 至 3-7 頁 2.7 節（原則 1、7、9）、3-11 頁 3.20 節、3-25 頁 4.35 節及全局考點總結：《收購守則》的制度設計精髓在於排除內部人與控股方利益干擾，將涉及控制權轉移、稀釋或退市的終極選擇權交予無利害關係的獨立股東，捍衛資本市場公平基石。",
+    "reference": "Takeovers Code General Principles; HKSI Paper 5 Guide Topic 3 Summary"
+  },
+  {
+    "id": "T3-181",
+    "topic": "Topic 3",
+    "subtopic": "Mandatory Offer - Exemption for Corporate Restructuring without Change in Ultimate Control",
+    "difficulty": "Level 3",
+    "question": "某家族信託透過全資擁有的海外公司 A 持有香港上市公司 40% 的有投票權股份。為優化稅務架構，該家族信託設立了另一間全資擁有的海外公司 B，並將海外公司 A 持有的該 40% 上市公司股份全數轉讓予海外公司 B。該項股份轉讓在《收購守則》下的處理原則為：",
+    "options": {
+      "A": "因海外公司 B 是新法人且持股達 40%，必須強制向全體公眾股東發出全面收購要約",
+      "B": "該重組並未導致上市公司的最終實益控制權（Ultimate control）發生任何實質變更，當事人可向證監會執行人員申請專項豁免（Waiver under Rule 26），執行人員通常會批出豁免免除全面要約責任",
+      "C": "海外公司 B 必須將 10% 股份在二級市場強制拋售",
+      "D": "上市公司必須即時停牌一年"
+    },
+    "answer": "B",
+    "explanation": "根據 Takeovers Code Rule 26.1 Note 6 及學習指南 3-23 頁 4.25 節，凡集團內部重組或家族信託架構調整，若未引致最終實益控制人發生任何改變，實質上不構成控制權易手，執行人員通常會依據豁免條款批出免除全面要約責任的特許裁決。",
+    "reference": "Takeovers Code Rule 26.1 Note 6; HKSI Paper 5 Guide Topic 3 Section 4.25"
+  },
+  {
+    "id": "T3-182",
+    "topic": "Topic 3",
+    "subtopic": "Whitewash Waiver - Disqualification by Dealings between Circular and Meeting",
+    "difficulty": "Level 3",
+    "question": "某擬申請清洗豁免的認購人及其一致行動人士，在受要約公司寄發載有清洗豁免建議的通函之後、但在股東大會召開表決之前的一週內，在二級市場賣出了其持有的受要約公司 0.1% 股份。該項減持交易將導致：",
+    "options": {
+      "A": "清洗豁免不受任何影響，因為減持股份有利於公眾流通量",
+      "B": "直接構成違反《收購守則》附錄六第 3 段的受禁交易（Disqualifying transaction），執行人員將即時撤回或拒絕批出清洗豁免，認購人認購新股跨越 30% 即觸發不可撤銷的強制全面要約",
+      "C": "只要減持資金全數捐給香港特區政府即可免責",
+      "D": "該認購人全體董事自動轉為無表決權股東"
+    },
+    "answer": "B",
+    "explanation": "指南 3-25 頁 4.36 節及 Takeovers Code Schedule VI para 3(a) 明確指明：在清洗豁免建議公布至大會表決日期間，認購人及其一致行動方進行任何買賣（包括出售或購買），均屬於喪失資格交易（Disqualifying transactions），執行人員絕不會授予清洗豁免。",
+    "reference": "Takeovers Code Schedule VI para 3; HKSI Paper 5 Guide Topic 3 Section 4.36"
+  },
+  {
+    "id": "T3-183",
+    "topic": "Topic 3",
+    "subtopic": "Acting in Concert - Financial Advisers Proprietary Trading Controls",
+    "difficulty": "Level 3",
+    "question": "擔任收購要約人財務顧問的綜合證券集團，其旗下的自營交易部門在要約期內擬進行受要約公司股份的買賣。該證券集團若未取得「獲豁免自營買賣商」（EPT）認可資格，該自營交易部門進行的買賣將會：",
+    "options": {
+      "A": "被視為一般常規經紀買賣，完全不受《收購守則》限制",
+      "B": "被視為要約人一致行動人士的交易，其買入價格將直接受制於最高價格規則（可能迫使要約人調高要約價），且其在要約期內的出售受到嚴格禁止，所有交易均須在翌日依 Rule 22 作出公開申報",
+      "C": "自動導致要約人的要約文件被聯交所銷毀",
+      "D": "該自營交易員必須被停職一年"
+    },
+    "answer": "B",
+    "explanation": "指南 1-41 頁 4.59 節及 Takeovers Code Definitions Class (5) 指明：非豁免的財務顧問自營部門被推定為與客戶一致行動，其任何交易均被視同要約人本人的買賣，高價買入會拉高要約價，未經批准拋售構成違規，且必須逐日申報 Rule 22 報表。",
+    "reference": "Takeovers Code Definitions, Rules 21, 22, 24; HKSI Paper 5 Guide Topic 1 Section 4.59"
+  },
+  {
+    "id": "T3-184",
+    "topic": "Topic 3",
+    "subtopic": "Rule 16.3 - Revised Offer Lowest Acceptable Price",
+    "difficulty": "Level 2",
+    "question": "根據《收購守則》第 16.3 條，要約人若修訂其全面要約，其修訂後的要約價格在作價基準上：",
+    "options": {
+      "A": "要約人可以任意將要約價格下調 50%",
+      "B": "修訂後的要約價格不得低於原先的要約價格（The revised offer price must not be at a lower price than original offer），要約條款只能向對股東更有利的方向修訂",
+      "C": "修訂後價格必須嚴格等於每股資產淨值",
+      "D": "可以改為向股東派送非上市的紀念品代幣"
+    },
+    "answer": "B",
+    "explanation": "Takeovers Code Rule 16.3 規定：全面要約條款的修訂只能是向上調高或改善條件，嚴禁向股東提出較原要約更不利的降價修訂，以維護市場誠信並防止要約人惡意壓制目標公司股價。",
+    "reference": "Takeovers Code Rule 16.3; HKSI Paper 5 Guide Topic 3 Section 4.49"
+  },
+  {
+    "id": "T3-185",
+    "topic": "Topic 3",
+    "subtopic": "Rule 3.7 Talks Announcement - Obligation on Target When Leak Occurs",
+    "difficulty": "Level 2",
+    "question": "受要約公司正與潛在要約人進行秘密收購談判。當天受要約公司股價出現無法解釋的暴漲 35%，且成交量急劇放大十倍。根據《收購守則》第 3.7 條，受要約公司董事會負有何種法定/守則緊急義務？",
+    "options": {
+      "A": "董事會可對異動保持沉默直至簽署最終合約",
+      "B": "董事會必須立即刊發初步商討公告（Talks announcement under Rule 3.7），交代公司正與潛在買方進行接洽，並在必要時申請短暫停牌，以防止市場在資訊不對稱下出現虛假混亂",
+      "C": "董事會必須在當天解散談判團隊",
+      "D": "董事會必須向聯交所繳納 10 萬港元市場穩定費"
+    },
+    "answer": "B",
+    "explanation": "指南 3-6 頁 2.7 節（原則 6）及 Takeovers Code Rule 3.7 明確規定：當出現股價異常波動或重大傳媒洩密跡象時，機密已告喪失，受要約公司負有嚴格責任立即發出商討公告（Talks announcement），以維護市場知情權。",
+    "reference": "Takeovers Code Rule 3.7; HKSI Paper 5 Guide Topic 3 Section 4.4"
+  },
+  {
+    "id": "T3-186",
+    "topic": "Topic 3",
+    "subtopic": "Takeovers Code - Joint Offerors Responsibility",
+    "difficulty": "Level 2",
+    "question": "當兩家機構組成聯合要約人（Joint Offerors）向目標公司發起全面收購時，在要約文件中所作出的各項陳述與承諾，兩家機構在《收購守則》下承擔：",
+    "options": {
+      "A": "按出資比例承擔分散的有限責任",
+      "B": "共同及個別承擔法律與監管責任（Jointly and severally responsible for the accuracy of all information），且全體聯合要約人的董事均須簽署全額責任聲明",
+      "C": "僅由排名在前的首要發起人承擔責任",
+      "D": "完全免除任何個人連帶責任"
+    },
+    "answer": "B",
+    "explanation": "指南 3-8 頁 3.4–3.5 節及 Takeovers Code Rule 9.3 指明：聯合要約架構下，所有聯合要約人及其董事承擔連帶責任（Joint and several responsibility），確保要約文件內的所有披露與融資承諾具備完全約束力。",
+    "reference": "Takeovers Code Rule 9.3; HKSI Paper 5 Guide Topic 3 Section 3.5"
+  },
+  {
+    "id": "T3-187",
+    "topic": "Topic 3",
+    "subtopic": "Privatisation - Headcount Test in Overseas Jurisdictions (Cayman Islands)",
+    "difficulty": "Level 3",
+    "question": "某香港上市發行人在開曼群島註冊成立，擬透過開曼公司法下的協議安排（Scheme of Arrangement）實施私有化退市。在表決通過門檻上，除遵守香港《收購守則》第 2.10 條（75% 贊成及 10% 否決線）外，該發行人在開曼群島公司法下：",
+    "options": {
+      "A": "完全免除任何開曼群島法律程序",
+      "B": "仍必須同時符合開曼群島當地公司法規定的法定表決門檻（開曼群島若適用傳統人頭測試，則必須同時獲得出席並投票股東的過半數人數贊成，以及 75% 價值贊成），體現跨境雙重合規架構",
+      "C": "開曼群島法律自動凌駕於香港收購守則之上",
+      "D": "開曼群島法院無權審理任何協議安排"
+    },
+    "answer": "B",
+    "explanation": "指南 1-30 頁 3.63 節、3-33 頁 5.3 節及離岸公司法實務：在香港上市的海外註冊公司實施私有化，必須同時滿足香港《收購守則》（Rule 2.10）及註冊地公司法（如開曼公司法）的雙重門檻要求，若海外法例保留人人頭測試，發行人必須在兩套法規下均獲批准方可生效。",
+    "reference": "Companies Ordinance s.674; Takeovers Code Rule 2.10; HKSI Paper 5 Guide Topic 3 Section 5.3"
+  },
+  {
+    "id": "T3-188",
+    "topic": "Topic 3",
+    "subtopic": "Compulsory Acquisition - Squeeze-out Consideration Equality",
+    "difficulty": "Level 2",
+    "question": "要約人在自願要約中跨越 90% 門檻後，依據《公司條例》向剩餘未接納的少數股東發出強制收購通知（Squeeze-out）。要約人向該等被強制擠出的少數股東所支付的收購代價必須：",
+    "options": {
+      "A": "可以按原要約價扣除 20% 行政手續費後支付",
+      "B": "必須嚴格按照原全面收購要約的相同條款及相同每股作價予以支付（On the same terms as the offer），不得施加任何歧視性折讓",
+      "C": "強制以要約人自身的非上市無表決權債券結算",
+      "D": "由要約人自由斟酌決定，法例無任何定價規定"
+    },
+    "answer": "B",
+    "explanation": "指南 3-33 頁 5.3 節及《公司條例》ss. 693–704 規定：法定強制收購是全面要約的後續法定延伸，要約人對剩餘被擠出股東的收購條款與價格，必須與要約文件中向全體股東提供的對價完全一致，貫徹股東平等原則。",
+    "reference": "Companies Ordinance ss. 693-704; HKSI Paper 5 Guide Topic 3 Section 5.3"
+  },
+  {
+    "id": "T3-189",
+    "topic": "Topic 3",
+    "subtopic": "Takeovers Code - Dealings by Connected Clients of Financial Advisers",
+    "difficulty": "Level 3",
+    "question": "在收購要約期內，要約人聘請的財務顧問機構的某位高管的配偶，在二級市場買賣了受要約公司的股份。該項交易在《收購守則》下的法律地位為：",
+    "options": {
+      "A": "純屬家庭內部投資，完全免受監管審查",
+      "B": "該配偶屬於財務顧問（即要約人聯繫人）的緊密聯繫人，其交易受到《收購守則》第 22 條嚴密監管，必須在翌日中午 12:00 前申報，且若有證據顯示其利用了未公開消息，將面臨嚴厲內幕交易刑事檢控",
+      "C": "交易自動轉化為自願要約接納書",
+      "D": "該高管必須在 24 小時內退還其全部年終花紅"
+    },
+    "answer": "B",
+    "explanation": "指南 1-41 頁 4.59 節、3-31 頁 4.53 節及 Takeovers Code Rule 22 指明：財務顧問的高級人員及其家屬在要約期間買賣標的證券，受到極度嚴格的監控，必須申報 Rule 22 表格，且嚴防機密外洩或觸犯內幕交易法定罪行。",
+    "reference": "Takeovers Code Rule 22; HKSI Paper 5 Guide Topic 1 Section 4.59; Topic 3 Section 4.53"
+  },
+  {
+    "id": "T3-190",
+    "topic": "Topic 3",
+    "subtopic": "Whitewash Waiver - Retention of Underwriting Commission",
+    "difficulty": "Level 2",
+    "question": "大股東在為上市公司供股提供全額包銷並申請清洗豁免時，該大股東自上市公司處收取了正常市場水平的「包銷佣金」（Underwriting commission）。在《收購守則》下，該筆佣金的合規判定為：",
+    "options": {
+      "A": "自動構成受禁特別交易，直接使清洗豁免無效",
+      "B": "若該包銷佣金費率符合正常商業市場常規（Normal commercial terms）、已在供股通函中全面披露、且經獨立財務顧問確認屬公允合理，執行人員通常接納該項包銷安排而不視其為受禁特別優惠",
+      "C": "大股東收取的佣金必須強制捐給香港公益金",
+      "D": "佣金金額不得超過 10 港元"
+    },
+    "answer": "B",
+    "explanation": "Takeovers Code Schedule VI 及實務先例指明：大股東擔任包銷商收取正常商業佣金，只要費率公允、與支付給獨立包銷商的費率相當，且在通函中充分披露並獲 IFA 確認，執行人員通常不會認定其為違反第 25 條的特別交易。",
+    "reference": "Takeovers Code Schedule VI; HKSI Paper 5 Guide Topic 3 Section 4.34"
+  },
+  {
+    "id": "T3-191",
+    "topic": "Topic 3",
+    "subtopic": "Rule 19.2 - Closing Day Disclosures Failure Penalties",
+    "difficulty": "Level 2",
+    "question": "要約人在要約截止日下午 7:00 前，未能按照《收購守則》第 19.1 條刊發要約結果公告。根據第 19.2 條，聯交所及證監會獲賦權採取的即時市場處置措施為：",
+    "options": {
+      "A": "直接沒收要約人名下所有資產",
+      "B": "聯交所可暫停該受要約公司證券的買賣，直至要約人正式刊發符合規定的結果公告為止，以防二級市場在未明要約結果下出現混亂交投",
+      "C": "要約人在 24 小時內自動獲得 100% 股權",
+      "D": "命令要約人全體董事在香港法庭受審"
+    },
+    "answer": "B",
+    "explanation": "Takeovers Code Rule 19.2 規定：若要約人未能如期在截止日下午 7:00 前公布結果，聯交所通常會指示受要約公司股份停牌，以維護公平有序市場，直至要約人全面披露接納結果公告為止。",
+    "reference": "Takeovers Code Rule 19.2; HKSI Paper 5 Guide Topic 3 Section 4.49"
+  },
+  {
+    "id": "T3-192",
+    "topic": "Topic 3",
+    "subtopic": "General Principle 2 - Implementing Ability Continuous Obligation",
+    "difficulty": "Level 2",
+    "question": "根據《收購守則》一般原則 2，要約人在實施收購過程中，若其原本依賴的銀行融資便利在要約期中途被銀行撤銷，要約人負有何種法規義務？",
+    "options": {
+      "A": "要約人可以宣布要約自動無效並退場",
+      "B": "要約人依然承擔落實要約的嚴格責任（Must ensure it can and will continue to be able to implement the offer），要約人必須迅速籌集替代資金履行要約付款，否則要約人及其董事將面臨極嚴厲的紀律處分與冷淡對待令制裁",
+      "C": "所有股東的股份自動被受要約公司無償回購",
+      "D": "由香港財政司代為償付收購資金"
+    },
+    "answer": "B",
+    "explanation": "指南 3-6 頁 2.7 節（原則 2 及 4）指明：要約人有絕對責任確保能全面落實要約支付；融資撤銷不得作為要約人免除責任的合法抗辯，要約人若無法交割將構成最嚴重的守則違規，面臨被全面驅逐出市場的處分。",
+    "reference": "Takeovers Code General Principles 2, 4; HKSI Paper 5 Guide Topic 3 Section 2.7"
+  },
+  {
+    "id": "T3-193",
+    "topic": "Topic 3",
+    "subtopic": "Acting in Concert - Collective Investment Schemes within Same Group",
+    "difficulty": "Level 3",
+    "question": "某大型資產管理集團旗下管理五隻獨立的互惠基金（Mutual Funds）。該五隻基金各自買入了同一家香港上市公司的股份，每隻基金持股比例均為 6.5%（合計達到 32.5%）。在《收購守則》下，該五隻基金的持股判定為：",
+    "options": {
+      "A": "因五隻基金投資者不同，各自持股均低於 10%，互不關聯",
+      "B": "該五隻基金由同一資產管理機構統一管理並行使投票權，依法被推定為一致行動人士，其持股合併達到 32.5%（跨越 30% 門檻），原則上將觸發強制全面要約義務（除非該基金經理具備特定豁免資格並經執行人員認可）",
+      "C": "五隻基金自動轉為優先股持有人",
+      "D": "必須經香港高等法院裁判確認"
+    },
+    "answer": "B",
+    "explanation": "指南 3-22 頁 4.21 節及 Takeovers Code Definitions Class (1) & (2) 指明：受同一基金經理統一集中控制表決權的基金群組，其表決權依法必須全額合併計算，集合持股達到 30% 即觸發強要風險，基金經理在增持時必須嚴密監控集團持股上限。",
+    "reference": "Takeovers Code Definitions; HKSI Paper 5 Guide Topic 3 Section 4.21"
+  },
+  {
+    "id": "T3-194",
+    "topic": "Topic 3",
+    "subtopic": "Off-market Buy-back - Circular Standard and Valuation Reports",
+    "difficulty": "Level 2",
+    "question": "上市發行人就場外股份回購（Off-market Share Buy-back）向股東寄發通函時，根據《股份回購守則》第 2 條及實務指引，通函內除獨立董事委員會意見外，必須包含：",
+    "options": {
+      "A": "全體被回購股東個人過去十年的稅單",
+      "B": "獨立財務顧問就回購條款公平合理性出具的詳細意見函，以及若回購涉及資產置換或非上市股權支付，必須包含由獨立專業估值師出具的正式估值報告",
+      "C": "保證公司每股淨資產增長 200% 的擔保書",
+      "D": "僅需刊登一份半頁紙的股東大會通告"
+    },
+    "answer": "B",
+    "explanation": "指南 3-35 頁 6.4 節及《股份回購守則》Rule 2 指明：場外回購通函必須達到全面收購標準，載有詳盡的 IFA 公允性分析報告及相關資產估值證明，確保獨立股東在充分知悉每股內在價值下表決該項回購。",
+    "reference": "Share Buy-backs Code Rule 2; HKSI Paper 5 Guide Topic 3 Section 6.4"
+  },
+  {
+    "id": "T3-195",
+    "topic": "Topic 3",
+    "subtopic": "Compulsory Acquisition - Unconditional as to Acceptances Prerequisite",
+    "difficulty": "Level 3",
+    "question": "要約人若擬行使《公司條例》項下的法定強制擠出權（Squeeze-out），除了達到 90% 的收購門檻外，在要約自身狀態上的法定前提為：",
+    "options": {
+      "A": "要約必須依然處於有條件狀態",
+      "B": "該收購要約必須已經就接納而言宣布為「無條件」（The offer must have become unconditional as to acceptances），且要約人在發出要約時已向股東明確表露私有化意圖",
+      "C": "要約人必須先取得香港交易所的豁免函",
+      "D": "受要約公司必須處於清盤停業狀態"
+    },
+    "answer": "B",
+    "explanation": "指南 3-33 頁 5.3 節及《公司條例》s. 693 規定：行使強制收購權的前提是全面要約在接納上已全面成為無條件（即要約已圓滿生效並落實交割），在此基礎上累計收購達 90% 無利害關係股份後，方可啟動法定擠出通知程序。",
+    "reference": "Companies Ordinance s.693; HKSI Paper 5 Guide Topic 3 Section 5.3"
+  },
+  {
+    "id": "T3-196",
+    "topic": "Topic 3",
+    "subtopic": "Rule 18 - Exception to No Increase Statement under Reservation",
+    "difficulty": "Level 3",
+    "question": "要約人在刊發「不提高要約價聲明」（No increase statement）時，明確註明「但若出現競爭性要約，要約人保留調高要約價格的權利」。隨後第三方競爭對手正式宣布了更高作價的要約。原要約人在法規上的狀態為：",
+    "options": {
+      "A": "原要約人依然被絕對鎖死，嚴禁調高價格",
+      "B": "由於原要約人在發布聲明時已明確預先保留了在出現競爭對手時調高價格的權利（Reserved the right in a competitive situation），原要約人獲准合法調高其收購要約價格以進行競價",
+      "C": "原要約人必須立即自願退出收購",
+      "D": "原要約人必須向第三方競爭對手支付賠償金"
+    },
+    "answer": "B",
+    "explanation": "指南 3-10 頁 3.11(c) 節及 Takeovers Code Rule 18.1 指明：要約人若在發表最終聲明時已明確且無保留地保留了在特定情況（如出現競爭要約）下加價的權利，在該預設觸發事件發生時，要約人可合法解除束縛並宣布調高要約價。",
+    "reference": "Takeovers Code Rule 18.1; HKSI Paper 5 Guide Topic 3 Section 3.11"
+  },
+  {
+    "id": "T3-197",
+    "topic": "Topic 3",
+    "subtopic": "Whitewash Waiver - Creeping Limit Trigger within 12 Months",
+    "difficulty": "Level 3",
+    "question": "某控股股東透過清洗豁免注資後持有上市公司 38% 股份。8 個月後，該大股東在市場增持了 2.5% 股份（使持股增至 40.5%）。該大股東的法律後果為：",
+    "options": {
+      "A": "完全合規，因為增持後的總持股未超過 50%",
+      "B": "直接突破了 12 個月內 2% 的爬行率上限（增持達 2.5%），該大股東必須立即向上市公司全體其他股東發出強制現金全面收購要約",
+      "C": "大股東可向聯交所補交 10 萬港元手續費以消除責任",
+      "D": "超額的 0.5% 股份自動歸屬給香港證監會"
+    },
+    "answer": "B",
+    "explanation": "指南 3-26 頁 4.38 節及 Schedule VI para 4 明確指明：清洗豁免完成後，大股東在 12 個月內的增持受 2% 爬行率嚴格規管；增持 2.5% 直接觸犯 Rule 26.1(b)，即時觸發強制全面要約義務。",
+    "reference": "Takeovers Code Rule 26.1(b), Schedule VI; HKSI Paper 5 Guide Topic 3 Section 4.38"
+  },
+  {
+    "id": "T3-198",
+    "topic": "Topic 3",
+    "subtopic": "Takeovers Code Enforcement - Civil Court Orders Injunctions (s. 213 SFO)",
+    "difficulty": "Level 3",
+    "question": "若某人嚴重違反《收購守則》的強制全面要約義務且拒不改正，證監會除提請收購委員會施加紀律制裁外，還可依據《證券及期貨條例》第 213 條向法院申請何種命令？",
+    "options": {
+      "A": "向高等法院申請禁制令，禁止該違規人士行使其在受要約公司的投票權，或命令限制其股份轉讓以保障公眾投資者利益",
+      "B": "申請沒收受要約公司全部實體辦公大樓",
+      "C": "命令香港警務處強制代為行使投票權",
+      "D": "命令該上市公司全體員工即刻停工"
+    },
+    "answer": "A",
+    "explanation": "指南 3-32 頁 5.2 節及 SFO s. 213 指明：證監會有權向原訟法庭申請各類法定禁制令及資產凍結令，包括禁止違規當事人行使表決權或禁止處置股份，以司法強制力配合收購守則之落實。",
+    "reference": "SFO s.213; HKSI Paper 5 Guide Topic 3 Section 5.2"
+  },
+  {
+    "id": "T3-199",
+    "topic": "Topic 3",
+    "subtopic": "Offer Timetable - Post-Closing Listing Status Restoration",
+    "difficulty": "Level 2",
+    "question": "全面收購要約截止後，若要約人並未尋求將受要約公司私有化，但因大量接納導致受要約公司的公眾持股量跌至 15%（低於法定 25% 門檻）。要約人及受要約公司董事會負有何種法定責任？",
+    "options": {
+      "A": "可無限期維持 15% 公眾持股量",
+      "B": "要約人及受要約公司董事會必須承諾採取適當步驟（如向獨立第三方配售現股或由發行人發行新股），以在合理期限內恢復規定的最低公眾持股量（Restore public float），防止股票長期停牌",
+      "C": "受要約公司自動被聯交所強制清盤",
+      "D": "全體接納股東必須退回全部收購款"
+    },
+    "answer": "B",
+    "explanation": "指南 2-47 頁 9.4(c) 節、3-32 頁 5.1 節及 MBLR 8.08 指明：要約結束後若公眾持股量不足且不私有化，要約人及董事會必須向聯交所作出承諾，在指定時間內採取積極行動（如配售新股或減持）恢復足夠的公眾流通量。",
+    "reference": "MBLR 8.08; HKSI Paper 5 Guide Topic 2 Section 9.4; Topic 3 Section 5.1"
+  },
+  {
+    "id": "T3-200",
+    "topic": "Topic 3",
+    "subtopic": "Conclusion of Topic 3 - The Ultimate Spirit of Fair Treatment",
+    "difficulty": "Level 2",
+    "question": "綜合香港《收購守則》與《股份回購守則》的全部法規條文與一般原則，在處理任何涉及上市公司控制權變更的交易時，貫穿整個制度設計的最根本指導哲學是：",
+    "options": {
+      "A": "無條件保護現任管理層的長期職位安全",
+      "B": "確保在公司控制權易手時，全體股東（尤其是公眾小股東）均享有同等平等的待遇、獲得充足且未被扣留的資訊與時間進行知情評估，並享有以公平合理價格出售其持股退出的法定權利",
+      "C": "追求以最低的收購成本實現強制私有化",
+      "D": "嚴格禁止任何形式的二級市場收購兼併活動"
+    },
+    "answer": "B",
+    "explanation": "指南 3-3 頁 1.2 節、3-6 頁 2.7 節（十項一般原則）及全局考點總結：香港收購守則體系的終極核心在於「股東平等待遇」（Equality of treatment），確保控制權溢價由全體股東共享，杜絕管理層或大股東藉機苛待少數股東。",
+    "reference": "Takeovers Code General Principles; HKSI Paper 5 Guide Topic 3 Summary"
+  }
+]

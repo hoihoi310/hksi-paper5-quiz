@@ -1,6 +1,6 @@
 # HKSI Paper 5 Quiz
 
-HKSI Paper 5 練習網站，使用 GitHub Pages 發布。題目在瀏覽器直接載入，朋友打開網站連結即可作答；目前題庫包含 100 題。
+HKSI Paper 5 練習網站，使用 GitHub Pages 發布。題目在瀏覽器直接載入，朋友打開網站連結即可作答；目前題庫包含 1,000 題。
 
 ## 本機模式
 
@@ -27,4 +27,12 @@ HKSI Paper 5 練習網站，使用 GitHub Pages 發布。題目在瀏覽器直�
 
 ## 題庫
 
-`database/` 內保存兩份原始 JSON 題庫，網站目前直接內嵌合併後的 100 題，以便 GitHub Pages 靜態發布。
+`database/` 內保存原始 JSON 題庫，網站直接內嵌合併後的題目，以便 GitHub Pages 靜態發布。
+
+題庫格式化及嵌入 HTML 的指令：
+
+```text
+node scripts/build-question-bank.mjs
+```
+
+腳本會讀取 `database/*.json`，支援舊有陣列格式及帶有 `questions`、選項物件的新格式，檢查題目 ID、答案及 A-D 選項，然後更新 `hksi_paper5_quiz_supabase.html`。新增或修改題目後重新執行一次即可。
