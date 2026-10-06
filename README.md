@@ -6,6 +6,10 @@ HKSI Paper 5 練習網站，使用 GitHub Pages 發布。題目在瀏覽器直�
 
 下載或 clone 此 repo，然後直接用瀏覽器開啟 `hksi_paper5_quiz_supabase.html`。完成紀錄和錯題會保存在該瀏覽器的 local storage，不需要登入或 Supabase。
 
+## 前端簡繁顯示
+
+頁面右上角的「顯示語言」可以切換繁體中文及簡體中文。轉換只發生在瀏覽器顯示層，使用 OpenCC 將題目、選項、解析、題庫清單及介面文字即時轉換；`database/` 原始 JSON、題目 ID、答案及 Supabase 紀錄格式都不需要重建或修改。選擇會保存在目前瀏覽器，下次開啟會沿用。
+
 ## 發布到 GitHub Pages
 
 1. 將此專案推送到 GitHub 上的 repo。
