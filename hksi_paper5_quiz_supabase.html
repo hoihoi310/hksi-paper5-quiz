@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>HKSI Paper 5 線上練習｜多人版</title>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-<script src="https://cdn.jsdelivr.net/npm/opencc-js@1.1.1/dist/umd/full.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/opencc-js@1.4.2/dist/umd/full.js"></script>
 <script src="supabase/config.js"></script>
 <style>
 :root{--bg:#f5f7fb;--card:#fff;--text:#172033;--muted:#667085;--line:#e4e7ec;--accent:#2457d6;--good:#067647;--bad:#b42318}
@@ -90,7 +90,7 @@ button{border:0;border-radius:10px;padding:12px 18px;font-size:15px;font-weight:
 </section>
 
 <section id="quiz" class="card hidden">
-  <div class="top"><div><b id="counter"></b><div class="small" id="topicline"></div></div><span class="pill" id="diff"></span></div>
+  <div class="top"><div><b id="counter"></b><div class="small" id="topicline"></div></div><div class="signed-in"><div class="language-control"><label for="languageSelectQuiz">顯示語言</label><select id="languageSelectQuiz" onchange="setLanguage(this.value)" aria-label="答題頁顯示語言"><option value="zh-Hant">繁體中文</option><option value="zh-Hans">簡體中文</option></select></div><span class="pill" id="diff"></span></div></div>
   <div class="bar"><i id="progress"></i></div><div id="question"></div>
   <div class="actions"><button class="secondary" id="submit" onclick="submitAnswer()">提交答案</button><button class="ghost" id="skipBtn" onclick="skipQuestion()">略過</button><button class="ghost" id="redrawBtn" onclick="redrawQuestion()">重新放回再抽</button><button class="ghost hidden" id="next" onclick="nextQuestion()">下一題</button><button class="mark-btn" id="markBtn" onclick="toggleCurrentMark()">☆ 標記題目</button><button class="ghost" onclick="pauseQuiz()">暫停並返回主畫面</button></div>
   <div id="fb"></div>
@@ -120,6 +120,16 @@ const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&
 let displayLanguage=localStorage.getItem(LANGUAGE_KEY)==='zh-Hans'?'zh-Hans':'zh-Hant';
 let simplifiedConverter=null;
 const languageTextSources=new WeakMap(),languageAttributeSources=new WeakMap();
+function languageStorageKey(userId=currentUser?.id){return userId?`${LANGUAGE_KEY}_${userId}`:LANGUAGE_KEY}
+function loadUserLanguagePreference(){
+  if(!currentUser)return;
+  const key=languageStorageKey();
+  const saved=localStorage.getItem(key);
+  if(saved==='zh-Hans'||saved==='zh-Hant')displayLanguage=saved;
+  else localStorage.setItem(key,displayLanguage);
+  updateLanguageUI();
+  translatePage();
+}
 function convertForDisplay(value){
   const text=String(value??'');
   if(displayLanguage==='zh-Hant'||!simplifiedConverter)return text;
@@ -144,14 +154,14 @@ function translatePage(){
   });
 }
 function updateLanguageUI(){
-  const select=$('languageSelect');
-  if(select)select.value=displayLanguage;
+  ['languageSelect','languageSelectQuiz'].forEach(id=>{const select=$(id);if(select)select.value=displayLanguage});
   document.documentElement.lang=displayLanguage;
   document.title=displayLanguage==='zh-Hans'?'HKSI Paper 5 在线练习｜多人版':'HKSI Paper 5 線上練習｜多人版';
 }
 function setLanguage(language){
   displayLanguage=language==='zh-Hans'?'zh-Hans':'zh-Hant';
-  localStorage.setItem(LANGUAGE_KEY,displayLanguage);
+  localStorage.setItem(languageStorageKey(),displayLanguage);
+  if(currentUser)localStorage.setItem(LANGUAGE_KEY,displayLanguage);
   updateLanguageUI();
   translatePage();
 }
@@ -191,8 +201,8 @@ function localWrongIds(){return getLocalWrongIds()}
 
 async function initAuth(){
   if(!SUPABASE_ENABLED){$('authBox').classList.remove('hidden');$('authStatus').classList.remove('hidden');$('authStatus').textContent='目前尚未填入 Supabase 設定；網站仍可使用本機模式。';$('recordModeText').textContent='本機模式：完成紀錄及錯題只保存於目前瀏覽器。';translatePage();return}
- const {data:{session}}=await sb.auth.getSession(); currentUser=session?.user||null; updateAuthUI(); await syncWrongFromCloud(); await syncMarkedFromCloud(); await loadRecords(); renderLibrary();
- sb.auth.onAuthStateChange(async (_event,session)=>{currentUser=session?.user||null;updateAuthUI();if(currentUser){await ensureProfile();await syncWrongFromCloud();await syncMarkedFromCloud();await loadRecords();renderLibrary()}});
+ const {data:{session}}=await sb.auth.getSession(); currentUser=session?.user||null; loadUserLanguagePreference(); updateAuthUI(); await syncWrongFromCloud(); await syncMarkedFromCloud(); await loadRecords(); renderLibrary();
+ sb.auth.onAuthStateChange(async (_event,session)=>{currentUser=session?.user||null;loadUserLanguagePreference();updateAuthUI();if(currentUser){await ensureProfile();await syncWrongFromCloud();await syncMarkedFromCloud();await loadRecords();renderLibrary()}});
 }
 function updateAuthUI(){
  const logged=!!currentUser;
